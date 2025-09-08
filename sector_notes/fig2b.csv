@@ -1,0 +1,287 @@
+Country_code,Sector,d2014_2024,grid,d2014_2023
+RUS,Broadcasting,122.79832458496094,grid2024B,
+CZE,Broadcasting,32.23731231689453,grid2024B,
+NZL,Broadcasting,26.506019592285156,grid2024B,
+KOR,Broadcasting,-9.793821334838867,grid2024B,
+PRT,Broadcasting,-13.588632583618164,grid2024B,
+IDN,Broadcasting,-13.803133964538574,grid2024B,
+THA,Broadcasting,-17.449291229248047,grid2024B,
+RUS,Motion pictures,50.64884567260742,grid2024B,
+FIN,Motion pictures,45.896881103515625,grid2024B,
+CZE,Motion pictures,37.387386322021484,grid2024B,
+PRT,Motion pictures,-15.772866249084473,grid2024B,
+THA,Motion pictures,-17.579326629638672,grid2024B,
+JPN,Motion pictures,-17.997465133666992,grid2024B,
+IDN,Motion pictures,-50.68999099731445,grid2024B,
+RUS,Sound recording,80.77835083007812,grid2024B,
+POL,Sound recording,49.43397903442383,grid2024B,
+CZE,Sound recording,33.33334732055664,grid2024B,
+THA,Sound recording,-15.280892372131348,grid2024B,
+JPN,Sound recording,-20.683452606201172,grid2024B,
+BRA,Sound recording,-21.200830459594727,grid2024B,
+IDN,Sound recording,-57.097328186035156,grid2024B,
+LTU,Construction,37.334373474121094,grid2024B,
+RUS,Construction,33.133453369140625,grid2024B,
+DNK,Construction,31.743518829345703,grid2024B,
+KOR,Construction,-17.184940338134766,grid2024B,
+BRA,Construction,-22.436620712280273,grid2024B,
+CHN,Construction,-27.739532470703125,grid2024B,
+PRT,Construction,-45.65824508666992,grid2024B,
+RUS,Courier services,46.123260498046875,grid2024B,
+NLD,Courier services,34.44075012207031,grid2024B,
+HUN,Courier services,24.721559524536133,grid2024B,
+ISL,Courier services,-36.45071792602539,grid2024B,
+NOR,Courier services,-39.471221923828125,grid2024B,
+IND,Courier services,-50.88238525390625,grid2024B,
+KAZ,Courier services,-71.33106231689453,grid2024B,
+POL,Computer services,61.743919372558594,grid2024B,
+RUS,Computer services,50.54594421386719,grid2024B,
+CZE,Computer services,49.00540542602539,grid2024B,
+IDN,Computer services,-17.671611785888672,grid2024B,
+JPN,Computer services,-17.764015197753906,grid2024B,
+EST,Computer services,-22.684654235839844,grid2024B,
+BRA,Computer services,-27.52849769592285,grid2024B,
+RUS,Distribution services,43.91963577270508,grid2024B,
+POL,Distribution services,31.390840530395508,grid2024B,
+ZAF,Distribution services,24.591594696044922,grid2024B,
+CHN,Distribution services,-19.238235473632812,grid2024B,
+PRT,Distribution services,-21.938772201538086,grid2024B,
+BRA,Distribution services,-29.445953369140625,grid2024B,
+IDN,Distribution services,-47.10444641113281,grid2024B,
+RUS,Commercial banking,73.83419036865234,grid2024B,
+ITA,Commercial banking,56.35358428955078,grid2024B,
+ESP,Commercial banking,41.26985168457031,grid2024B,
+CRI,Commercial banking,-16.60231590270996,grid2024B,
+GRC,Commercial banking,-17.42856788635254,grid2024B,
+KOR,Commercial banking,-17.819162368774414,grid2024B,
+BRA,Commercial banking,-32.0,grid2024B,
+RUS,Insurance,21.351774215698242,grid2024B,
+LTU,Insurance,13.269716262817383,grid2024B,
+CZE,Insurance,8.863250732421875,grid2024B,
+NLD,Insurance,-22.766254425048828,grid2024B,
+EST,Insurance,-23.46771240234375,grid2024B,
+ZAF,Insurance,-26.818920135498047,grid2024B,
+CHN,Insurance,-29.306398391723633,grid2024B,
+POL,Logistics cargo-handling,53.0526123046875,grid2024B,
+LTU,Logistics cargo-handling,44.262306213378906,grid2024B,
+CZE,Logistics cargo-handling,22.784812927246094,grid2024B,
+ESP,Logistics cargo-handling,-20.979021072387695,grid2024B,
+BRA,Logistics cargo-handling,-24.949424743652344,grid2024B,
+IDN,Logistics cargo-handling,-29.16029930114746,grid2024B,
+CHN,Logistics cargo-handling,-41.49407958984375,grid2024B,
+RUS,Logistics customs brokerage,62.1457633972168,grid2024B,
+POL,Logistics customs brokerage,40.2439079284668,grid2024B,
+LTU,Logistics customs brokerage,26.43442726135254,grid2024B,
+CHL,Logistics customs brokerage,-21.55512237548828,grid2024B,
+IDN,Logistics customs brokerage,-21.928329467773438,grid2024B,
+BRA,Logistics customs brokerage,-29.473682403564453,grid2024B,
+JPN,Logistics customs brokerage,-34.295413970947266,grid2024B,
+POL,Logistics freight forwarding,54.878047943115234,grid2024B,
+RUS,Logistics freight forwarding,45.91836929321289,grid2024B,
+COL,Logistics freight forwarding,35.89743423461914,grid2024B,
+PRT,Logistics freight forwarding,-25.850332260131836,grid2024B,
+IDN,Logistics freight forwarding,-32.926822662353516,grid2024B,
+BRA,Logistics freight forwarding,-34.52914810180664,grid2024B,
+PHL,Logistics freight forwarding,-46.483177185058594,grid2024B,
+POL,Logistics storage and warehouse,53.60919189453125,grid2024B,
+CZE,Logistics storage and warehouse,53.41389465332031,grid2024B,
+LTU,Logistics storage and warehouse,48.939453125,grid2024B,
+CHL,Logistics storage and warehouse,-18.33024024963379,grid2024B,
+KOR,Logistics storage and warehouse,-19.26966094970703,grid2024B,
+BRA,Logistics storage and warehouse,-23.42161750793457,grid2024B,
+IDN,Logistics storage and warehouse,-28.29110336303711,grid2024B,
+CHL,Accounting services,35.46512222290039,grid2024B,
+RUS,Accounting services,31.196578979492188,grid2024B,
+DNK,Accounting services,19.92156219482422,grid2024B,
+BRA,Accounting services,-8.917506217956543,grid2024B,
+JPN,Accounting services,-9.366133689880371,grid2024B,
+BEL,Accounting services,-10.070258140563965,grid2024B,
+PRT,Accounting services,-30.828081130981445,grid2024B,
+DNK,Architecture services,56.11510467529297,grid2024B,
+RUS,Architecture services,38.14432907104492,grid2024B,
+CZE,Architecture services,35.62499237060547,grid2024B,
+SGP,Architecture services,-32.00992965698242,grid2024B,
+CHN,Architecture services,-34.75991439819336,grid2024B,
+JPN,Architecture services,-39.82300567626953,grid2024B,
+PRT,Architecture services,-47.257774353027344,grid2024B,
+RUS,Engineering services,41.430503845214844,grid2024B,
+DNK,Engineering services,35.483863830566406,grid2024B,
+LTU,Engineering services,30.082992553710938,grid2024B,
+JPN,Engineering services,-20.990097045898438,grid2024B,
+BRA,Engineering services,-23.027814865112305,grid2024B,
+IDN,Engineering services,-23.323884963989258,grid2024B,
+CHN,Engineering services,-29.91187286376953,grid2024B,
+RUS,Legal services,59.08833694458008,grid2024B,
+AUT,Legal services,27.22151756286621,grid2024B,
+CHL,Legal services,20.988807678222656,grid2024B,
+AUS,Legal services,-8.46468448638916,grid2024B,
+CHN,Legal services,-8.842288970947266,grid2024B,
+PRT,Legal services,-65.1219482421875,grid2024B,
+LUX,Legal services,-79.86690521240234,grid2024B,
+DNK,Telecommunication,44.138221740722656,grid2024B,
+LTU,Telecommunication,40.26008987426758,grid2024B,
+POL,Telecommunication,39.66460418701172,grid2024B,
+CZE,Telecommunication,-17.933917999267578,grid2024B,
+MYS,Telecommunication,-20.396995544433594,grid2024B,
+BRA,Telecommunication,-20.58576774597168,grid2024B,
+MEX,Telecommunication,-27.362470626831055,grid2024B,
+RUS,Air transport,12.598750114440918,grid2024B,
+NZL,Air transport,7.3262152671813965,grid2024B,
+POL,Air transport,7.130380630493164,grid2024B,
+IND,Air transport,-20.27690887451172,grid2024B,
+GBR,Air transport,-46.9273681640625,grid2024B,
+PHL,Air transport,-50.1666145324707,grid2024B,
+BRA,Air transport,-62.862457275390625,grid2024B,
+RUS,Maritime transport,33.5042724609375,grid2024B,
+POL,Maritime transport,30.721654891967773,grid2024B,
+CHL,Maritime transport,20.26021957397461,grid2024B,
+BRA,Maritime transport,-24.074066162109375,grid2024B,
+GBR,Maritime transport,-25.769237518310547,grid2024B,
+PHL,Maritime transport,-32.58269119262695,grid2024B,
+CHN,Maritime transport,-39.02437973022461,grid2024B,
+LTU,Rail freight transport,19.956607818603516,grid2024B,
+NZL,Rail freight transport,18.15008544921875,grid2024B,
+TUR,Rail freight transport,17.42957878112793,grid2024B,
+IDN,Rail freight transport,-16.4383544921875,grid2024B,
+BRA,Rail freight transport,-19.682153701782227,grid2024B,
+PRT,Rail freight transport,-21.88842010498047,grid2024B,
+CHN,Rail freight transport,-30.539499282836914,grid2024B,
+RUS,Road freight transport,53.206512451171875,grid2024B,
+ZAF,Road freight transport,36.22393035888672,grid2024B,
+CZE,Road freight transport,24.34456443786621,grid2024B,
+THA,Road freight transport,-15.72144603729248,grid2024B,
+IDN,Road freight transport,-18.52146339416504,grid2024B,
+CHN,Road freight transport,-24.724868774414062,grid2024B,
+PHL,Road freight transport,-46.1334342956543,grid2024B,
+RUS,Broadcasting,,grid2023B,118.41403198242188
+CZE,Broadcasting,,grid2023B,32.23731231689453
+NZL,Broadcasting,,grid2023B,26.506019592285156
+IDN,Broadcasting,,grid2023B,-13.803133964538574
+DNK,Broadcasting,,grid2023B,-16.270029067993164
+THA,Broadcasting,,grid2023B,-17.449291229248047
+RUS,Motion pictures,,grid2023B,46.165950775146484
+FIN,Motion pictures,,grid2023B,45.896881103515625
+CZE,Motion pictures,,grid2023B,37.387386322021484
+AUS,Motion pictures,,grid2023B,-17.066667556762695
+THA,Motion pictures,,grid2023B,-17.579326629638672
+IDN,Motion pictures,,grid2023B,-50.68999099731445
+RUS,Sound recording,,grid2023B,76.88656616210938
+POL,Sound recording,,grid2023B,49.43397903442383
+HUN,Sound recording,,grid2023B,35.652183532714844
+JPN,Sound recording,,grid2023B,-17.99687957763672
+BRA,Sound recording,,grid2023B,-21.200830459594727
+IDN,Sound recording,,grid2023B,-57.097328186035156
+HUN,Construction,,grid2023B,49.37839126586914
+LTU,Construction,,grid2023B,37.334373474121094
+CHL,Construction,,grid2023B,29.80699920654297
+JPN,Construction,,grid2023B,-19.645610809326172
+BRA,Construction,,grid2023B,-22.436620712280273
+CHN,Construction,,grid2023B,-23.042036056518555
+RUS,Courier services,,grid2023B,44.54815673828125
+HUN,Courier services,,grid2023B,39.256412506103516
+CZE,Courier services,,grid2023B,19.096599578857422
+ISL,Courier services,,grid2023B,-36.98194122314453
+NOR,Courier services,,grid2023B,-40.05522537231445
+KAZ,Courier services,,grid2023B,-71.33106231689453
+POL,Computer services,,grid2023B,61.743919372558594
+HUN,Computer services,,grid2023B,61.57639694213867
+CZE,Computer services,,grid2023B,49.00540542602539
+EST,Computer services,,grid2023B,-22.684654235839844
+PRT,Computer services,,grid2023B,-26.628591537475586
+BRA,Computer services,,grid2023B,-27.52849769592285
+RUS,Distribution services,,grid2023B,40.45665740966797
+POL,Distribution services,,grid2023B,31.390840530395508
+HUN,Distribution services,,grid2023B,31.205078125
+PRT,Distribution services,,grid2023B,-21.938772201538086
+BRA,Distribution services,,grid2023B,-29.445953369140625
+IDN,Distribution services,,grid2023B,-45.93366622924805
+RUS,Commercial banking,,grid2023B,66.06216430664062
+ITA,Commercial banking,,grid2023B,56.35358428955078
+NZL,Commercial banking,,grid2023B,28.57141876220703
+CRI,Commercial banking,,grid2023B,-16.60231590270996
+KOR,Commercial banking,,grid2023B,-17.819162368774414
+BRA,Commercial banking,,grid2023B,-32.0
+RUS,Insurance,,grid2023B,19.734825134277344
+LTU,Insurance,,grid2023B,13.269716262817383
+CZE,Insurance,,grid2023B,8.863250732421875
+EST,Insurance,,grid2023B,-23.46771240234375
+ZAF,Insurance,,grid2023B,-26.818920135498047
+CHN,Insurance,,grid2023B,-28.711593627929688
+POL,Logistics cargo-handling,,grid2023B,53.0526123046875
+HUN,Logistics cargo-handling,,grid2023B,51.11875915527344
+LTU,Logistics cargo-handling,,grid2023B,44.262306213378906
+JPN,Logistics cargo-handling,,grid2023B,-25.91092872619629
+IDN,Logistics cargo-handling,,grid2023B,-27.888036727905273
+CHN,Logistics cargo-handling,,grid2023B,-36.316566467285156
+RUS,Logistics customs brokerage,,grid2023B,57.2874641418457
+POL,Logistics customs brokerage,,grid2023B,40.2439079284668
+HUN,Logistics customs brokerage,,grid2023B,34.92366409301758
+CHL,Logistics customs brokerage,,grid2023B,-21.55512237548828
+BRA,Logistics customs brokerage,,grid2023B,-29.473682403564453
+JPN,Logistics customs brokerage,,grid2023B,-36.24382019042969
+HUN,Logistics freight forwarding,,grid2023B,55.55554962158203
+POL,Logistics freight forwarding,,grid2023B,54.878047943115234
+RUS,Logistics freight forwarding,,grid2023B,40.306114196777344
+PRT,Logistics freight forwarding,,grid2023B,-25.850332260131836
+IDN,Logistics freight forwarding,,grid2023B,-29.573165893554688
+BRA,Logistics freight forwarding,,grid2023B,-34.52914810180664
+POL,Logistics storage and warehouse,,grid2023B,53.60919189453125
+CZE,Logistics storage and warehouse,,grid2023B,53.41389465332031
+LTU,Logistics storage and warehouse,,grid2023B,48.939453125
+JPN,Logistics storage and warehouse,,grid2023B,-21.732376098632812
+BRA,Logistics storage and warehouse,,grid2023B,-23.42161750793457
+IDN,Logistics storage and warehouse,,grid2023B,-25.64143943786621
+CHL,Accounting services,,grid2023B,35.46512222290039
+HUN,Accounting services,,grid2023B,27.76327133178711
+RUS,Accounting services,,grid2023B,27.724348068237305
+BRA,Accounting services,,grid2023B,-8.917506217956543
+AUS,Accounting services,,grid2023B,-10.78037166595459
+PRT,Accounting services,,grid2023B,-13.272007942199707
+CZE,Architecture services,,grid2023B,35.625003814697266
+RUS,Architecture services,,grid2023B,32.560142517089844
+DEU,Architecture services,,grid2023B,30.052730560302734
+CHN,Architecture services,,grid2023B,-25.36534309387207
+SGP,Architecture services,,grid2023B,-31.578943252563477
+PRT,Architecture services,,grid2023B,-47.25777053833008
+HUN,Engineering services,,grid2023B,36.37010955810547
+RUS,Engineering services,,grid2023B,35.13270950317383
+LTU,Engineering services,,grid2023B,30.082992553710938
+KOR,Engineering services,,grid2023B,-19.72223472595215
+BRA,Engineering services,,grid2023B,-23.027814865112305
+CHN,Engineering services,,grid2023B,-24.41680145263672
+RUS,Legal services,,grid2023B,55.09285354614258
+AUT,Legal services,,grid2023B,27.22151756286621
+CHL,Legal services,,grid2023B,20.988807678222656
+SGP,Legal services,,grid2023B,-11.584549903869629
+AUS,Legal services,,grid2023B,-12.60946273803711
+LUX,Legal services,,grid2023B,-79.86690521240234
+LTU,Telecommunication,,grid2023B,43.49494552612305
+POL,Telecommunication,,grid2023B,39.66460418701172
+DNK,Telecommunication,,grid2023B,35.4013557434082
+MYS,Telecommunication,,grid2023B,-20.396995544433594
+BRA,Telecommunication,,grid2023B,-20.58576774597168
+MEX,Telecommunication,,grid2023B,-27.362470626831055
+RUS,Air transport,,grid2023B,11.703837394714355
+NZL,Air transport,,grid2023B,7.3262152671813965
+POL,Air transport,,grid2023B,7.130380630493164
+IND,Air transport,,grid2023B,-20.27690887451172
+GBR,Air transport,,grid2023B,-46.9273681640625
+BRA,Air transport,,grid2023B,-62.862457275390625
+RUS,Maritime transport,,grid2023B,32.56410217285156
+POL,Maritime transport,,grid2023B,30.721654891967773
+CHL,Maritime transport,,grid2023B,20.26021957397461
+BRA,Maritime transport,,grid2023B,-23.1053524017334
+GBR,Maritime transport,,grid2023B,-25.769237518310547
+CHN,Maritime transport,,grid2023B,-34.61537170410156
+HUN,Rail freight transport,,grid2023B,32.42677688598633
+LTU,Rail freight transport,,grid2023B,19.956607818603516
+NZL,Rail freight transport,,grid2023B,18.15008544921875
+BRA,Rail freight transport,,grid2023B,-19.682153701782227
+PRT,Rail freight transport,,grid2023B,-21.88842010498047
+CHN,Rail freight transport,,grid2023B,-25.52986717224121
+RUS,Road freight transport,,grid2023B,46.793460845947266
+ZAF,Road freight transport,,grid2023B,36.22393035888672
+HUN,Road freight transport,,grid2023B,29.838083267211914
+THA,Road freight transport,,grid2023B,-15.72144603729248
+CHN,Road freight transport,,grid2023B,-16.94791030883789
+AUS,Road freight transport,,grid2023B,-23.092788696289062
