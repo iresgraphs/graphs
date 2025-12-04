@@ -1317,6 +1317,32 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Construction","ZAF",28.176,0,0,"STRI2024",,,
 "Architecture services","ZAF",17.20311,0,0,"STRI2024",,,
 "Engineering services","ZAF",14.90911,0,0,"STRI2024",,,
+"Digital network","AUS",,,,"STRI2025",,,
+"Computer services","AUS",,,,"STRI2025",12.44596,0,0
+"Telecommunication","AUS",,,,"STRI2025",4.416353,0,0
+"Broadcasting","AUS",,,,"STRI2025",-1.73128,0,0
+"Motion pictures","AUS",,,,"STRI2025",17.53334,0,0
+"Sound recording","AUS",,,,"STRI2025",25,0,0
+"Logistics and related services","AUS",,,,"STRI2025",,,
+"Air transport","AUS",,,,"STRI2025",6.856076,0,0
+"Maritime transport","AUS",,,,"STRI2025",6.825947,0,0
+"Road freight transport","AUS",,,,"STRI2025",12.88659,0,0
+"Rail freight transport","AUS",,,,"STRI2025",1.018319,0,0
+"Courier services","AUS",,,,"STRI2025",2.498989,0,0
+"Distribution services","AUS",,,,"STRI2025",3.898412,0,0
+"Cargo-handling","AUS",,,,"STRI2025",9.779611,0,0
+"Storage and warehouse","AUS",,,,"STRI2025",4.324002,0,0
+"Freight-forwarding","AUS",,,,"STRI2025",-1.785713,0,0
+"Customs brokerage","AUS",,,,"STRI2025",2.592587,0,0
+"Market bridging and supporting services","AUS",,,,"STRI2025",,,
+"Legal services","AUS",,,,"STRI2025",2.918856,0,0
+"Accounting services","AUS",,,,"STRI2025",12.55027,0,0
+"Commercial banking","AUS",,,,"STRI2025",-.3610114,0,0
+"Insurance","AUS",,,,"STRI2025",-.2310199,-1.45736,0
+"Physical infrastructure services","AUS",,,,"STRI2025",,,
+"Construction","AUS",,,,"STRI2025",18.58388,6.463908,0
+"Architecture services","AUS",,,,"STRI2025",13.20575,0,0
+"Engineering services","AUS",,,,"STRI2025",8.604481,0,0
 "Digital network","AUT",,,,"STRI2025",,,
 "Computer services","AUT",,,,"STRI2025",0,7.55611,0
 "Telecommunication","AUT",,,,"STRI2025",7.161506,21.29389,0
@@ -1342,6 +1368,84 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Construction","AUT",,,,"STRI2025",0,0,0
 "Architecture services","AUT",,,,"STRI2025",0,0,0
 "Engineering services","AUT",,,,"STRI2025",0,0,0
+"Digital network","BEL",,,,"STRI2025",,,
+"Computer services","BEL",,,,"STRI2025",-9.869844,12.50174,0
+"Telecommunication","BEL",,,,"STRI2025",-5.905045,25.49348,0
+"Broadcasting","BEL",,,,"STRI2025",-4.823285,9.611177,0
+"Motion pictures","BEL",,,,"STRI2025",-13.6226,16.1799,0
+"Sound recording","BEL",,,,"STRI2025",-15.36246,15.59841,0
+"Logistics and related services","BEL",,,,"STRI2025",,,
+"Air transport","BEL",,,,"STRI2025",-4.392673,1.148625,0
+"Maritime transport","BEL",,,,"STRI2025",-7.723036,10.96682,0
+"Road freight transport","BEL",,,,"STRI2025",-8.845489,11.53119,0
+"Rail freight transport","BEL",,,,"STRI2025",-20.05772,12.81588,0
+"Courier services","BEL",,,,"STRI2025",-9.663277,15.22258,0
+"Distribution services","BEL",,,,"STRI2025",-6.265129,3.341941,0
+"Cargo-handling","BEL",,,,"STRI2025",-10.52632,14.64331,0
+"Storage and warehouse","BEL",,,,"STRI2025",-.1378029,10.67793,0
+"Freight-forwarding","BEL",,,,"STRI2025",-3.428568,8.875731,0
+"Customs brokerage","BEL",,,,"STRI2025",-7.951811,14.52879,0
+"Market bridging and supporting services","BEL",,,,"STRI2025",,,
+"Legal services","BEL",,,,"STRI2025",-5.94422,-.2430693,0
+"Accounting services","BEL",,,,"STRI2025",-5.8548,-4.477613,0
+"Commercial banking","BEL",,,,"STRI2025",-4.878048,10.62271,0
+"Insurance","BEL",,,,"STRI2025",-5.420693,9.22004,0
+"Physical infrastructure services","BEL",,,,"STRI2025",,,
+"Construction","BEL",,,,"STRI2025",-15.19879,10.2176,0
+"Architecture services","BEL",,,,"STRI2025",-9.621452,9.249567,0
+"Engineering services","BEL",,,,"STRI2025",-8.210168,10.79307,0
+"Digital network","BRA",,,,"STRI2025",,,
+"Computer services","BRA",,,,"STRI2025",-10.37074,-13.15134,0
+"Telecommunication","BRA",,,,"STRI2025",-8.784556,-9.801324,0
+"Broadcasting","BRA",,,,"STRI2025",2.076178,-7.605225,0
+"Motion pictures","BRA",,,,"STRI2025",-.7629617,-9.013791,0
+"Sound recording","BRA",,,,"STRI2025",-5.548659,-12.97676,0
+"Logistics and related services","BRA",,,,"STRI2025",,,
+"Air transport","BRA",,,,"STRI2025",-53.03319,-19.11048,0
+"Maritime transport","BRA",,,,"STRI2025",-6.437384,-17.81339,0
+"Road freight transport","BRA",,,,"STRI2025",14.02818,-9.288536,0
+"Rail freight transport","BRA",,,,"STRI2025",-1.344746,-16.72863,0
+"Courier services","BRA",,,,"STRI2025",1.07711,-10.58962,0
+"Distribution services","BRA",,,,"STRI2025",-5.473353,-21.96037,0
+"Cargo-handling","BRA",,,,"STRI2025",-7.754554,-16.81286,0
+"Storage and warehouse","BRA",,,,"STRI2025",-9.988708,-11.14279,0
+"Freight-forwarding","BRA",,,,"STRI2025",-17.93722,-14.20765,0
+"Customs brokerage","BRA",,,,"STRI2025",-6.315775,-20.22473,0
+"Market bridging and supporting services","BRA",,,,"STRI2025",,,
+"Legal services","BRA",,,,"STRI2025",1.804557,-7.990177,0
+"Accounting services","BRA",,,,"STRI2025",-5.436345,-.4034282,0
+"Commercial banking","BRA",,,,"STRI2025",-.7999908,-30.1613,0
+"Insurance","BRA",,,,"STRI2025",-.5128878,-12.345,-5.754253
+"Physical infrastructure services","BRA",,,,"STRI2025",,,
+"Construction","BRA",,,,"STRI2025",-11.25571,-5.646381,0
+"Architecture services","BRA",,,,"STRI2025",-6.723593,4.576663,0
+"Engineering services","BRA",,,,"STRI2025",-10.07752,-7.302237,0
+"Digital network","CAN",,,,"STRI2025",,,
+"Computer services","CAN",,,,"STRI2025",0,0,0
+"Telecommunication","CAN",,,,"STRI2025",0,-6.075796,0
+"Broadcasting","CAN",,,,"STRI2025",0,0,0
+"Motion pictures","CAN",,,,"STRI2025",0,0,0
+"Sound recording","CAN",,,,"STRI2025",0,0,0
+"Logistics and related services","CAN",,,,"STRI2025",,,
+"Air transport","CAN",,,,"STRI2025",-7.317871,0,0
+"Maritime transport","CAN",,,,"STRI2025",0,0,0
+"Road freight transport","CAN",,,,"STRI2025",0,0,0
+"Rail freight transport","CAN",,,,"STRI2025",0,0,0
+"Courier services","CAN",,,,"STRI2025",0,0,0
+"Distribution services","CAN",,,,"STRI2025",0,-2.344115,0
+"Cargo-handling","CAN",,,,"STRI2025",0,-1.624996,0
+"Storage and warehouse","CAN",,,,"STRI2025",0,-4.812685,0
+"Freight-forwarding","CAN",,,,"STRI2025",0,0,0
+"Customs brokerage","CAN",,,,"STRI2025",0,0,0
+"Market bridging and supporting services","CAN",,,,"STRI2025",,,
+"Legal services","CAN",,,,"STRI2025",0,0,0
+"Accounting services","CAN",,,,"STRI2025",0,0,0
+"Commercial banking","CAN",,,,"STRI2025",0,0,0
+"Insurance","CAN",,,,"STRI2025",0,0,0
+"Physical infrastructure services","CAN",,,,"STRI2025",,,
+"Construction","CAN",,,,"STRI2025",0,0,0
+"Architecture services","CAN",,,,"STRI2025",0,0,0
+"Engineering services","CAN",,,,"STRI2025",0,-6.606061,0
 "Digital network","CHE",,,,"STRI2025",,,
 "Computer services","CHE",,,,"STRI2025",0,5.213913,0
 "Telecommunication","CHE",,,,"STRI2025",0,2.743064,0
@@ -1367,6 +1471,110 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Construction","CHE",,,,"STRI2025",0,4.348243,0
 "Architecture services","CHE",,,,"STRI2025",0,7.587065,0
 "Engineering services","CHE",,,,"STRI2025",0,4.430007,0
+"Digital network","CHL",,,,"STRI2025",,,
+"Computer services","CHL",,,,"STRI2025",0,36.89166,0
+"Telecommunication","CHL",,,,"STRI2025",0,1.798055,0
+"Broadcasting","CHL",,,,"STRI2025",0,3.094601,0
+"Motion pictures","CHL",,,,"STRI2025",0,10.91258,0
+"Sound recording","CHL",,,,"STRI2025",0,19.12443,0
+"Logistics and related services","CHL",,,,"STRI2025",,,
+"Air transport","CHL",,,,"STRI2025",0,5.61986,0
+"Maritime transport","CHL",,,,"STRI2025",0,20.26022,0
+"Road freight transport","CHL",,,,"STRI2025",0,-3.77359,0
+"Rail freight transport","CHL",,,,"STRI2025",0,11.60221,0
+"Courier services","CHL",,,,"STRI2025",0,2.222751,0
+"Distribution services","CHL",,,,"STRI2025",-6.877274,17.09674,0
+"Cargo-handling","CHL",,,,"STRI2025",-8.291874,10.84991,0
+"Storage and warehouse","CHL",,,,"STRI2025",-12.96314,-6.166469,0
+"Freight-forwarding","CHL",,,,"STRI2025",-13.41464,-2.112674,0
+"Customs brokerage","CHL",,,,"STRI2025",-12.69686,-10.14656,0
+"Market bridging and supporting services","CHL",,,,"STRI2025",,,
+"Legal services","CHL",,,,"STRI2025",0,20.98881,0
+"Accounting services","CHL",,,,"STRI2025",0,35.46512,0
+"Commercial banking","CHL",,,,"STRI2025",-2.621719,10.38461,0
+"Insurance","CHL",,,,"STRI2025",0,5.704648,0
+"Physical infrastructure services","CHL",,,,"STRI2025",,,
+"Construction","CHL",,,,"STRI2025",0,29.807,0
+"Architecture services","CHL",,,,"STRI2025",0,20.45455,0
+"Engineering services","CHL",,,,"STRI2025",0,28.73462,0
+"Digital network","CHN",,,,"STRI2025",,,
+"Computer services","CHN",,,,"STRI2025",8.559252,-19.10139,0
+"Telecommunication","CHN",,,,"STRI2025",2.629591,-7.721819,0
+"Broadcasting","CHN",,,,"STRI2025",7.894742,-5.181286,0
+"Motion pictures","CHN",,,,"STRI2025",7.557918,-6.903239,0
+"Sound recording","CHN",,,,"STRI2025",7.131422,-7.616802,0
+"Logistics and related services","CHN",,,,"STRI2025",,,
+"Air transport","CHN",,,,"STRI2025",2.56626,-9.593898,0
+"Maritime transport","CHN",,,,"STRI2025",-14.88646,-20.25691,0
+"Road freight transport","CHN",,,,"STRI2025",7.632595,-24.45913,0
+"Rail freight transport","CHN",,,,"STRI2025",-17.40306,-15.06551,0
+"Courier services","CHN",,,,"STRI2025",3.917717,-3.001197,0
+"Distribution services","CHN",,,,"STRI2025",2.78854,-21.17464,0
+"Cargo-handling","CHN",,,,"STRI2025",-12.59359,-27.41433,0
+"Storage and warehouse","CHN",,,,"STRI2025",9.301298,-20.31904,0
+"Freight-forwarding","CHN",,,,"STRI2025",11.5,-22.42153,0
+"Customs brokerage","CHN",,,,"STRI2025",11.01399,-26.61417,0
+"Market bridging and supporting services","CHN",,,,"STRI2025",,,
+"Legal services","CHN",,,,"STRI2025",5.360858,-3.960534,0
+"Accounting services","CHN",,,,"STRI2025",4.575156,-2.887932,0
+"Commercial banking","CHN",,,,"STRI2025",1.42349,-20.52632,0
+"Insurance","CHN",,,,"STRI2025",-7.00258,-24.16435,0
+"Physical infrastructure services","CHN",,,,"STRI2025",,,
+"Construction","CHN",,,,"STRI2025",10.50075,-24.33547,0
+"Architecture services","CHN",,,,"STRI2025",1.093749,-20.17001,0
+"Engineering services","CHN",,,,"STRI2025",-4.776923,-20.20823,0
+"Digital network","COL",,,,"STRI2025",,,
+"Computer services","COL",,,,"STRI2025",-6.96993,22.22654,0
+"Telecommunication","COL",,,,"STRI2025",-3.64405,2.502934,0
+"Broadcasting","COL",,,,"STRI2025",-3.115683,2.58669,0
+"Motion pictures","COL",,,,"STRI2025",-7.304569,15.76036,0
+"Sound recording","COL",,,,"STRI2025",-4.409369,18.79272,0
+"Logistics and related services","COL",,,,"STRI2025",,,
+"Air transport","COL",,,,"STRI2025",-.1903228,.9935794,0
+"Maritime transport","COL",,,,"STRI2025",3.871826,11.69666,4.602997
+"Road freight transport","COL",,,,"STRI2025",-3.560041,12.12121,0
+"Rail freight transport","COL",,,,"STRI2025",-1.52284,9.793813,0
+"Courier services","COL",,,,"STRI2025",2.169541,4.968432,0
+"Distribution services","COL",,,,"STRI2025",-6.352145,8.522524,0
+"Cargo-handling","COL",,,,"STRI2025",7.936515,9.453775,0
+"Storage and warehouse","COL",,,,"STRI2025",10.6504,8.084208,0
+"Freight-forwarding","COL",,,,"STRI2025",13.96647,9.803919,0
+"Customs brokerage","COL",,,,"STRI2025",7.701287,3.900323,0
+"Market bridging and supporting services","COL",,,,"STRI2025",,,
+"Legal services","COL",,,,"STRI2025",-5.169755,17.9821,0
+"Accounting services","COL",,,,"STRI2025",-4.606139,13.08608,0
+"Commercial banking","COL",,,,"STRI2025",-1.944447,13.59773,0
+"Insurance","COL",,,,"STRI2025",-3.373635,4.933274,0
+"Physical infrastructure services","COL",,,,"STRI2025",,,
+"Construction","COL",,,,"STRI2025",-8.429693,21.35146,0
+"Architecture services","COL",,,,"STRI2025",-18.03921,21.77034,0
+"Engineering services","COL",,,,"STRI2025",-10.61453,24.86112,0
+"Digital network","CRI",,,,"STRI2025",,,
+"Computer services","CRI",,,,"STRI2025",0,-6.127198,0
+"Telecommunication","CRI",,,,"STRI2025",0,-15.03266,0
+"Broadcasting","CRI",,,,"STRI2025",0,-2.290676,0
+"Motion pictures","CRI",,,,"STRI2025",9.202455,-8.426967,0
+"Sound recording","CRI",,,,"STRI2025",0,-10.87696,0
+"Logistics and related services","CRI",,,,"STRI2025",,,
+"Air transport","CRI",,,,"STRI2025",0,-2.133934,0
+"Maritime transport","CRI",,,,"STRI2025",0,-3.47721,0
+"Road freight transport","CRI",,,,"STRI2025",0,-3.307559,0
+"Rail freight transport","CRI",,,,"STRI2025",0,-2.149323,0
+"Courier services","CRI",,,,"STRI2025",0,4.079513,0
+"Distribution services","CRI",,,,"STRI2025",-5.941059,-13.08714,0
+"Cargo-handling","CRI",,,,"STRI2025",0,-6.504066,0
+"Storage and warehouse","CRI",,,,"STRI2025",0,-7.050154,0
+"Freight-forwarding","CRI",,,,"STRI2025",0,-12.87129,0
+"Customs brokerage","CRI",,,,"STRI2025",0,-16.52807,0
+"Market bridging and supporting services","CRI",,,,"STRI2025",,,
+"Legal services","CRI",,,,"STRI2025",0,-6.410254,0
+"Accounting services","CRI",,,,"STRI2025",-2.700305,-3.412193,0
+"Commercial banking","CRI",,,,"STRI2025",-5.405414,-11.83673,0
+"Insurance","CRI",,,,"STRI2025",0,-1.672973,0
+"Physical infrastructure services","CRI",,,,"STRI2025",,,
+"Construction","CRI",,,,"STRI2025",0,-10.29748,0
+"Architecture services","CRI",,,,"STRI2025",0,-13.60799,0
+"Engineering services","CRI",,,,"STRI2025",0,-9.34279,0
 "Digital network","CZE",,,,"STRI2025",,,
 "Computer services","CZE",,,,"STRI2025",14.4991,23.62874,0
 "Telecommunication","CZE",,,,"STRI2025",-22.91644,7.621612,0
@@ -1392,6 +1600,214 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Construction","CZE",,,,"STRI2025",11.69384,5.74873,0
 "Architecture services","CZE",,,,"STRI2025",20.95239,9.6063,0
 "Engineering services","CZE",,,,"STRI2025",11.1111,5.357144,0
+"Digital network","DEU",,,,"STRI2025",,,
+"Computer services","DEU",,,,"STRI2025",0,20.02346,0
+"Telecommunication","DEU",,,,"STRI2025",0,18.76772,0
+"Broadcasting","DEU",,,,"STRI2025",0,6.541516,0
+"Motion pictures","DEU",,,,"STRI2025",0,24.15131,0
+"Sound recording","DEU",,,,"STRI2025",0,30.78881,0
+"Logistics and related services","DEU",,,,"STRI2025",,,
+"Air transport","DEU",,,,"STRI2025",0,2.627936,0
+"Maritime transport","DEU",,,,"STRI2025",0,8.752736,0
+"Road freight transport","DEU",,,,"STRI2025",0,14.2232,0
+"Rail freight transport","DEU",,,,"STRI2025",0,7.053928,0
+"Courier services","DEU",,,,"STRI2025",0,17.84773,0
+"Distribution services","DEU",,,,"STRI2025",0,-3.357012,0
+"Cargo-handling","DEU",,,,"STRI2025",0,16.55172,-2.564097
+"Storage and warehouse","DEU",,,,"STRI2025",13.842,16.02906,-6.632587
+"Freight-forwarding","DEU",,,,"STRI2025",0,14.89362,-3.7037
+"Customs brokerage","DEU",,,,"STRI2025",0,19.05881,0
+"Market bridging and supporting services","DEU",,,,"STRI2025",,,
+"Legal services","DEU",,,,"STRI2025",0,3.410177,0
+"Accounting services","DEU",,,,"STRI2025",0,14.04213,0
+"Commercial banking","DEU",,,,"STRI2025",0,7.352953,0
+"Insurance","DEU",,,,"STRI2025",0,8.675295,0
+"Physical infrastructure services","DEU",,,,"STRI2025",,,
+"Construction","DEU",,,,"STRI2025",0,12.41782,0
+"Architecture services","DEU",,,,"STRI2025",0,30.05273,0
+"Engineering services","DEU",,,,"STRI2025",0,17.72464,0
+"Digital network","DNK",,,,"STRI2025",,,
+"Computer services","DNK",,,,"STRI2025",21.58718,26.34917,0
+"Telecommunication","DNK",,,,"STRI2025",4.547749,59.23064,0
+"Broadcasting","DNK",,,,"STRI2025",-5.585229,8.899165,0
+"Motion pictures","DNK",,,,"STRI2025",2.65568,22.21231,0
+"Sound recording","DNK",,,,"STRI2025",11.44322,18.54406,0
+"Logistics and related services","DNK",,,,"STRI2025",,,
+"Air transport","DNK",,,,"STRI2025",-1.410332,4.577644,0
+"Maritime transport","DNK",,,,"STRI2025",12.10614,12.86983,0
+"Road freight transport","DNK",,,,"STRI2025",3.127079,19.41935,0
+"Rail freight transport","DNK",,,,"STRI2025",2.182536,13.78641,0
+"Courier services","DNK",,,,"STRI2025",-3.112302,4.382385,0
+"Distribution services","DNK",,,,"STRI2025",4.325715,3.211241,0
+"Cargo-handling","DNK",,,,"STRI2025",10.25641,8.228971,0
+"Storage and warehouse","DNK",,,,"STRI2025",7.729715,12.51013,0
+"Freight-forwarding","DNK",,,,"STRI2025",18.94738,12.38938,0
+"Customs brokerage","DNK",,,,"STRI2025",-4.026844,14.16085,0
+"Market bridging and supporting services","DNK",,,,"STRI2025",,,
+"Legal services","DNK",,,,"STRI2025",3.748833,9.756087,0
+"Accounting services","DNK",,,,"STRI2025",8.941174,15.04679,0
+"Commercial banking","DNK",,,,"STRI2025",2.100844,20.98766,0
+"Insurance","DNK",,,,"STRI2025",-.683801,11.36861,0
+"Physical infrastructure services","DNK",,,,"STRI2025",,,
+"Construction","DNK",,,,"STRI2025",21.68587,15.13322,0
+"Architecture services","DNK",,,,"STRI2025",13.63636,32.57144,0
+"Engineering services","DNK",,,,"STRI2025",23.76344,18.67941,0
+"Digital network","ESP",,,,"STRI2025",,,
+"Computer services","ESP",,,,"STRI2025",0,-13.68119,0
+"Telecommunication","ESP",,,,"STRI2025",-12.07673,30.82565,0
+"Broadcasting","ESP",,,,"STRI2025",0,7.256894,0
+"Motion pictures","ESP",,,,"STRI2025",0,2.860063,0
+"Sound recording","ESP",,,,"STRI2025",0,-6.82731,0
+"Logistics and related services","ESP",,,,"STRI2025",,,
+"Air transport","ESP",,,,"STRI2025",0,-2.366865,0
+"Maritime transport","ESP",,,,"STRI2025",0,-7.482989,0
+"Road freight transport","ESP",,,,"STRI2025",0,.3305744,0
+"Rail freight transport","ESP",,,,"STRI2025",0,2.07039,0
+"Courier services","ESP",,,,"STRI2025",0,8.803907,0
+"Distribution services","ESP",,,,"STRI2025",0,.4114114,0
+"Cargo-handling","ESP",,,,"STRI2025",-16.31702,-5.571031,0
+"Storage and warehouse","ESP",,,,"STRI2025",-11.50716,-2.220103,0
+"Freight-forwarding","ESP",,,,"STRI2025",-11.76471,-8.888887,0
+"Customs brokerage","ESP",,,,"STRI2025",-14.15608,8.879495,0
+"Market bridging and supporting services","ESP",,,,"STRI2025",,,
+"Legal services","ESP",,,,"STRI2025",0,-.2196878,0
+"Accounting services","ESP",,,,"STRI2025",0,-3.395265,0
+"Commercial banking","ESP",,,,"STRI2025",34.92064,4.70589,0
+"Insurance","ESP",,,,"STRI2025",0,2.727107,0
+"Physical infrastructure services","ESP",,,,"STRI2025",,,
+"Construction","ESP",,,,"STRI2025",0,-12.02673,0
+"Architecture services","ESP",,,,"STRI2025",0,-3.95895,0
+"Engineering services","ESP",,,,"STRI2025",0,-9.256195,0
+"Digital network","EST",,,,"STRI2025",,,
+"Computer services","EST",,,,"STRI2025",-28.55884,8.222404,0
+"Telecommunication","EST",,,,"STRI2025",-12.45639,13.32736,0
+"Broadcasting","EST",,,,"STRI2025",.9850171,-2.459715,0
+"Motion pictures","EST",,,,"STRI2025",-3.475603,-8.970314,0
+"Sound recording","EST",,,,"STRI2025",-5.958372,3.43512,0
+"Logistics and related services","EST",,,,"STRI2025",,,
+"Air transport","EST",,,,"STRI2025",-3.809265,1.279969,0
+"Maritime transport","EST",,,,"STRI2025",-4.576654,3.47721,0
+"Road freight transport","EST",,,,"STRI2025",-3.648073,5.716405,0
+"Rail freight transport","EST",,,,"STRI2025",-3.250775,11.35999,0
+"Courier services","EST",,,,"STRI2025",-3.102917,-5.812726,0
+"Distribution services","EST",,,,"STRI2025",4.983688,-4.71664,0
+"Cargo-handling","EST",,,,"STRI2025",-9.385114,3.750006,0
+"Storage and warehouse","EST",,,,"STRI2025",4.911168,5.755196,0
+"Freight-forwarding","EST",,,,"STRI2025",-6.896554,-6.666661,0
+"Customs brokerage","EST",,,,"STRI2025",-15.78948,6.445315,0
+"Market bridging and supporting services","EST",,,,"STRI2025",,,
+"Legal services","EST",,,,"STRI2025",-1.616031,-3.175647,0
+"Accounting services","EST",,,,"STRI2025",-3.269018,.3324064,0
+"Commercial banking","EST",,,,"STRI2025",-4.147462,13.94231,0
+"Insurance","EST",,,,"STRI2025",-3.507046,-20.68614,0
+"Physical infrastructure services","EST",,,,"STRI2025",,,
+"Construction","EST",,,,"STRI2025",-5.446704,-1.052637,0
+"Architecture services","EST",,,,"STRI2025",0,1.236475,0
+"Engineering services","EST",,,,"STRI2025",-7.38984,-2.269393,0
+"Digital network","FIN",,,,"STRI2025",,,
+"Computer services","FIN",,,,"STRI2025",-7.107952,14.37449,0
+"Telecommunication","FIN",,,,"STRI2025",-2.910534,23.99085,0
+"Broadcasting","FIN",,,,"STRI2025",3.304776,8.688786,0
+"Motion pictures","FIN",,,,"STRI2025",14.28572,16.25586,0
+"Sound recording","FIN",,,,"STRI2025",-5.82866,20.50708,0
+"Logistics and related services","FIN",,,,"STRI2025",,,
+"Air transport","FIN",,,,"STRI2025",-1.002503,2.91772,0
+"Maritime transport","FIN",,,,"STRI2025",-5.1282,10.27028,0
+"Road freight transport","FIN",,,,"STRI2025",-2.77325,10.23489,0
+"Rail freight transport","FIN",,,,"STRI2025",-2.904565,10.11396,0
+"Courier services","FIN",,,,"STRI2025",-7.56579,16.88111,0
+"Distribution services","FIN",,,,"STRI2025",-5.30196,8.637172,0
+"Cargo-handling","FIN",,,,"STRI2025",-4.812838,13.14606,0
+"Storage and warehouse","FIN",,,,"STRI2025",2.800898,9.920662,0
+"Freight-forwarding","FIN",,,,"STRI2025",-6.535949,10.48951,0
+"Customs brokerage","FIN",,,,"STRI2025",-2.472526,15.63379,0
+"Market bridging and supporting services","FIN",,,,"STRI2025",,,
+"Legal services","FIN",,,,"STRI2025",-5.854801,12.02322,0
+"Accounting services","FIN",,,,"STRI2025",-8.808661,11.40142,0
+"Commercial banking","FIN",,,,"STRI2025",-7.590757,15.35715,0
+"Insurance","FIN",,,,"STRI2025",-1.163676,5.248682,0
+"Physical infrastructure services","FIN",,,,"STRI2025",,,
+"Construction","FIN",,,,"STRI2025",-17.10539,12.37867,32.41629
+"Architecture services","FIN",,,,"STRI2025",-4.965513,15.38461,36.72957
+"Engineering services","FIN",,,,"STRI2025",-7.252163,12.98421,31.61906
+"Digital network","FRA",,,,"STRI2025",,,
+"Computer services","FRA",,,,"STRI2025",9.316839,-7.012111,0
+"Telecommunication","FRA",,,,"STRI2025",2.976516,3.609808,0
+"Broadcasting","FRA",,,,"STRI2025",1.662705,0,0
+"Motion pictures","FRA",,,,"STRI2025",2.390934,-5.530527,0
+"Sound recording","FRA",,,,"STRI2025",5.65395,-10.31593,0
+"Logistics and related services","FRA",,,,"STRI2025",,,
+"Air transport","FRA",,,,"STRI2025",1.115679,-2.496384,0
+"Maritime transport","FRA",,,,"STRI2025",2.750803,-4.566933,0
+"Road freight transport","FRA",,,,"STRI2025",6.509254,-4.613546,0
+"Rail freight transport","FRA",,,,"STRI2025",3.365386,-2.945738,0
+"Courier services","FRA",,,,"STRI2025",4.657238,-9.546186,0
+"Distribution services","FRA",,,,"STRI2025",9.57944,1.670972,0
+"Cargo-handling","FRA",,,,"STRI2025",8.211674,-7.925807,0
+"Storage and warehouse","FRA",,,,"STRI2025",13.91564,-3.927828,0
+"Freight-forwarding","FRA",,,,"STRI2025",9.090912,-2.500008,0
+"Customs brokerage","FRA",,,,"STRI2025",3.383469,-6.000002,0
+"Market bridging and supporting services","FRA",,,,"STRI2025",,,
+"Legal services","FRA",,,,"STRI2025",0,0,0
+"Accounting services","FRA",,,,"STRI2025",-.3078175,-2.894635,0
+"Commercial banking","FRA",,,,"STRI2025",10.59907,-2.916662,0
+"Insurance","FRA",,,,"STRI2025",2.774896,-2.901846,0
+"Physical infrastructure services","FRA",,,,"STRI2025",,,
+"Construction","FRA",,,,"STRI2025",8.215123,-4.948115,0
+"Architecture services","FRA",,,,"STRI2025",2.582494,-4.265739,0
+"Engineering services","FRA",,,,"STRI2025",9.802159,-6.142507,0
+"Digital network","GBR",,,,"STRI2025",,,
+"Computer services","GBR",,,,"STRI2025",8.408948,-31.02678,0
+"Telecommunication","GBR",,,,"STRI2025",3.889224,-14.97449,0
+"Broadcasting","GBR",,,,"STRI2025",1.837267,4.123716,0
+"Motion pictures","GBR",,,,"STRI2025",3.582664,-5.21845,0
+"Sound recording","GBR",,,,"STRI2025",6.171002,-15.19608,0
+"Logistics and related services","GBR",,,,"STRI2025",,,
+"Air transport","GBR",,,,"STRI2025",1.081086,-48.12834,0
+"Maritime transport","GBR",,,,"STRI2025",6.25,-37.35294,0
+"Road freight transport","GBR",,,,"STRI2025",3.179548,-12.32628,0
+"Rail freight transport","GBR",,,,"STRI2025",3.860296,-14.86725,0
+"Courier services","GBR",,,,"STRI2025",3.436152,-13.28802,0
+"Distribution services","GBR",,,,"STRI2025",15.46203,-17.33991,0
+"Cargo-handling","GBR",,,,"STRI2025",7.154209,-26.70623,0
+"Storage and warehouse","GBR",,,,"STRI2025",14.82664,-19.07032,0
+"Freight-forwarding","GBR",,,,"STRI2025",7.194256,-26.84564,0
+"Customs brokerage","GBR",,,,"STRI2025",3.225793,-12.49999,0
+"Market bridging and supporting services","GBR",,,,"STRI2025",,,
+"Legal services","GBR",,,,"STRI2025",5.129959,-19.51854,0
+"Accounting services","GBR",,,,"STRI2025",3.460016,-13.3772,0
+"Commercial banking","GBR",,,,"STRI2025",9.871251,-25,0
+"Insurance","GBR",,,,"STRI2025",2.158128,-8.450147,0
+"Physical infrastructure services","GBR",,,,"STRI2025",,,
+"Construction","GBR",,,,"STRI2025",8.431389,-31.10315,0
+"Architecture services","GBR",,,,"STRI2025",4.693607,-17.93275,0
+"Engineering services","GBR",,,,"STRI2025",8.177045,-30.23578,0
+"Digital network","GRC",,,,"STRI2025",,,
+"Computer services","GRC",,,,"STRI2025",0,-7.511839,7.28419
+"Telecommunication","GRC",,,,"STRI2025",0,4.509924,10.54156
+"Broadcasting","GRC",,,,"STRI2025",2.248059,-2.653528,0
+"Motion pictures","GRC",,,,"STRI2025",0,1.344436,0
+"Sound recording","GRC",,,,"STRI2025",10.34929,-.3517041,0
+"Logistics and related services","GRC",,,,"STRI2025",,,
+"Air transport","GRC",,,,"STRI2025",0,-.9264187,0
+"Maritime transport","GRC",,,,"STRI2025",0,-4.941858,0
+"Road freight transport","GRC",,,,"STRI2025",0,-1.540353,6.633281
+"Rail freight transport","GRC",,,,"STRI2025",-8.269233,-4.821804,11.45374
+"Courier services","GRC",,,,"STRI2025",5.908262,.4463028,0
+"Distribution services","GRC",,,,"STRI2025",5.598764,-2.52008,0
+"Cargo-handling","GRC",,,,"STRI2025",-3.556772,-6.099287,0
+"Storage and warehouse","GRC",,,,"STRI2025",8.721548,-5.302291,0
+"Freight-forwarding","GRC",,,,"STRI2025",0,-11.64384,0
+"Customs brokerage","GRC",,,,"STRI2025",0,-.400538,0
+"Market bridging and supporting services","GRC",,,,"STRI2025",,,
+"Legal services","GRC",,,,"STRI2025",0,-3.188775,0
+"Accounting services","GRC",,,,"STRI2025",0,-1.994058,0
+"Commercial banking","GRC",,,,"STRI2025",0,-22.86586,0
+"Insurance","GRC",,,,"STRI2025",-1.057306,-6.451609,0
+"Physical infrastructure services","GRC",,,,"STRI2025",,,
+"Construction","GRC",,,,"STRI2025",0,-7.172374,0
+"Architecture services","GRC",,,,"STRI2025",-4.833515,-1.241534,0
+"Engineering services","GRC",,,,"STRI2025",-5.786029,-8.285052,0
 "Digital network","HUN",,,,"STRI2025",,,
 "Computer services","HUN",,,,"STRI2025",7.970171,36.4248,0
 "Telecommunication","HUN",,,,"STRI2025",3.035538,34.71144,0
@@ -1417,6 +1833,84 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Construction","HUN",,,,"STRI2025",7.086776,28.59455,0
 "Architecture services","HUN",,,,"STRI2025",0,4.825945,0
 "Engineering services","HUN",,,,"STRI2025",0,2.558859,0
+"Digital network","IDN",,,,"STRI2025",,,
+"Computer services","IDN",,,,"STRI2025",-5.037047,-6.052083,0
+"Telecommunication","IDN",,,,"STRI2025",0,-6.363227,-1.610524
+"Broadcasting","IDN",,,,"STRI2025",-1.403505,-8.501385,0
+"Motion pictures","IDN",,,,"STRI2025",-42.99401,-6.932777,0
+"Sound recording","IDN",,,,"STRI2025",-47.83035,-8.505637,0
+"Logistics and related services","IDN",,,,"STRI2025",,,
+"Air transport","IDN",,,,"STRI2025",-25.09753,27.44614,0
+"Maritime transport","IDN",,,,"STRI2025",-1.442905,-8.274992,-3.261625
+"Road freight transport","IDN",,,,"STRI2025",-5.644547,-8.084086,-4.661383
+"Rail freight transport","IDN",,,,"STRI2025",0,-14.08591,-6.046511
+"Courier services","IDN",,,,"STRI2025",-.9767797,-19.78146,-4.968323
+"Distribution services","IDN",,,,"STRI2025",-3.058252,-43.21949,-3.429007
+"Cargo-handling","IDN",,,,"STRI2025",-15.62653,-13.39546,-18.82986
+"Storage and warehouse","IDN",,,,"STRI2025",-17.26647,-9.139377,-16.8846
+"Freight-forwarding","IDN",,,,"STRI2025",-22.1875,-10.44176,0
+"Customs brokerage","IDN",,,,"STRI2025",-5.68,-11.70483,0
+"Market bridging and supporting services","IDN",,,,"STRI2025",,,
+"Legal services","IDN",,,,"STRI2025",0,-3.765392,0
+"Accounting services","IDN",,,,"STRI2025",.8524585,-4.486349,0
+"Commercial banking","IDN",,,,"STRI2025",1.118883,-1.936379,-3.10296
+"Insurance","IDN",,,,"STRI2025",-.3319064,.9514766,-5.117803
+"Physical infrastructure services","IDN",,,,"STRI2025",,,
+"Construction","IDN",,,,"STRI2025",4.267931,-2.686726,-3.421627
+"Architecture services","IDN",,,,"STRI2025",4.105568,-6.572764,0
+"Engineering services","IDN",,,,"STRI2025",-3.147486,-13.18477,0
+"Digital network","IND",,,,"STRI2025",,,
+"Computer services","IND",,,,"STRI2025",3.61082,-9.125424,0
+"Telecommunication","IND",,,,"STRI2025",2.448186,-10.08457,0
+"Broadcasting","IND",,,,"STRI2025",2.516661,-5.294827,0
+"Motion pictures","IND",,,,"STRI2025",9.710076,4.781882,0
+"Sound recording","IND",,,,"STRI2025",19.0031,-6.02094,0
+"Logistics and related services","IND",,,,"STRI2025",,,
+"Air transport","IND",,,,"STRI2025",-13.16713,-8.187889,0
+"Maritime transport","IND",,,,"STRI2025",-6.422011,-9.117647,0
+"Road freight transport","IND",,,,"STRI2025",-1.473411,-6.892065,0
+"Rail freight transport","IND",,,,"STRI2025",0,0,0
+"Courier services","IND",,,,"STRI2025",.4304305,-51.0929,0
+"Distribution services","IND",,,,"STRI2025",-1.250905,-1.509621,0
+"Cargo-handling","IND",,,,"STRI2025",-10.66668,-4.556162,0
+"Storage and warehouse","IND",,,,"STRI2025",-3.274421,-.8799424,0
+"Freight-forwarding","IND",,,,"STRI2025",-3.398055,-.5025121,0
+"Customs brokerage","IND",,,,"STRI2025",-.2028397,-3.048785,0
+"Market bridging and supporting services","IND",,,,"STRI2025",,,
+"Legal services","IND",,,,"STRI2025",0,0,0
+"Accounting services","IND",,,,"STRI2025",0,0,0
+"Commercial banking","IND",,,,"STRI2025",6.90208,-3.303302,0
+"Insurance","IND",,,,"STRI2025",-4.305238,-10.33568,-18.114
+"Physical infrastructure services","IND",,,,"STRI2025",,,
+"Construction","IND",,,,"STRI2025",7.987373,-5.464995,0
+"Architecture services","IND",,,,"STRI2025",8.314401,0,0
+"Engineering services","IND",,,,"STRI2025",3.414636,-7.14286,0
+"Digital network","IRL",,,,"STRI2025",,,
+"Computer services","IRL",,,,"STRI2025",0,28.59666,8.297847
+"Telecommunication","IRL",,,,"STRI2025",0,32.19694,16.20729
+"Broadcasting","IRL",,,,"STRI2025",0,7.672634,10.45131
+"Motion pictures","IRL",,,,"STRI2025",0,27.99632,10.15011
+"Sound recording","IRL",,,,"STRI2025",0,28.0899,7.759791
+"Logistics and related services","IRL",,,,"STRI2025",,,
+"Air transport","IRL",,,,"STRI2025",0,3.693177,0
+"Maritime transport","IRL",,,,"STRI2025",0,14.81482,7.580648
+"Road freight transport","IRL",,,,"STRI2025",0,20.88285,7.443826
+"Rail freight transport","IRL",,,,"STRI2025",0,11.65254,9.867172
+"Courier services","IRL",,,,"STRI2025",0,13.64779,11.52848
+"Distribution services","IRL",,,,"STRI2025",-7.621414,17.05792,9.217293
+"Cargo-handling","IRL",,,,"STRI2025",0,20.70796,10.26393
+"Storage and warehouse","IRL",,,,"STRI2025",9.847485,17.06572,7.657826
+"Freight-forwarding","IRL",,,,"STRI2025",0,19.51219,8.163266
+"Customs brokerage","IRL",,,,"STRI2025",0,19.33593,12.76596
+"Market bridging and supporting services","IRL",,,,"STRI2025",,,
+"Legal services","IRL",,,,"STRI2025",0,-7.020961,7.603569
+"Accounting services","IRL",,,,"STRI2025",0,15.96506,4.726024
+"Commercial banking","IRL",,,,"STRI2025",-7.329832,21.46892,10.23256
+"Insurance","IRL",,,,"STRI2025",0,11.72874,9.004976
+"Physical infrastructure services","IRL",,,,"STRI2025",,,
+"Construction","IRL",,,,"STRI2025",0,30.47105,6.865529
+"Architecture services","IRL",,,,"STRI2025",0,29.27865,4.923409
+"Engineering services","IRL",,,,"STRI2025",0,31.00479,7.742872
 "Digital network","ISL",,,,"STRI2025",,,
 "Computer services","ISL",,,,"STRI2025",-3.893012,3.862472,0
 "Telecommunication","ISL",,,,"STRI2025",9.890413,1.212814,0
@@ -1442,6 +1936,162 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Construction","ISL",,,,"STRI2025",0,3.674668,0
 "Architecture services","ISL",,,,"STRI2025",0,8.448544,0
 "Engineering services","ISL",,,,"STRI2025",0,4.95926,0
+"Digital network","ISR",,,,"STRI2025",,,
+"Computer services","ISR",,,,"STRI2025",0,7.204029,0
+"Telecommunication","ISR",,,,"STRI2025",-22.40239,6.446898,0
+"Broadcasting","ISR",,,,"STRI2025",0,5.765182,0
+"Motion pictures","ISR",,,,"STRI2025",0,0,0
+"Sound recording","ISR",,,,"STRI2025",0,0,0
+"Logistics and related services","ISR",,,,"STRI2025",,,
+"Air transport","ISR",,,,"STRI2025",0,0,0
+"Maritime transport","ISR",,,,"STRI2025",0,5.452438,0
+"Road freight transport","ISR",,,,"STRI2025",0,7.625896,0
+"Rail freight transport","ISR",,,,"STRI2025",0,0,0
+"Courier services","ISR",,,,"STRI2025",1.728847,-1.705933,0
+"Distribution services","ISR",,,,"STRI2025",0,0,0
+"Cargo-handling","ISR",,,,"STRI2025",0,0,0
+"Storage and warehouse","ISR",,,,"STRI2025",0,0,0
+"Freight-forwarding","ISR",,,,"STRI2025",0,0,0
+"Customs brokerage","ISR",,,,"STRI2025",0,0,0
+"Market bridging and supporting services","ISR",,,,"STRI2025",,,
+"Legal services","ISR",,,,"STRI2025",0,0,0
+"Accounting services","ISR",,,,"STRI2025",0,0,0
+"Commercial banking","ISR",,,,"STRI2025",-9.677413,7.857139,0
+"Insurance","ISR",,,,"STRI2025",-5.144085,4.544314,0
+"Physical infrastructure services","ISR",,,,"STRI2025",,,
+"Construction","ISR",,,,"STRI2025",0,4.355989,0
+"Architecture services","ISR",,,,"STRI2025",-6.174962,0,0
+"Engineering services","ISR",,,,"STRI2025",-9.63322,0,0
+"Digital network","ITA",,,,"STRI2025",,,
+"Computer services","ITA",,,,"STRI2025",0,0,0
+"Telecommunication","ITA",,,,"STRI2025",6.48568,7.16592,0
+"Broadcasting","ITA",,,,"STRI2025",0,8.607194,0
+"Motion pictures","ITA",,,,"STRI2025",0,14.06805,0
+"Sound recording","ITA",,,,"STRI2025",0,12.98395,0
+"Logistics and related services","ITA",,,,"STRI2025",,,
+"Air transport","ITA",,,,"STRI2025",0,2.781057,0
+"Maritime transport","ITA",,,,"STRI2025",0,0,0
+"Road freight transport","ITA",,,,"STRI2025",0,0,0
+"Rail freight transport","ITA",,,,"STRI2025",0,0,0
+"Courier services","ITA",,,,"STRI2025",0,0,0
+"Distribution services","ITA",,,,"STRI2025",0,0,0
+"Cargo-handling","ITA",,,,"STRI2025",0,0,0
+"Storage and warehouse","ITA",,,,"STRI2025",6.21966,0,0
+"Freight-forwarding","ITA",,,,"STRI2025",0,0,0
+"Customs brokerage","ITA",,,,"STRI2025",0,0,0
+"Market bridging and supporting services","ITA",,,,"STRI2025",,,
+"Legal services","ITA",,,,"STRI2025",-4.545461,0,0
+"Accounting services","ITA",,,,"STRI2025",0,0,0
+"Commercial banking","ITA",,,,"STRI2025",19.8895,30.41474,0
+"Insurance","ITA",,,,"STRI2025",0,0,0
+"Physical infrastructure services","ITA",,,,"STRI2025",,,
+"Construction","ITA",,,,"STRI2025",0,4.683084,0
+"Architecture services","ITA",,,,"STRI2025",0,0,0
+"Engineering services","ITA",,,,"STRI2025",0,0,0
+"Digital network","JPN",,,,"STRI2025",,,
+"Computer services","JPN",,,,"STRI2025",-17.76402,0,0
+"Telecommunication","JPN",,,,"STRI2025",-5.026555,0,0
+"Broadcasting","JPN",,,,"STRI2025",0,0,0
+"Motion pictures","JPN",,,,"STRI2025",-21.03704,0,0
+"Sound recording","JPN",,,,"STRI2025",-20.68345,0,0
+"Logistics and related services","JPN",,,,"STRI2025",,,
+"Air transport","JPN",,,,"STRI2025",0,0,0
+"Maritime transport","JPN",,,,"STRI2025",-11.08491,0,0
+"Road freight transport","JPN",,,,"STRI2025",-13.87435,22.4924,0
+"Rail freight transport","JPN",,,,"STRI2025",-11.47903,0,0
+"Courier services","JPN",,,,"STRI2025",-10.9589,0,-3.046159
+"Distribution services","JPN",,,,"STRI2025",-12.46317,-6.862661,0
+"Cargo-handling","JPN",,,,"STRI2025",-18.48553,0,0
+"Storage and warehouse","JPN",,,,"STRI2025",-16.97085,0,0
+"Freight-forwarding","JPN",,,,"STRI2025",-1.8018,0,0
+"Customs brokerage","JPN",,,,"STRI2025",-34.29541,0,0
+"Market bridging and supporting services","JPN",,,,"STRI2025",,,
+"Legal services","JPN",,,,"STRI2025",0,0,0
+"Accounting services","JPN",,,,"STRI2025",-6.983802,0,0
+"Commercial banking","JPN",,,,"STRI2025",-10.8209,0,0
+"Insurance","JPN",,,,"STRI2025",-21.53873,0,0
+"Physical infrastructure services","JPN",,,,"STRI2025",,,
+"Construction","JPN",,,,"STRI2025",-9.287429,0,0
+"Architecture services","JPN",,,,"STRI2025",-9.933773,0,0
+"Engineering services","JPN",,,,"STRI2025",-20.9901,0,0
+"Digital network","KAZ",,,,"STRI2025",,,
+"Computer services","KAZ",,,,"STRI2025",-4.826652,-.9744176,0
+"Telecommunication","KAZ",,,,"STRI2025",-5.777634,.6103644,0
+"Broadcasting","KAZ",,,,"STRI2025",9.271238,-.8484685,0
+"Motion pictures","KAZ",,,,"STRI2025",-2.972695,-4.061267,0
+"Sound recording","KAZ",,,,"STRI2025",-2.049357,-3.501277,0
+"Logistics and related services","KAZ",,,,"STRI2025",,,
+"Air transport","KAZ",,,,"STRI2025",-.4663923,2.300855,0
+"Maritime transport","KAZ",,,,"STRI2025",2.244163,-.9657616,0
+"Road freight transport","KAZ",,,,"STRI2025",-6.223073,-2.092902,0
+"Rail freight transport","KAZ",,,,"STRI2025",0,0,0
+"Courier services","KAZ",,,,"STRI2025",-67.98049,1.80452,0
+"Distribution services","KAZ",,,,"STRI2025",-.7630099,-.4419477,0
+"Cargo-handling","KAZ",,,,"STRI2025",.4960958,-.2115677,0
+"Storage and warehouse","KAZ",,,,"STRI2025",-2.557103,-4.709056,0
+"Freight-forwarding","KAZ",,,,"STRI2025",-3.937014,-7.786888,0
+"Customs brokerage","KAZ",,,,"STRI2025",-1.418434,-5.035971,0
+"Market bridging and supporting services","KAZ",,,,"STRI2025",,,
+"Legal services","KAZ",,,,"STRI2025",12.55507,-.2935461,0
+"Accounting services","KAZ",,,,"STRI2025",-3.18039,.5385043,0
+"Commercial banking","KAZ",,,,"STRI2025",1.298703,10.47009,0
+"Insurance","KAZ",,,,"STRI2025",-18.7133,17.94507,0
+"Physical infrastructure services","KAZ",,,,"STRI2025",,,
+"Construction","KAZ",,,,"STRI2025",2.010299,-2.290921,0
+"Architecture services","KAZ",,,,"STRI2025",-4.824557,-4.516137,0
+"Engineering services","KAZ",,,,"STRI2025",-7.047394,-2.832246,0
+"Digital network","KOR",,,,"STRI2025",,,
+"Computer services","KOR",,,,"STRI2025",-7.365479,-8.394947,0
+"Telecommunication","KOR",,,,"STRI2025",-6.13484,-6.440084,0
+"Broadcasting","KOR",,,,"STRI2025",-.7216555,-9.138112,0
+"Motion pictures","KOR",,,,"STRI2025",-7.373867,-6.610805,0
+"Sound recording","KOR",,,,"STRI2025",-8.748669,-6.682159,0
+"Logistics and related services","KOR",,,,"STRI2025",,,
+"Air transport","KOR",,,,"STRI2025",2.608545,-2.841624,0
+"Maritime transport","KOR",,,,"STRI2025",-4.602886,-8.893098,0
+"Road freight transport","KOR",,,,"STRI2025",3.751706,-6.969097,0
+"Rail freight transport","KOR",,,,"STRI2025",0,0,0
+"Courier services","KOR",,,,"STRI2025",-2.42289,-3.493161,0
+"Distribution services","KOR",,,,"STRI2025",-9.17089,-6.386534,0
+"Cargo-handling","KOR",,,,"STRI2025",-6.289314,-6.711404,0
+"Storage and warehouse","KOR",,,,"STRI2025",-8.884574,-6.995393,0
+"Freight-forwarding","KOR",,,,"STRI2025",-11.22994,-7.228923,0
+"Customs brokerage","KOR",,,,"STRI2025",-6.370659,-8.04124,0
+"Market bridging and supporting services","KOR",,,,"STRI2025",,,
+"Legal services","KOR",,,,"STRI2025",-2.479189,-2.524819,0
+"Accounting services","KOR",,,,"STRI2025",0,0,0
+"Commercial banking","KOR",,,,"STRI2025",-12,-6.666664,0
+"Insurance","KOR",,,,"STRI2025",-1.756978,-6.050477,0
+"Physical infrastructure services","KOR",,,,"STRI2025",,,
+"Construction","KOR",,,,"STRI2025",-12.43862,-5.42056,0
+"Architecture services","KOR",,,,"STRI2025",-9.308753,-4.573166,0
+"Engineering services","KOR",,,,"STRI2025",-13.83333,-6.834312,0
+"Digital network","LTU",,,,"STRI2025",,,
+"Computer services","LTU",,,,"STRI2025",22.95181,7.470745,0
+"Telecommunication","LTU",,,,"STRI2025",23.52488,13.54805,0
+"Broadcasting","LTU",,,,"STRI2025",14.82557,0,0
+"Motion pictures","LTU",,,,"STRI2025",15.6991,15.40636,0
+"Sound recording","LTU",,,,"STRI2025",8.783067,15.5642,0
+"Logistics and related services","LTU",,,,"STRI2025",,,
+"Air transport","LTU",,,,"STRI2025",1.104969,1.236341,0
+"Maritime transport","LTU",,,,"STRI2025",11.61525,4.715451,0
+"Road freight transport","LTU",,,,"STRI2025",12.45043,5.430182,0
+"Rail freight transport","LTU",,,,"STRI2025",15.83513,3.558055,0
+"Courier services","LTU",,,,"STRI2025",4.486907,9.212015,0
+"Distribution services","LTU",,,,"STRI2025",5.219936,4.995666,0
+"Cargo-handling","LTU",,,,"STRI2025",31.42078,9.77131,0
+"Storage and warehouse","LTU",,,,"STRI2025",40.87929,5.72133,0
+"Freight-forwarding","LTU",,,,"STRI2025",20.75472,2.343757,0
+"Customs brokerage","LTU",,,,"STRI2025",19.67214,5.650676,0
+"Market bridging and supporting services","LTU",,,,"STRI2025",,,
+"Legal services","LTU",,,,"STRI2025",1.729705,0,0
+"Accounting services","LTU",,,,"STRI2025",6.830916,7.861634,0
+"Commercial banking","LTU",,,,"STRI2025",4.285721,3.196352,0
+"Insurance","LTU",,,,"STRI2025",12.75496,2.773762,0
+"Physical infrastructure services","LTU",,,,"STRI2025",,,
+"Construction","LTU",,,,"STRI2025",30.35441,5.354609,0
+"Architecture services","LTU",,,,"STRI2025",5.590067,8.97059,0
+"Engineering services","LTU",,,,"STRI2025",22.30291,6.361323,0
 "Digital network","LUX",,,,"STRI2025",,,
 "Computer services","LUX",,,,"STRI2025",0,17.20055,0
 "Telecommunication","LUX",,,,"STRI2025",0,26.74335,0
@@ -1467,6 +2117,292 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Construction","LUX",,,,"STRI2025",0,4.988986,0
 "Architecture services","LUX",,,,"STRI2025",0,6.262835,0
 "Engineering services","LUX",,,,"STRI2025",0,4.391101,0
+"Digital network","LVA",,,,"STRI2025",,,
+"Computer services","LVA",,,,"STRI2025",0,10.33978,0
+"Telecommunication","LVA",,,,"STRI2025",21.64474,15.62466,0
+"Broadcasting","LVA",,,,"STRI2025",11.12233,0,0
+"Motion pictures","LVA",,,,"STRI2025",0,12.772,0
+"Sound recording","LVA",,,,"STRI2025",0,20.51282,0
+"Logistics and related services","LVA",,,,"STRI2025",,,
+"Air transport","LVA",,,,"STRI2025",-1.315791,1.206669,0
+"Maritime transport","LVA",,,,"STRI2025",0,7.631578,0
+"Road freight transport","LVA",,,,"STRI2025",0,6.427386,0
+"Rail freight transport","LVA",,,,"STRI2025",0,3.411133,0
+"Courier services","LVA",,,,"STRI2025",0,10.07752,0
+"Distribution services","LVA",,,,"STRI2025",0,5.54593,0
+"Cargo-handling","LVA",,,,"STRI2025",0,11.27098,0
+"Storage and warehouse","LVA",,,,"STRI2025",13.56493,6.088861,0
+"Freight-forwarding","LVA",,,,"STRI2025",0,3.571433,0
+"Customs brokerage","LVA",,,,"STRI2025",0,7.02128,0
+"Market bridging and supporting services","LVA",,,,"STRI2025",,,
+"Legal services","LVA",,,,"STRI2025",0,0,0
+"Accounting services","LVA",,,,"STRI2025",0,8.324083,0
+"Commercial banking","LVA",,,,"STRI2025",0,3.626949,0
+"Insurance","LVA",,,,"STRI2025",0,2.072075,0
+"Physical infrastructure services","LVA",,,,"STRI2025",,,
+"Construction","LVA",,,,"STRI2025",0,7.250319,0
+"Architecture services","LVA",,,,"STRI2025",0,10.14974,0
+"Engineering services","LVA",,,,"STRI2025",0,7.537689,0
+"Digital network","MEX",,,,"STRI2025",,,
+"Computer services","MEX",,,,"STRI2025",6.483599,0,0
+"Telecommunication","MEX",,,,"STRI2025",-30.70095,4.817501,0
+"Broadcasting","MEX",,,,"STRI2025",5.047594,0,0
+"Motion pictures","MEX",,,,"STRI2025",4.377883,0,0
+"Sound recording","MEX",,,,"STRI2025",4.503022,0,0
+"Logistics and related services","MEX",,,,"STRI2025",,,
+"Air transport","MEX",,,,"STRI2025",-2.744154,9.183136,0
+"Maritime transport","MEX",,,,"STRI2025",1.328505,0,0
+"Road freight transport","MEX",,,,"STRI2025",3.303469,0,0
+"Rail freight transport","MEX",,,,"STRI2025",-3.001086,0,0
+"Courier services","MEX",,,,"STRI2025",.8735281,.8659706,0
+"Distribution services","MEX",,,,"STRI2025",4.523893,4.328087,0
+"Cargo-handling","MEX",,,,"STRI2025",2.314823,2.262441,0
+"Storage and warehouse","MEX",,,,"STRI2025",-2.41126,4.368445,0
+"Freight-forwarding","MEX",,,,"STRI2025",5.238091,4.977382,0
+"Customs brokerage","MEX",,,,"STRI2025",0,0,0
+"Market bridging and supporting services","MEX",,,,"STRI2025",,,
+"Legal services","MEX",,,,"STRI2025",3.56605,0,0
+"Accounting services","MEX",,,,"STRI2025",4.26789,0,0
+"Commercial banking","MEX",,,,"STRI2025",1.538455,-1.325755,0
+"Insurance","MEX",,,,"STRI2025",-11.39414,0,0
+"Physical infrastructure services","MEX",,,,"STRI2025",,,
+"Construction","MEX",,,,"STRI2025",6.327181,-6.53492,0
+"Architecture services","MEX",,,,"STRI2025",10.76321,0,0
+"Engineering services","MEX",,,,"STRI2025",6.704983,0,0
+"Digital network","MYS",,,,"STRI2025",,,
+"Computer services","MYS",,,,"STRI2025",0,-6.323238,0
+"Telecommunication","MYS",,,,"STRI2025",0,-20.94858,0
+"Broadcasting","MYS",,,,"STRI2025",0,-2.716746,0
+"Motion pictures","MYS",,,,"STRI2025",0,-5.075687,0
+"Sound recording","MYS",,,,"STRI2025",0,-4.573343,0
+"Logistics and related services","MYS",,,,"STRI2025",,,
+"Air transport","MYS",,,,"STRI2025",0,-.9602006,0
+"Maritime transport","MYS",,,,"STRI2025",0,-1.15063,0
+"Road freight transport","MYS",,,,"STRI2025",0,-4.884112,0
+"Rail freight transport","MYS",,,,"STRI2025",0,-1.527497,0
+"Courier services","MYS",,,,"STRI2025",0,-1.928575,0
+"Distribution services","MYS",,,,"STRI2025",0,-2.230094,0
+"Cargo-handling","MYS",,,,"STRI2025",0,-2.387772,0
+"Storage and warehouse","MYS",,,,"STRI2025",0,-4.686173,0
+"Freight-forwarding","MYS",,,,"STRI2025",0,-5.314016,0
+"Customs brokerage","MYS",,,,"STRI2025",0,-4.567077,0
+"Market bridging and supporting services","MYS",,,,"STRI2025",,,
+"Legal services","MYS",,,,"STRI2025",0,-1.029882,0
+"Accounting services","MYS",,,,"STRI2025",0,-3.031724,0
+"Commercial banking","MYS",,,,"STRI2025",0,-2.666671,0
+"Insurance","MYS",,,,"STRI2025",0,-1.913502,0
+"Physical infrastructure services","MYS",,,,"STRI2025",,,
+"Construction","MYS",,,,"STRI2025",-5.716471,-6.063054,0
+"Architecture services","MYS",,,,"STRI2025",0,-7.534248,0
+"Engineering services","MYS",,,,"STRI2025",-3.754859,-5.152739,0
+"Digital network","NLD",,,,"STRI2025",,,
+"Computer services","NLD",,,,"STRI2025",0,-1.374238,0
+"Telecommunication","NLD",,,,"STRI2025",-10.57932,9.795763,0
+"Broadcasting","NLD",,,,"STRI2025",6.343612,-.9941981,0
+"Motion pictures","NLD",,,,"STRI2025",0,2.411023,0
+"Sound recording","NLD",,,,"STRI2025",0,-.6637173,0
+"Logistics and related services","NLD",,,,"STRI2025",,,
+"Air transport","NLD",,,,"STRI2025",0,-.9733884,0
+"Maritime transport","NLD",,,,"STRI2025",0,-.9685131,0
+"Road freight transport","NLD",,,,"STRI2025",0,6.982762,0
+"Rail freight transport","NLD",,,,"STRI2025",0,11.11112,0
+"Courier services","NLD",,,,"STRI2025",0,34.44075,0
+"Distribution services","NLD",,,,"STRI2025",-6.696958,-4.461732,0
+"Cargo-handling","NLD",,,,"STRI2025",0,5.908103,0
+"Storage and warehouse","NLD",,,,"STRI2025",12.96443,3.890842,0
+"Freight-forwarding","NLD",,,,"STRI2025",0,-5.208329,0
+"Customs brokerage","NLD",,,,"STRI2025",0,20.66116,0
+"Market bridging and supporting services","NLD",,,,"STRI2025",,,
+"Legal services","NLD",,,,"STRI2025",0,-7.966012,0
+"Accounting services","NLD",,,,"STRI2025",0,-4.30798,0
+"Commercial banking","NLD",,,,"STRI2025",0,-5.116286,0
+"Insurance","NLD",,,,"STRI2025",-20.02766,-3.424424,0
+"Physical infrastructure services","NLD",,,,"STRI2025",,,
+"Construction","NLD",,,,"STRI2025",0,-14.93704,0
+"Architecture services","NLD",,,,"STRI2025",0,-1.765648,0
+"Engineering services","NLD",,,,"STRI2025",0,-3.666992,0
+"Digital network","NOR",,,,"STRI2025",,,
+"Computer services","NOR",,,,"STRI2025",-.0153847,-6.346927,0
+"Telecommunication","NOR",,,,"STRI2025",-5.474092,11.20023,-10.02314
+"Broadcasting","NOR",,,,"STRI2025",4.563487,8.349141,0
+"Motion pictures","NOR",,,,"STRI2025",4.967097,8.095768,0
+"Sound recording","NOR",,,,"STRI2025",-3.244993,6.428178,0
+"Logistics and related services","NOR",,,,"STRI2025",,,
+"Air transport","NOR",,,,"STRI2025",1.034506,0,0
+"Maritime transport","NOR",,,,"STRI2025",1.779939,7.472181,0
+"Road freight transport","NOR",,,,"STRI2025",0,5.302655,0
+"Rail freight transport","NOR",,,,"STRI2025",-19.16972,7.854999,0
+"Courier services","NOR",,,,"STRI2025",-43.17381,6.51563,0
+"Distribution services","NOR",,,,"STRI2025",-.8344203,2.213364,0
+"Cargo-handling","NOR",,,,"STRI2025",-1.228731,4.306229,0
+"Storage and warehouse","NOR",,,,"STRI2025",-3.297122,1.031397,0
+"Freight-forwarding","NOR",,,,"STRI2025",-2.352939,.6024165,0
+"Customs brokerage","NOR",,,,"STRI2025",-2.94872,3.96301,0
+"Market bridging and supporting services","NOR",,,,"STRI2025",,,
+"Legal services","NOR",,,,"STRI2025",2.852547,5.664065,-1.626614
+"Accounting services","NOR",,,,"STRI2025",3.513522,-13.57703,0
+"Commercial banking","NOR",,,,"STRI2025",2.191772,-1.608582,-3.814708
+"Insurance","NOR",,,,"STRI2025",1.807984,1.296399,-1.893415
+"Physical infrastructure services","NOR",,,,"STRI2025",,,
+"Construction","NOR",,,,"STRI2025",3.774342,5.580678,0
+"Architecture services","NOR",,,,"STRI2025",9.131076,6.072868,0
+"Engineering services","NOR",,,,"STRI2025",4.992855,7.201091,0
+"Digital network","NZL",,,,"STRI2025",,,
+"Computer services","NZL",,,,"STRI2025",10.37052,9.396093,-8.189944
+"Telecommunication","NZL",,,,"STRI2025",6.019667,11.35576,-3.979588
+"Broadcasting","NZL",,,,"STRI2025",13.25301,11.70212,-5.476192
+"Motion pictures","NZL",,,,"STRI2025",0,9.692839,-7.093968
+"Sound recording","NZL",,,,"STRI2025",7.980567,7.390744,-4.907244
+"Logistics and related services","NZL",,,,"STRI2025",,,
+"Air transport","NZL",,,,"STRI2025",2.957017,4.243711,-1.301255
+"Maritime transport","NZL",,,,"STRI2025",5.723377,7.067665,-1.544947
+"Road freight transport","NZL",,,,"STRI2025",10.83845,9.778594,-9.91596
+"Rail freight transport","NZL",,,,"STRI2025",9.075043,8.32,-2.21566
+"Courier services","NZL",,,,"STRI2025",8.990445,8.248837,-2.506326
+"Distribution services","NZL",,,,"STRI2025",3.568964,3.445978,-5.441864
+"Cargo-handling","NZL",,,,"STRI2025",2.094241,4.615388,-2.450989
+"Storage and warehouse","NZL",,,,"STRI2025",-3.648948,1.175063,-4.90457
+"Freight-forwarding","NZL",,,,"STRI2025",-5.102042,.5376339,-5.882354
+"Customs brokerage","NZL",,,,"STRI2025",-2.238805,3.816792,-5.882358
+"Market bridging and supporting services","NZL",,,,"STRI2025",,,
+"Legal services","NZL",,,,"STRI2025",7.364139,6.859038,-3.142986
+"Accounting services","NZL",,,,"STRI2025",5.897432,5.569012,-4.969417
+"Commercial banking","NZL",,,,"STRI2025",8.730154,18.24817,-2.46914
+"Insurance","NZL",,,,"STRI2025",0,7.445496,-3.82848
+"Physical infrastructure services","NZL",,,,"STRI2025",,,
+"Construction","NZL",,,,"STRI2025",6.917104,6.469604,-8.643266
+"Architecture services","NZL",,,,"STRI2025",6.276154,5.905506,-13.63073
+"Engineering services","NZL",,,,"STRI2025",7.061963,6.596145,-8.172799
+"Digital network","PER",,,,"STRI2025",,,
+"Computer services","PER",,,,"STRI2025",0,0,0
+"Telecommunication","PER",,,,"STRI2025",3.500007,3.381649,0
+"Broadcasting","PER",,,,"STRI2025",0,.853824,0
+"Motion pictures","PER",,,,"STRI2025",2.949517,7.823688,16.81145
+"Sound recording","PER",,,,"STRI2025",2.615515,0,6.796931
+"Logistics and related services","PER",,,,"STRI2025",,,
+"Air transport","PER",,,,"STRI2025",0,6.070263,0
+"Maritime transport","PER",,,,"STRI2025",0,0,-3.772073
+"Road freight transport","PER",,,,"STRI2025",0,0,0
+"Rail freight transport","PER",,,,"STRI2025",0,0,0
+"Courier services","PER",,,,"STRI2025",0,-3.727298,0
+"Distribution services","PER",,,,"STRI2025",0,0,-4.020453
+"Cargo-handling","PER",,,,"STRI2025",0,0,0
+"Storage and warehouse","PER",,,,"STRI2025",0,0,0
+"Freight-forwarding","PER",,,,"STRI2025",0,0,0
+"Customs brokerage","PER",,,,"STRI2025",0,0,0
+"Market bridging and supporting services","PER",,,,"STRI2025",,,
+"Legal services","PER",,,,"STRI2025",0,0,0
+"Accounting services","PER",,,,"STRI2025",0,14.68289,0
+"Commercial banking","PER",,,,"STRI2025",-6.646529,18.12298,0
+"Insurance","PER",,,,"STRI2025",0,0,0
+"Physical infrastructure services","PER",,,,"STRI2025",,,
+"Construction","PER",,,,"STRI2025",0,0,0
+"Architecture services","PER",,,,"STRI2025",0,0,0
+"Engineering services","PER",,,,"STRI2025",0,0,0
+"Digital network","PHL",,,,"STRI2025",,,
+"Computer services","PHL",,,,"STRI2025",-6.393095,-7.21096,0
+"Telecommunication","PHL",,,,"STRI2025",-1.3168,-11.38658,0
+"Broadcasting","PHL",,,,"STRI2025",0,0,0
+"Motion pictures","PHL",,,,"STRI2025",-2.159905,-5.49961,0
+"Sound recording","PHL",,,,"STRI2025",-3.34543,-4.795661,0
+"Logistics and related services","PHL",,,,"STRI2025",,,
+"Air transport","PHL",,,,"STRI2025",-.9694004,-49.6788,0
+"Maritime transport","PHL",,,,"STRI2025",-2.814916,-30.62998,0
+"Road freight transport","PHL",,,,"STRI2025",-1.933276,-45.07151,0
+"Rail freight transport","PHL",,,,"STRI2025",0,0,0
+"Courier services","PHL",,,,"STRI2025",-2.357558,0,0
+"Distribution services","PHL",,,,"STRI2025",-1.369124,0,0
+"Cargo-handling","PHL",,,,"STRI2025",-5.536125,0,0
+"Storage and warehouse","PHL",,,,"STRI2025",-7.641542,0,0
+"Freight-forwarding","PHL",,,,"STRI2025",-9.785932,-40.67796,0
+"Customs brokerage","PHL",,,,"STRI2025",0,0,0
+"Market bridging and supporting services","PHL",,,,"STRI2025",,,
+"Legal services","PHL",,,,"STRI2025",0,0,0
+"Accounting services","PHL",,,,"STRI2025",0,0,0
+"Commercial banking","PHL",,,,"STRI2025",-2.017945,-10.06866,0
+"Insurance","PHL",,,,"STRI2025",-.9275361,-17.11436,0
+"Physical infrastructure services","PHL",,,,"STRI2025",,,
+"Construction","PHL",,,,"STRI2025",-7.258754,0,0
+"Architecture services","PHL",,,,"STRI2025",0,0,0
+"Engineering services","PHL",,,,"STRI2025",0,0,0
+"Digital network","POL",,,,"STRI2025",,,
+"Computer services","POL",,,,"STRI2025",13.36264,42.67833,0
+"Telecommunication","POL",,,,"STRI2025",9.529053,20.7235,0
+"Broadcasting","POL",,,,"STRI2025",0,3.938152,0
+"Motion pictures","POL",,,,"STRI2025",3.960394,22.41757,0
+"Sound recording","POL",,,,"STRI2025",12.16931,38.58491,0
+"Logistics and related services","POL",,,,"STRI2025",,,
+"Air transport","POL",,,,"STRI2025",2.688176,4.325917,0
+"Maritime transport","POL",,,,"STRI2025",0,30.72165,0
+"Road freight transport","POL",,,,"STRI2025",0,17.81565,0
+"Rail freight transport","POL",,,,"STRI2025",0,15.58935,0
+"Courier services","POL",,,,"STRI2025",0,14.24134,0
+"Distribution services","POL",,,,"STRI2025",13.92566,15.33033,0
+"Cargo-handling","POL",,,,"STRI2025",14.73684,33.39449,0
+"Storage and warehouse","POL",,,,"STRI2025",25.1341,22.75566,0
+"Freight-forwarding","POL",,,,"STRI2025",14.63414,35.10639,0
+"Customs brokerage","POL",,,,"STRI2025",19.02439,17.82787,0
+"Market bridging and supporting services","POL",,,,"STRI2025",,,
+"Legal services","POL",,,,"STRI2025",0,0,0
+"Accounting services","POL",,,,"STRI2025",0,17.33871,0
+"Commercial banking","POL",,,,"STRI2025",0,11.55555,0
+"Insurance","POL",,,,"STRI2025",0,7.079073,0
+"Physical infrastructure services","POL",,,,"STRI2025",,,
+"Construction","POL",,,,"STRI2025",5.256017,21.85104,0
+"Architecture services","POL",,,,"STRI2025",0,4.8722,0
+"Engineering services","POL",,,,"STRI2025",0,2.630661,0
+"Digital network","PRT",,,,"STRI2025",,,
+"Computer services","PRT",,,,"STRI2025",-23.15331,-1.848042,0
+"Telecommunication","PRT",,,,"STRI2025",-19.07575,9.578001,0
+"Broadcasting","PRT",,,,"STRI2025",-6.485486,-7.59577,0
+"Motion pictures","PRT",,,,"STRI2025",-17.98107,2.692309,0
+"Sound recording","PRT",,,,"STRI2025",-19.57546,7.624626,0
+"Logistics and related services","PRT",,,,"STRI2025",,,
+"Air transport","PRT",,,,"STRI2025",-3.149605,.0135485,0
+"Maritime transport","PRT",,,,"STRI2025",-17.3291,-5.576919,0
+"Road freight transport","PRT",,,,"STRI2025",-10.82036,-3.251393,0
+"Rail freight transport","PRT",,,,"STRI2025",-22.74678,1.111103,0
+"Courier services","PRT",,,,"STRI2025",-13.97173,6.306962,0
+"Distribution services","PRT",,,,"STRI2025",-15.04348,-7.265377,0
+"Cargo-handling","PRT",,,,"STRI2025",-22.16748,4.64135,0
+"Storage and warehouse","PRT",,,,"STRI2025",-7.185902,-3.059434,0
+"Freight-forwarding","PRT",,,,"STRI2025",-20.40816,-6.8376,0
+"Customs brokerage","PRT",,,,"STRI2025",-8.320489,-2.521012,0
+"Market bridging and supporting services","PRT",,,,"STRI2025",,,
+"Legal services","PRT",,,,"STRI2025",-5.487804,-63.09678,0
+"Accounting services","PRT",,,,"STRI2025",-11.34113,-18.47716,0
+"Commercial banking","PRT",,,,"STRI2025",-10.50584,-.4347833,0
+"Insurance","PRT",,,,"STRI2025",-9.941752,-1.249461,0
+"Physical infrastructure services","PRT",,,,"STRI2025",,,
+"Construction","PRT",,,,"STRI2025",-18.17786,-33.58551,0
+"Architecture services","PRT",,,,"STRI2025",0,-47.25777,0
+"Engineering services","PRT",,,,"STRI2025",0,-2.397641,0
+"Digital network","RUS",,,,"STRI2025",,,
+"Computer services","RUS",,,,"STRI2025",9.498824,37.48636,0
+"Telecommunication","RUS",,,,"STRI2025",.0135359,26.03222,0
+"Broadcasting","RUS",,,,"STRI2025",58.7114,40.37954,0
+"Motion pictures","RUS",,,,"STRI2025",5.583966,42.68156,0
+"Sound recording","RUS",,,,"STRI2025",5.457995,71.42214,0
+"Logistics and related services","RUS",,,,"STRI2025",,,
+"Air transport","RUS",,,,"STRI2025",1.399857,11.04429,0
+"Maritime transport","RUS",,,,"STRI2025",8.034184,23.57595,0
+"Road freight transport","RUS",,,,"STRI2025",5.760861,44.86126,0
+"Rail freight transport","RUS",,,,"STRI2025",.0230568,.1094242,0
+"Courier services","RUS",,,,"STRI2025",6.364027,37.38034,0
+"Distribution services","RUS",,,,"STRI2025",5.582809,36.30972,0
+"Cargo-handling","RUS",,,,"STRI2025",0,0,0
+"Storage and warehouse","RUS",,,,"STRI2025",0,0,0
+"Freight-forwarding","RUS",,,,"STRI2025",6.122449,37.5,0
+"Customs brokerage","RUS",,,,"STRI2025",12.14574,44.58486,0
+"Market bridging and supporting services","RUS",,,,"STRI2025",,,
+"Legal services","RUS",,,,"STRI2025",8.159822,47.08635,0
+"Accounting services","RUS",,,,"STRI2025",3.6859,26.53271,0
+"Commercial banking","RUS",,,,"STRI2025",17.09845,48.45132,0
+"Insurance","RUS",,,,"STRI2025",5.352095,15.18686,0
+"Physical infrastructure services","RUS",,,,"STRI2025",,,
+"Construction","RUS",,,,"STRI2025",4.044065,27.95872,0
+"Architecture services","RUS",,,,"STRI2025",3.865987,36.72456,0
+"Engineering services","RUS",,,,"STRI2025",4.768328,34.99357,0
 "Digital network","SGP",,,,"STRI2025",,,
 "Computer services","SGP",,,,"STRI2025",0,17.86172,0
 "Telecommunication","SGP",,,,"STRI2025",7.932233,7.385195,0
@@ -1517,3 +2453,185 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Construction","SVK",,,,"STRI2025",0,4.886731,0
 "Architecture services","SVK",,,,"STRI2025",0,3.633119,0
 "Engineering services","SVK",,,,"STRI2025",0,-3.185299,0
+"Digital network","SVN",,,,"STRI2025",,,
+"Computer services","SVN",,,,"STRI2025",7.744646,5.874175,0
+"Telecommunication","SVN",,,,"STRI2025",-1.175366,9.731,0
+"Broadcasting","SVN",,,,"STRI2025",4.893619,0,0
+"Motion pictures","SVN",,,,"STRI2025",3.406599,7.173212,0
+"Sound recording","SVN",,,,"STRI2025",1.307197,9.384166,0
+"Logistics and related services","SVN",,,,"STRI2025",,,
+"Air transport","SVN",,,,"STRI2025",-1.481042,1.231211,0
+"Maritime transport","SVN",,,,"STRI2025",1.10442,2.879843,0
+"Road freight transport","SVN",,,,"STRI2025",7.692311,4.661015,0
+"Rail freight transport","SVN",,,,"STRI2025",2.265864,2.806494,0
+"Courier services","SVN",,,,"STRI2025",3.024137,6.424192,0
+"Distribution services","SVN",,,,"STRI2025",-4.616026,3.724111,0
+"Cargo-handling","SVN",,,,"STRI2025",-1.459038,5.353079,0
+"Storage and warehouse","SVN",,,,"STRI2025",6.413773,6.887169,0
+"Freight-forwarding","SVN",,,,"STRI2025",0,4.191628,0
+"Customs brokerage","SVN",,,,"STRI2025",0,4.687493,0
+"Market bridging and supporting services","SVN",,,,"STRI2025",,,
+"Legal services","SVN",,,,"STRI2025",1.416601,0,0
+"Accounting services","SVN",,,,"STRI2025",3.435516,3.832396,0
+"Commercial banking","SVN",,,,"STRI2025",2.909088,2.473502,0
+"Insurance","SVN",,,,"STRI2025",4.012836,2.218367,0
+"Physical infrastructure services","SVN",,,,"STRI2025",,,
+"Construction","SVN",,,,"STRI2025",7.136682,3.65765,0
+"Architecture services","SVN",,,,"STRI2025",9.425881,4.776826,0
+"Engineering services","SVN",,,,"STRI2025",4.845974,2.476069,0
+"Digital network","SWE",,,,"STRI2025",,,
+"Computer services","SWE",,,,"STRI2025",0,15.56555,0
+"Telecommunication","SWE",,,,"STRI2025",-7.023887,51.17863,0
+"Broadcasting","SWE",,,,"STRI2025",0,0,0
+"Motion pictures","SWE",,,,"STRI2025",0,8.928561,0
+"Sound recording","SWE",,,,"STRI2025",0,12.7186,0
+"Logistics and related services","SWE",,,,"STRI2025",,,
+"Air transport","SWE",,,,"STRI2025",-2.604163,1.209895,0
+"Maritime transport","SWE",,,,"STRI2025",0,8.888894,0
+"Road freight transport","SWE",,,,"STRI2025",0,13.01564,0
+"Rail freight transport","SWE",,,,"STRI2025",0,11.12853,0
+"Courier services","SWE",,,,"STRI2025",0,18.96852,0
+"Distribution services","SWE",,,,"STRI2025",0,10.3674,0
+"Cargo-handling","SWE",,,,"STRI2025",-1.573853,14.39115,0
+"Storage and warehouse","SWE",,,,"STRI2025",-5.198317,13.07976,0
+"Freight-forwarding","SWE",,,,"STRI2025",0,11.71875,0
+"Customs brokerage","SWE",,,,"STRI2025",0,15,0
+"Market bridging and supporting services","SWE",,,,"STRI2025",,,
+"Legal services","SWE",,,,"STRI2025",0,0,0
+"Accounting services","SWE",,,,"STRI2025",0,4.118616,0
+"Commercial banking","SWE",,,,"STRI2025",0,11.37255,14.78873
+"Insurance","SWE",,,,"STRI2025",-1.30171,5.879456,0
+"Physical infrastructure services","SWE",,,,"STRI2025",,,
+"Construction","SWE",,,,"STRI2025",0,11.90503,0
+"Architecture services","SWE",,,,"STRI2025",0,9.341502,0
+"Engineering services","SWE",,,,"STRI2025",0,14.0856,0
+"Digital network","THA",,,,"STRI2025",,,
+"Computer services","THA",,,,"STRI2025",-7.761834,-8.825071,0
+"Telecommunication","THA",,,,"STRI2025",-6.00187,-4.995954,0
+"Broadcasting","THA",,,,"STRI2025",-9.085835,-8.992439,0
+"Motion pictures","THA",,,,"STRI2025",-9.604042,-8.822612,0
+"Sound recording","THA",,,,"STRI2025",-7.897267,-8.016728,0
+"Logistics and related services","THA",,,,"STRI2025",,,
+"Air transport","THA",,,,"STRI2025",-.8646786,-2.466847,0
+"Maritime transport","THA",,,,"STRI2025",-3.088541,-6.65722,0
+"Road freight transport","THA",,,,"STRI2025",-9.927608,-6.084963,0
+"Rail freight transport","THA",,,,"STRI2025",0,0,0
+"Courier services","THA",,,,"STRI2025",-5.165991,-9.072688,0
+"Distribution services","THA",,,,"STRI2025",-8.873524,-7.417649,0
+"Cargo-handling","THA",,,,"STRI2025",-4.64135,-7.743363,0
+"Storage and warehouse","THA",,,,"STRI2025",-7.992357,-5.68025,0
+"Freight-forwarding","THA",,,,"STRI2025",-9.016397,-7.207208,0
+"Customs brokerage","THA",,,,"STRI2025",-7.758617,-9.112152,0
+"Market bridging and supporting services","THA",,,,"STRI2025",,,
+"Legal services","THA",,,,"STRI2025",-2.219098,-4.634811,0
+"Accounting services","THA",,,,"STRI2025",0,0,0
+"Commercial banking","THA",,,,"STRI2025",-3.973505,-6.068974,0
+"Insurance","THA",,,,"STRI2025",-3.631361,-3.224801,0
+"Physical infrastructure services","THA",,,,"STRI2025",,,
+"Construction","THA",,,,"STRI2025",-11.3097,-5.800869,0
+"Architecture services","THA",,,,"STRI2025",-9.102196,-4.096491,0
+"Engineering services","THA",,,,"STRI2025",-8.165648,-6.732299,0
+"Digital network","TUR",,,,"STRI2025",,,
+"Computer services","TUR",,,,"STRI2025",13.14111,-5.034614,5.962747
+"Telecommunication","TUR",,,,"STRI2025",8.57515,1.097087,3.056085
+"Broadcasting","TUR",,,,"STRI2025",4.178538,4.649036,2.003488
+"Motion pictures","TUR",,,,"STRI2025",5.914206,7.786084,4.159058
+"Sound recording","TUR",,,,"STRI2025",8.401345,-5.890159,3.858819
+"Logistics and related services","TUR",,,,"STRI2025",,,
+"Air transport","TUR",,,,"STRI2025",2.766671,-1.014782,.8379393
+"Maritime transport","TUR",,,,"STRI2025",10.02604,9.349109,1.190479
+"Road freight transport","TUR",,,,"STRI2025",12.80887,-5.0961,5.558169
+"Rail freight transport","TUR",,,,"STRI2025",21.87501,-.6104938,-3.43982
+"Courier services","TUR",,,,"STRI2025",4.615828,-2.276677,.7662507
+"Distribution services","TUR",,,,"STRI2025",18.43143,-8.997946,10.15511
+"Cargo-handling","TUR",,,,"STRI2025",6.545744,-8.512216,2.022651
+"Storage and warehouse","TUR",,,,"STRI2025",12.15653,-8.148001,3.623747
+"Freight-forwarding","TUR",,,,"STRI2025",6.274513,-11.43911,4.583329
+"Customs brokerage","TUR",,,,"STRI2025",8.164908,-6.278024,3.827749
+"Market bridging and supporting services","TUR",,,,"STRI2025",,,
+"Legal services","TUR",,,,"STRI2025",0,-3.60287,1.200745
+"Accounting services","TUR",,,,"STRI2025",1.663454,.0948563,0
+"Commercial banking","TUR",,,,"STRI2025",22.89855,-6.132064,2.010042
+"Insurance","TUR",,,,"STRI2025",0,15.01379,2.524938
+"Physical infrastructure services","TUR",,,,"STRI2025",,,
+"Construction","TUR",,,,"STRI2025",7.392738,-14.84684,6.494016
+"Architecture services","TUR",,,,"STRI2025",3.61736,-14.11947,9.936769
+"Engineering services","TUR",,,,"STRI2025",8.786827,-16.42956,7.688086
+"Digital network","USA",,,,"STRI2025",,,
+"Computer services","USA",,,,"STRI2025",10.6911,-9.658499,22.57578
+"Telecommunication","USA",,,,"STRI2025",0,0,19.81029
+"Broadcasting","USA",,,,"STRI2025",0,0,33.35861
+"Motion pictures","USA",,,,"STRI2025",-4.769871,0,24.95606
+"Sound recording","USA",,,,"STRI2025",0,0,18.38529
+"Logistics and related services","USA",,,,"STRI2025",,,
+"Air transport","USA",,,,"STRI2025",0,0,4.315442
+"Maritime transport","USA",,,,"STRI2025",0,0,8.615944
+"Road freight transport","USA",,,,"STRI2025",0,0,13.15954
+"Rail freight transport","USA",,,,"STRI2025",0,0,23.42341
+"Courier services","USA",,,,"STRI2025",0,0,9.683037
+"Distribution services","USA",,,,"STRI2025",0,0,27.65695
+"Cargo-handling","USA",,,,"STRI2025",0,0,20.99236
+"Storage and warehouse","USA",,,,"STRI2025",0,0,19.89805
+"Freight-forwarding","USA",,,,"STRI2025",0,0,20.95809
+"Customs brokerage","USA",,,,"STRI2025",0,-2.864261,26.15384
+"Market bridging and supporting services","USA",,,,"STRI2025",,,
+"Legal services","USA",,,,"STRI2025",-3.861998,0,15.53293
+"Accounting services","USA",,,,"STRI2025",0,0,12.26667
+"Commercial banking","USA",,,,"STRI2025",0,0,15.0685
+"Insurance","USA",,,,"STRI2025",0,0,6.622748
+"Physical infrastructure services","USA",,,,"STRI2025",,,
+"Construction","USA",,,,"STRI2025",0,0,11.30274
+"Architecture services","USA",,,,"STRI2025",0,0,11.68831
+"Engineering services","USA",,,,"STRI2025",-7.009646,0,14.66113
+"Digital network","VNM",,,,"STRI2025",,,
+"Computer services","VNM",,,,"STRI2025",5.560861,-5.267919,0
+"Telecommunication","VNM",,,,"STRI2025",0,2.7754,0
+"Broadcasting","VNM",,,,"STRI2025",0,0,0
+"Motion pictures","VNM",,,,"STRI2025",0,-1.519579,0
+"Sound recording","VNM",,,,"STRI2025",0,0,0
+"Logistics and related services","VNM",,,,"STRI2025",,,
+"Air transport","VNM",,,,"STRI2025",-.8522108,-10.75631,0
+"Maritime transport","VNM",,,,"STRI2025",12.42291,-3.683388,0
+"Road freight transport","VNM",,,,"STRI2025",-4.308937,-5.012751,0
+"Rail freight transport","VNM",,,,"STRI2025",-4.436859,4.642856,0
+"Courier services","VNM",,,,"STRI2025",-2.970442,0,0
+"Distribution services","VNM",,,,"STRI2025",-10.55855,3.928145,0
+"Cargo-handling","VNM",,,,"STRI2025",-7.364143,0,0
+"Storage and warehouse","VNM",,,,"STRI2025",-9.077219,-2.605029,0
+"Freight-forwarding","VNM",,,,"STRI2025",-12.54753,5.217397,0
+"Customs brokerage","VNM",,,,"STRI2025",-10.61165,6.43033,0
+"Market bridging and supporting services","VNM",,,,"STRI2025",,,
+"Legal services","VNM",,,,"STRI2025",0,0,0
+"Accounting services","VNM",,,,"STRI2025",0,0,0
+"Commercial banking","VNM",,,,"STRI2025",-2.295079,-2.348997,0
+"Insurance","VNM",,,,"STRI2025",0,0,0
+"Physical infrastructure services","VNM",,,,"STRI2025",,,
+"Construction","VNM",,,,"STRI2025",0,0,0
+"Architecture services","VNM",,,,"STRI2025",0,4.907301,0
+"Engineering services","VNM",,,,"STRI2025",0,0,0
+"Digital network","ZAF",,,,"STRI2025",,,
+"Computer services","ZAF",,,,"STRI2025",40.83971,0,0
+"Telecommunication","ZAF",,,,"STRI2025",11.82473,0,0
+"Broadcasting","ZAF",,,,"STRI2025",7.83076,0,0
+"Motion pictures","ZAF",,,,"STRI2025",32.48979,0,0
+"Sound recording","ZAF",,,,"STRI2025",23.45866,0,0
+"Logistics and related services","ZAF",,,,"STRI2025",,,
+"Air transport","ZAF",,,,"STRI2025",4.791542,0,0
+"Maritime transport","ZAF",,,,"STRI2025",18.61702,0,0
+"Road freight transport","ZAF",,,,"STRI2025",36.22393,0,0
+"Rail freight transport","ZAF",,,,"STRI2025",16.78421,0,0
+"Courier services","ZAF",,,,"STRI2025",8.578836,0,0
+"Distribution services","ZAF",,,,"STRI2025",24.59159,0,0
+"Cargo-handling","ZAF",,,,"STRI2025",19.48052,0,0
+"Storage and warehouse","ZAF",,,,"STRI2025",18.7862,0,0
+"Freight-forwarding","ZAF",,,,"STRI2025",20,0,0
+"Customs brokerage","ZAF",,,,"STRI2025",24.02826,0,0
+"Market bridging and supporting services","ZAF",,,,"STRI2025",,,
+"Legal services","ZAF",,,,"STRI2025",7.468884,0,0
+"Accounting services","ZAF",,,,"STRI2025",13.86611,0,0
+"Commercial banking","ZAF",,,,"STRI2025",6.818186,0,0
+"Insurance","ZAF",,,,"STRI2025",-4.230624,-23.58614,0
+"Physical infrastructure services","ZAF",,,,"STRI2025",,,
+"Construction","ZAF",,,,"STRI2025",28.176,0,0
+"Architecture services","ZAF",,,,"STRI2025",17.20311,0,0
+"Engineering services","ZAF",,,,"STRI2025",14.90911,0,0
