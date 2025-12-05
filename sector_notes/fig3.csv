@@ -1,111 +1,111 @@
 Sector,policyarea,Year_2024_NonOECD,Year_2024_OECD,Year_2025_NonOECD,Year_2025_OECD
-"Accounting services",1,48.97299,35.85433,48.10011,37.10753
-"Accounting services",2,29.9852,39.51065,30.67253,38.51396
-"Accounting services",3,11.09774,9.934063,11.14222,10.28129
-"Accounting services",4,2.934316,2.401642,2.656991,2.530778
-"Accounting services",5,7.009756,12.29932,7.428147,11.56645
-"Air transport",1,54.13969,58.16755,55.16634,57.9249
-"Air transport",2,4.824328,5.071751,4.693344,5.107005
-"Air transport",3,6.323795,4.635316,6.725171,5.035828
-"Air transport",4,31.97075,29.04795,30.70229,28.84638
-"Air transport",5,2.741444,3.077436,2.712851,3.085881
-"Architecture services",1,38.64,18.70188,36.79356,21.11468
-"Architecture services",2,22.848,30.6259,24.72527,29.66774
-"Architecture services",3,13.33867,14.46223,15.56122,14.23842
-"Architecture services",4,6.400001,5.221466,5.651491,5.373347
-"Architecture services",5,18.77333,30.98851,17.26845,29.60581
-"Broadcasting",1,79.05222,64.05216,79.38541,64.56768
-"Broadcasting",2,3.841354,5.583208,3.89943,5.621138
-"Broadcasting",3,5.406462,7.432073,5.401001,7.660074
-"Broadcasting",4,4.43823,8.096305,4.429885,7.806819
-"Broadcasting",5,7.261738,14.83625,6.884281,14.3443
-"Commercial banking",1,65.44304,52.87445,64.89783,54.82018
-"Commercial banking",2,8.971519,15.31436,8.899143,14.87143
-"Commercial banking",3,7.199367,6.393001,7.152274,6.4328
-"Commercial banking",4,14.84177,18.57335,15.22742,17.44278
-"Commercial banking",5,3.544304,6.844838,3.823335,6.4328
-"Computer services",1,44.48259,25.1796,44.16976,26.38025
-"Computer services",2,28.87617,36.29098,27.88968,35.74854
-"Computer services",3,15.18942,14.50262,15.82495,15.02228
-"Computer services",4,5.732856,7.115731,5.338118,6.788805
-"Computer services",5,5.718954,16.91108,6.777493,16.06013
-"Construction",1,32.35973,17.5461,31.68822,18.44438
-"Construction",2,37.12585,44.58765,35.78897,44.2029
-"Construction",3,15.86351,13.11342,16.7842,13.65316
-"Construction",4,5.83686,4.313243,5.894913,3.925007
-"Construction",5,8.81405,20.43959,9.843694,19.77455
-"Courier services",1,54.10497,44.80508,55.61335,46.07457
-"Courier services",2,7.929735,11.82535,7.963627,11.36249
-"Courier services",3,9.972141,12.17399,10.24769,12.20105
-"Courier services",4,21.82697,22.50585,20.01922,22.1978
-"Courier services",5,6.166187,8.689732,6.15612,8.164092
-"Distribution services",1,56.7163,40.6797,54.173,43.73316
-"Distribution services",2,11.38893,17.35991,11.96696,16.50873
-"Distribution services",3,8.959443,11.26387,9.885427,10.96951
-"Distribution services",4,15.66571,18.42633,16.46924,17.07604
-"Distribution services",5,7.26961,12.27019,7.505362,11.71256
-"Engineering services",1,42.67142,21.04179,38.13248,23.91051
-"Engineering services",2,34.52781,46.0403,35.37577,45.17186
-"Engineering services",3,9.404078,9.514926,11.4374,9.34414
-"Engineering services",4,4.157592,3.970149,3.558301,3.947489
-"Engineering services",5,9.239094,19.43283,11.49605,17.626
-"Insurance",1,72.29008,68.86329,72.71284,69.2951
-"Insurance",2,5.747986,9.430547,5.373118,9.077364
-"Insurance",3,5.103352,4.95316,4.848019,5.211562
-"Insurance",4,14.75651,9.734036,14.46222,10.18022
-"Insurance",5,2.102067,7.018971,2.603796,6.235748
-"Legal services",1,69.70349,61.11319,69.57704,62.03102
-"Legal services",2,18.83878,24.64963,18.92159,23.96367
-"Legal services",3,4.597817,4.814979,5.037513,4.857552
-"Legal services",4,2.350156,2.772338,2.249155,2.650683
-"Legal services",5,4.509758,6.649865,4.214692,6.497072
-"Logistics cargo-handling",1,48.89924,30.36553,46.96651,33.08171
-"Logistics cargo-handling",2,16.1939,28.161,16.6316,26.54783
-"Logistics cargo-handling",3,10.69538,14.53918,11.75869,14.46016
-"Logistics cargo-handling",4,10.31964,10.40037,10.57031,9.813499
-"Logistics cargo-handling",5,13.89183,16.53392,14.0729,16.0968
-"Logistics customs brokerage",1,50.62,43.39254,50.05532,44.49686
-"Logistics customs brokerage",2,8.448256,11.65333,8.763001,11.00902
-"Logistics customs brokerage",3,8.79592,10.1991,10.46692,9.955843
-"Logistics customs brokerage",4,2.931973,3.367168,2.035849,3.469461
-"Logistics customs brokerage",5,29.20385,31.38786,28.67891,31.06881
-"Logistics freight forwarding",1,36.80457,26.64354,37.73867,27.35533
-"Logistics freight forwarding",2,22.4679,30.52905,22.4635,29.65088
-"Logistics freight forwarding",3,4.17261,4.631396,4.492699,4.782401
-"Logistics freight forwarding",4,2.425107,2.705984,1.946836,2.614379
-"Logistics freight forwarding",5,34.12981,35.49003,33.35829,35.597
-"Logistics storage and warehouse",1,39.70869,27.05785,38.12951,29.23831
-"Logistics storage and warehouse",2,12.25271,20.49719,12.61549,19.53012
-"Logistics storage and warehouse",3,6.904163,8.924819,7.605685,8.960931
-"Logistics storage and warehouse",4,15.00169,13.59977,15.10948,12.82911
-"Logistics storage and warehouse",5,26.13274,29.92037,26.53984,29.44153
-"Maritime transport",1,56.99794,44.48015,57.80198,45.78404
-"Maritime transport",2,21.05103,27.29113,20.3666,26.34485
-"Maritime transport",3,10.61704,12.89286,10.90396,12.92396
-"Maritime transport",4,7.894135,10.83282,7.566975,10.52216
-"Maritime transport",5,3.43986,4.503037,3.360489,4.424988
-"Motion pictures",1,51.40094,30.65975,52.0597,29.94405
-"Motion pictures",2,10.39514,15.51386,10.36633,15.53579
-"Motion pictures",3,25.36613,28.73782,24.16212,30.21087
-"Motion pictures",4,2.442664,4.981221,2.551889,4.848659
-"Motion pictures",5,10.39514,20.10735,10.85996,19.46062
-"Rail freight transport",1,53.46249,39.56967,52.77198,41.46947
-"Rail freight transport",2,10.10635,16.37366,10.0881,15.78638
-"Rail freight transport",3,5.468368,6.552461,5.80849,6.644659
-"Rail freight transport",4,26.36526,31.43157,26.74905,30.21637
-"Rail freight transport",5,4.59753,6.072647,4.582373,5.883121
-"Road freight transport",1,39.28215,26.09621,40.06625,25.97559
-"Road freight transport",2,14.65273,18.07006,14.07882,17.60681
-"Road freight transport",3,15.06912,11.6558,15.36992,12.34203
-"Road freight transport",4,12.32512,18.4643,11.94258,19.16035
-"Road freight transport",5,18.67089,25.71362,18.54243,24.91523
-"Sound recording",1,42.52874,24.39846,42.53909,24.42574
-"Sound recording",2,18.25088,24.73691,18.53713,24.41945
-"Sound recording",3,29.31867,30.98217,28.47571,32.47326
-"Sound recording",4,2.798601,4.142181,2.721943,3.587162
-"Sound recording",5,7.103115,15.74029,7.72613,15.0944
-"Telecommunication",1,35.62162,33.43219,33.15216,35.12387
-"Telecommunication",2,6.014789,11.65483,5.759017,11.37984
-"Telecommunication",3,7.399547,17.26901,7.42056,17.00891
-"Telecommunication",4,49.17035,27.11892,51.23299,27.11432
-"Telecommunication",5,1.79369,10.52505,2.435276,9.373067
+"Accounting services","Restriction_on_foreign_entry_",48.97299,35.85433,48.10011,37.10753
+"Accounting services","Restrictions_movement_people_",29.9852,39.51065,30.67253,38.51396
+"Accounting services","Other_discriminatory_measures",11.09774,9.934063,11.14222,10.28129
+"Accounting services","Barriers_to_competition_",2.934316,2.401642,2.656991,2.530778
+"Accounting services","Regulatory_transparency_",7.009756,12.29932,7.428147,11.56645
+"Air transport","Restriction_on_foreign_entry_",54.13969,58.16755,55.16634,57.9249
+"Air transport","Restrictions_movement_people_",4.824328,5.071751,4.693344,5.107005
+"Air transport","Other_discriminatory_measures",6.323795,4.635316,6.725171,5.035828
+"Air transport","Barriers_to_competition_",31.97075,29.04795,30.70229,28.84638
+"Air transport","Regulatory_transparency_",2.741444,3.077436,2.712851,3.085881
+"Architecture services","Restriction_on_foreign_entry_",38.64,18.70188,36.79356,21.11468
+"Architecture services","Restrictions_movement_people_",22.848,30.6259,24.72527,29.66774
+"Architecture services","Other_discriminatory_measures",13.33867,14.46223,15.56122,14.23842
+"Architecture services","Barriers_to_competition_",6.400001,5.221466,5.651491,5.373347
+"Architecture services","Regulatory_transparency_",18.77333,30.98851,17.26845,29.60581
+"Broadcasting","Restriction_on_foreign_entry_",79.05222,64.05216,79.38541,64.56768
+"Broadcasting","Restrictions_movement_people_",3.841354,5.583208,3.89943,5.621138
+"Broadcasting","Other_discriminatory_measures",5.406462,7.432073,5.401001,7.660074
+"Broadcasting","Barriers_to_competition_",4.43823,8.096305,4.429885,7.806819
+"Broadcasting","Regulatory_transparency_",7.261738,14.83625,6.884281,14.3443
+"Commercial banking","Restriction_on_foreign_entry_",65.44304,52.87445,64.89783,54.82018
+"Commercial banking","Restrictions_movement_people_",8.971519,15.31436,8.899143,14.87143
+"Commercial banking","Other_discriminatory_measures",7.199367,6.393001,7.152274,6.4328
+"Commercial banking","Barriers_to_competition_",14.84177,18.57335,15.22742,17.44278
+"Commercial banking","Regulatory_transparency_",3.544304,6.844838,3.823335,6.4328
+"Computer services","Restriction_on_foreign_entry_",44.48259,25.1796,44.16976,26.38025
+"Computer services","Restrictions_movement_people_",28.87617,36.29098,27.88968,35.74854
+"Computer services","Other_discriminatory_measures",15.18942,14.50262,15.82495,15.02228
+"Computer services","Barriers_to_competition_",5.732856,7.115731,5.338118,6.788805
+"Computer services","Regulatory_transparency_",5.718954,16.91108,6.777493,16.06013
+"Construction","Restriction_on_foreign_entry_",32.35973,17.5461,31.68822,18.44438
+"Construction","Restrictions_movement_people_",37.12585,44.58765,35.78897,44.2029
+"Construction","Other_discriminatory_measures",15.86351,13.11342,16.7842,13.65316
+"Construction","Barriers_to_competition_",5.83686,4.313243,5.894913,3.925007
+"Construction","Regulatory_transparency_",8.81405,20.43959,9.843694,19.77455
+"Courier services","Restriction_on_foreign_entry_",54.10497,44.80508,55.61335,46.07457
+"Courier services","Restrictions_movement_people_",7.929735,11.82535,7.963627,11.36249
+"Courier services","Other_discriminatory_measures",9.972141,12.17399,10.24769,12.20105
+"Courier services","Barriers_to_competition_",21.82697,22.50585,20.01922,22.1978
+"Courier services","Regulatory_transparency_",6.166187,8.689732,6.15612,8.164092
+"Distribution services","Restriction_on_foreign_entry_",56.7163,40.6797,54.173,43.73316
+"Distribution services","Restrictions_movement_people_",11.38893,17.35991,11.96696,16.50873
+"Distribution services","Other_discriminatory_measures",8.959443,11.26387,9.885427,10.96951
+"Distribution services","Barriers_to_competition_",15.66571,18.42633,16.46924,17.07604
+"Distribution services","Regulatory_transparency_",7.26961,12.27019,7.505362,11.71256
+"Engineering services","Restriction_on_foreign_entry_",42.67142,21.04179,38.13248,23.91051
+"Engineering services","Restrictions_movement_people_",34.52781,46.0403,35.37577,45.17186
+"Engineering services","Other_discriminatory_measures",9.404078,9.514926,11.4374,9.34414
+"Engineering services","Barriers_to_competition_",4.157592,3.970149,3.558301,3.947489
+"Engineering services","Regulatory_transparency_",9.239094,19.43283,11.49605,17.626
+"Insurance","Restriction_on_foreign_entry_",72.29008,68.86329,72.71284,69.2951
+"Insurance","Restrictions_movement_people_",5.747986,9.430547,5.373118,9.077364
+"Insurance","Other_discriminatory_measures",5.103352,4.95316,4.848019,5.211562
+"Insurance","Barriers_to_competition_",14.75651,9.734036,14.46222,10.18022
+"Insurance","Regulatory_transparency_",2.102067,7.018971,2.603796,6.235748
+"Legal services","Restriction_on_foreign_entry_",69.70349,61.11319,69.57704,62.03102
+"Legal services","Restrictions_movement_people_",18.83878,24.64963,18.92159,23.96367
+"Legal services","Other_discriminatory_measures",4.597817,4.814979,5.037513,4.857552
+"Legal services","Barriers_to_competition_",2.350156,2.772338,2.249155,2.650683
+"Legal services","Regulatory_transparency_",4.509758,6.649865,4.214692,6.497072
+"Logistics cargo-handling","Restriction_on_foreign_entry_",48.89924,30.36553,46.96651,33.08171
+"Logistics cargo-handling","Restrictions_movement_people_",16.1939,28.161,16.6316,26.54783
+"Logistics cargo-handling","Other_discriminatory_measures",10.69538,14.53918,11.75869,14.46016
+"Logistics cargo-handling","Barriers_to_competition_",10.31964,10.40037,10.57031,9.813499
+"Logistics cargo-handling","Regulatory_transparency_",13.89183,16.53392,14.0729,16.0968
+"Logistics customs brokerage","Restriction_on_foreign_entry_",50.62,43.39254,50.05532,44.49686
+"Logistics customs brokerage","Restrictions_movement_people_",8.448256,11.65333,8.763001,11.00902
+"Logistics customs brokerage","Other_discriminatory_measures",8.79592,10.1991,10.46692,9.955843
+"Logistics customs brokerage","Barriers_to_competition_",2.931973,3.367168,2.035849,3.469461
+"Logistics customs brokerage","Regulatory_transparency_",29.20385,31.38786,28.67891,31.06881
+"Logistics freight forwarding","Restriction_on_foreign_entry_",36.80457,26.64354,37.73867,27.35533
+"Logistics freight forwarding","Restrictions_movement_people_",22.4679,30.52905,22.4635,29.65088
+"Logistics freight forwarding","Other_discriminatory_measures",4.17261,4.631396,4.492699,4.782401
+"Logistics freight forwarding","Barriers_to_competition_",2.425107,2.705984,1.946836,2.614379
+"Logistics freight forwarding","Regulatory_transparency_",34.12981,35.49003,33.35829,35.597
+"Logistics storage and warehouse","Restriction_on_foreign_entry_",39.70869,27.05785,38.12951,29.23831
+"Logistics storage and warehouse","Restrictions_movement_people_",12.25271,20.49719,12.61549,19.53012
+"Logistics storage and warehouse","Other_discriminatory_measures",6.904163,8.924819,7.605685,8.960931
+"Logistics storage and warehouse","Barriers_to_competition_",15.00169,13.59977,15.10948,12.82911
+"Logistics storage and warehouse","Regulatory_transparency_",26.13274,29.92037,26.53984,29.44153
+"Maritime transport","Restriction_on_foreign_entry_",56.99794,44.48015,57.80198,45.78404
+"Maritime transport","Restrictions_movement_people_",21.05103,27.29113,20.3666,26.34485
+"Maritime transport","Other_discriminatory_measures",10.61704,12.89286,10.90396,12.92396
+"Maritime transport","Barriers_to_competition_",7.894135,10.83282,7.566975,10.52216
+"Maritime transport","Regulatory_transparency_",3.43986,4.503037,3.360489,4.424988
+"Motion pictures","Restriction_on_foreign_entry_",51.40094,30.65975,52.0597,29.94405
+"Motion pictures","Restrictions_movement_people_",10.39514,15.51386,10.36633,15.53579
+"Motion pictures","Other_discriminatory_measures",25.36613,28.73782,24.16212,30.21087
+"Motion pictures","Barriers_to_competition_",2.442664,4.981221,2.551889,4.848659
+"Motion pictures","Regulatory_transparency_",10.39514,20.10735,10.85996,19.46062
+"Rail freight transport","Restriction_on_foreign_entry_",53.46249,39.56967,52.77198,41.46947
+"Rail freight transport","Restrictions_movement_people_",10.10635,16.37366,10.0881,15.78638
+"Rail freight transport","Other_discriminatory_measures",5.468368,6.552461,5.80849,6.644659
+"Rail freight transport","Barriers_to_competition_",26.36526,31.43157,26.74905,30.21637
+"Rail freight transport","Regulatory_transparency_",4.59753,6.072647,4.582373,5.883121
+"Road freight transport","Restriction_on_foreign_entry_",39.28215,26.09621,40.06625,25.97559
+"Road freight transport","Restrictions_movement_people_",14.65273,18.07006,14.07882,17.60681
+"Road freight transport","Other_discriminatory_measures",15.06912,11.6558,15.36992,12.34203
+"Road freight transport","Barriers_to_competition_",12.32512,18.4643,11.94258,19.16035
+"Road freight transport","Regulatory_transparency_",18.67089,25.71362,18.54243,24.91523
+"Sound recording","Restriction_on_foreign_entry_",42.52874,24.39846,42.53909,24.42574
+"Sound recording","Restrictions_movement_people_",18.25088,24.73691,18.53713,24.41945
+"Sound recording","Other_discriminatory_measures",29.31867,30.98217,28.47571,32.47326
+"Sound recording","Barriers_to_competition_",2.798601,4.142181,2.721943,3.587162
+"Sound recording","Regulatory_transparency_",7.103115,15.74029,7.72613,15.0944
+"Telecommunication","Restriction_on_foreign_entry_",35.62162,33.43219,33.15216,35.12387
+"Telecommunication","Restrictions_movement_people_",6.014789,11.65483,5.759017,11.37984
+"Telecommunication","Other_discriminatory_measures",7.399547,17.26901,7.42056,17.00891
+"Telecommunication","Barriers_to_competition_",49.17035,27.11892,51.23299,27.11432
+"Telecommunication","Regulatory_transparency_",1.79369,10.52505,2.435276,9.373067
