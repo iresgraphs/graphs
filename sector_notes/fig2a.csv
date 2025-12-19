@@ -3,24 +3,24 @@ Country_code,Sector,d2023_2024,low_2014_2024,upper_2014_2024,grid,d2024_2025,low
 "AUS","Broadcasting",4.952629,-8.623925,8.990602,"grid2024A",,,
 "NLD","Broadcasting",4.274141,-4.9054,5.313653,"grid2024A",,,
 "KAZ","Broadcasting",1.595387,-9.249952,7.454622,"grid2024A",,,
-"KOR","Broadcasting",0,-9.513957,3.995675,"grid2024A",,,
+"CZE","Broadcasting",0,0,16.51179,"grid2024A",,,
 "GRC","Broadcasting",-2.2742,-2.2742,1.898524,"grid2024A",,,
 "AUS","Motion pictures",9.163981,-14.3758,9.163981,"grid2024A",,,
 "SGP","Motion pictures",7.434544,-19.27304,22.22222,"grid2024A",,,
 "CHE","Motion pictures",6.434078,-5.501934,6.894791,"grid2024A",,,
 "BRA","Motion pictures",4.471035,-8.142206,4.471035,"grid2024A",,,
-"CHN","Motion pictures",0,-8.151586,7.95671,"grid2024A",,,
+"AUT","Motion pictures",0,0,7.821544,"grid2024A",,,
 "GRC","Motion pictures",-6.199025,-6.199025,7.922526,"grid2024A",,,
 "SGP","Sound recording",7.210029,-17.05668,20.56425,"grid2024A",,,
 "AUS","Sound recording",6.492482,-10.86812,6.492482,"grid2024A",,,
-"ZAF","Sound recording",0,0,16.28896,"grid2024A",,,
-"IRL","Sound recording",0,0,12.90323,"grid2024A",,,
-"BEL","Sound recording",0,-15.36246,9.075442,"grid2024A",,,
+"HUN","Sound recording",0,0,9.345796,"grid2024A",,,
+"TUR","Sound recording",0,-11.57256,9.444145,"grid2024A",,,
+"FIN","Sound recording",0,-5.593,9.809927,"grid2024A",,,
 "GRC","Sound recording",-7.919846,-7.919846,8.264458,"grid2024A",,,
 "AUS","Construction",9.87196,-15.23265,9.87196,"grid2024A",,,
 "SGP","Construction",5.796528,-24.80084,32.98021,"grid2024A",,,
+"LVA","Construction",0,0,6.634445,"grid2024A",,,
 "HUN","Construction",0,0,7.086776,"grid2024A",,,
-"AUT","Construction",0,0,0,"grid2024A",,,
 "GRC","Construction",-9.860246,-9.860246,5.093815,"grid2024A",,,
 "PRT","Construction",-30.84434,-30.84434,4.826851,"grid2024A",,,
 "SGP","Courier services",9.828814,-11.90562,9.828814,"grid2024A",,,
@@ -31,235 +31,235 @@ Country_code,Sector,d2023_2024,low_2014_2024,upper_2014_2024,grid,d2024_2025,low
 "IND","Courier services",-50.12784,-50.12784,4.246989,"grid2024A",,,
 "AUS","Computer services",10.84184,-16.36189,10.84184,"grid2024A",,,
 "SGP","Computer services",8.052906,-18.4751,33.40487,"grid2024A",,,
-"IND","Computer services",0,-9.125424,24.29929,"grid2024A",,,
-"PER","Computer services",0,0,0,"grid2024A",,,
-"JPN","Computer services",0,-45.17242,82.38997,"grid2024A",,,
+"THA","Computer services",0,-9.139324,0,"grid2024A",,,
+"SVN","Computer services",0,0,7.744646,"grid2024A",,,
+"IDN","Computer services",0,-17.62577,6.817503,"grid2024A",,,
 "GRC","Computer services",-11.39567,-11.39567,5.97808,"grid2024A",,,
 "SGP","Distribution services",7.074567,-14.93214,17.55321,"grid2024A",,,
 "AUS","Distribution services",6.316035,-10.61983,6.316035,"grid2024A",,,
 "TUR","Distribution services",4.651563,-10.57895,12.81661,"grid2024A",,,
-"MYS","Distribution services",0,-2.230094,0,"grid2024A",,,
-"IDN","Distribution services",0,-45.32995,4.65551,"grid2024A",,,
+"FIN","Distribution services",0,-2.713943,5.828018,"grid2024A",,,
+"CHL","Distribution services",0,-6.877274,17.09674,"grid2024A",,,
 "GRC","Distribution services",-4.705886,-4.705886,5.1707,"grid2024A",,,
 "RUS","Commercial banking",7.01754,0,24.69879,"grid2024A",,,
 "SGP","Commercial banking",6.111102,-8.163261,8.888885,"grid2024A",,,
 "AUS","Commercial banking",3.238863,-7.942235,5.054152,"grid2024A",,,
-"DEU","Commercial banking",0,0,4.255314,"grid2024A",,,
+"ISR","Commercial banking",0,-6.94006,7.665501,"grid2024A",,,
 "LVA","Commercial banking",0,0,3.482592,"grid2024A",,,
 "GRC","Commercial banking",-5.863194,-10.28571,2.571426,"grid2024A",,,
 "SGP","Insurance",5.186247,-10.28277,6.414992,"grid2024A",,,
 "AUS","Insurance",2.989533,-5.486971,2.989533,"grid2024A",,,
-"PER","Insurance",0,0,0,"grid2024A",,,
-"AUT","Insurance",0,0,4.748787,"grid2024A",,,
+"IRL","Insurance",0,0,5.235596,"grid2024A",,,
+"GBR","Insurance",0,-4.51096,2.307526,"grid2024A",,,
 "GRC","Insurance",-2.152261,-3.08967,1.020803,"grid2024A",,,
 "BEL","Insurance",-2.383073,-5.420693,8.769381,"grid2024A",,,
 "SGP","Logistics cargo-handling",7.658644,-9.861934,10.94092,"grid2024A",,,
 "AUS","Logistics cargo-handling",3.96197,-9.641873,3.96197,"grid2024A",,,
 "TUR","Logistics cargo-handling",2.25225,-9.387757,7.112257,"grid2024A",,,
-"SWE","Logistics cargo-handling",0,-1.450896,7.526888,"grid2024A",,,
-"RUS","Logistics cargo-handling",0,0,0,"grid2024A",,,
+"MEX","Logistics cargo-handling",0,0,2.314823,"grid2024A",,,
+"CRI","Logistics cargo-handling",0,-6.504066,0,"grid2024A",,,
 "GRC","Logistics cargo-handling",-10.9489,-10.9489,6.064513,"grid2024A",,,
 "SGP","Logistics customs brokerage",8.524592,-17.34417,20.9836,"grid2024A",,,
 "AUS","Logistics customs brokerage",7.01755,-11.5942,7.01755,"grid2024A",,,
 "TUR","Logistics customs brokerage",4.673811,-7.9536,9.546306,"grid2024A",,,
-"IND","Logistics customs brokerage",0,-7.558142,10.28037,"grid2024A",,,
-"ZAF","Logistics customs brokerage",0,0,17.3913,"grid2024A",,,
+"KAZ","Logistics customs brokerage",0,-15.68628,13.75357,"grid2024A",,,
+"ISL","Logistics customs brokerage",0,-5.248992,1.065343,"grid2024A",,,
 "GRC","Logistics customs brokerage",-4.186059,-4.186059,3.990336,"grid2024A",,,
 "AUS","Logistics freight forwarding",7.586208,-12.35955,7.586208,"grid2024A",,,
 "SGP","Logistics freight forwarding",5.687199,-17.2549,20.85308,"grid2024A",,,
 "TUR","Logistics freight forwarding",5.263153,-12.91667,6.926411,"grid2024A",,,
-"SVK","Logistics freight forwarding",0,0,3.157898,"grid2024A",,,
-"GBR","Logistics freight forwarding",0,-16.80672,9.174314,"grid2024A",,,
+"CZE","Logistics freight forwarding",0,0,18.33334,"grid2024A",,,
+"IND","Logistics freight forwarding",0,-5.714286,5.527639,"grid2024A",,,
 "GRC","Logistics freight forwarding",-12.42236,-12.42236,6.329108,"grid2024A",,,
 "AUS","Logistics storage and warehouse",7.750757,-12.57707,7.750757,"grid2024A",,,
 "SGP","Logistics storage and warehouse",5.664157,-15.48251,18.31871,"grid2024A",,,
 "TUR","Logistics storage and warehouse",3.892895,-8.70054,7.447991,"grid2024A",,,
-"VNM","Logistics storage and warehouse",0,-18.29639,21.75792,"grid2024A",,,
-"ISL","Logistics storage and warehouse",0,-4.190943,3.536749,"grid2024A",,,
+"KAZ","Logistics storage and warehouse",0,-13.67997,11.71447,"grid2024A",,,
+"NLD","Logistics storage and warehouse",0,-7.585716,12.96443,"grid2024A",,,
 "GRC","Logistics storage and warehouse",-8.376961,-8.376961,7.662119,"grid2024A",,,
 "AUS","Accounting services",5.861133,-9.969328,5.861133,"grid2024A",,,
 "SGP","Accounting services",5.683687,-17.63908,21.4168,"grid2024A",,,
-"IRL","Accounting services",0,0,5.681818,"grid2024A",,,
-"NOR","Accounting services",0,-9.627026,3.477825,"grid2024A",,,
+"CRI","Accounting services",0,-3.412193,0,"grid2024A",,,
+"TUR","Accounting services",0,-1.567019,1.7207,"grid2024A",,,
 "GRC","Accounting services",-4.878047,-4.878047,3.091508,"grid2024A",,,
 "PRT","Accounting services",-22.37374,-22.37374,3.807106,"grid2024A",,,
 "AUS","Architecture services",12.35955,-18.03279,12.35955,"grid2024A",,,
 "SGP","Architecture services",5.474455,-34.86529,53.52798,"grid2024A",,,
-"MEX","Architecture services",0,0,10.76321,"grid2024A",,,
-"PER","Architecture services",0,0,0,"grid2024A",,,
-"ISL","Architecture services",0,0,8.448544,"grid2024A",,,
+"VNM","Architecture services",0,-33.53659,58.6457,"grid2024A",,,
+"CHE","Architecture services",0,-13.68159,14.56953,"grid2024A",,,
+"FRA","Architecture services",0,-4.265739,2.582494,"grid2024A",,,
 "GRC","Architecture services",-7.258071,-7.258071,6.552095,"grid2024A",,,
 "AUS","Engineering services",12.31311,-17.9833,12.31311,"grid2024A",,,
 "SGP","Engineering services",4.768328,-20.12217,25.19118,"grid2024A",,,
-"MEX","Engineering services",0,0,6.704983,"grid2024A",,,
-"JPN","Engineering services",0,-58.39416,140.3509,"grid2024A",,,
-"NZL","Engineering services",0,-21.07376,24.01991,"grid2024A",,,
+"CRI","Engineering services",0,-5.06073,0,"grid2024A",,,
+"CAN","Engineering services",0,-7.059586,0,"grid2024A",,,
+"USA","Engineering services",0,-7.009646,0,"grid2024A",,,
 "GRC","Engineering services",-11.43157,-11.43157,5.624348,"grid2024A",,,
 "AUS","Legal services",4.742822,-8.464684,4.742822,"grid2024A",,,
 "SGP","Legal services",4.468405,-11.82065,8.751922,"grid2024A",,,
-"DNK","Legal services",0,0,3.327418,"grid2024A",,,
-"ESP","Legal services",0,-6.195787,6.370822,"grid2024A",,,
+"HUN","Legal services",0,0,0,"grid2024A",,,
+"LTU","Legal services",0,0,1.729705,"grid2024A",,,
 "GRC","Legal services",-3.093421,-3.093421,1.546711,"grid2024A",,,
 "PRT","Legal services",-62.40799,-62.40799,0,"grid2024A",,,
 "SGP","Telecommunication",7.841438,-10.90541,12.24027,"grid2024A",,,
 "AUS","Telecommunication",5.086923,-8.826815,5.086923,"grid2024A",,,
-"FRA","Telecommunication",0,-3.609808,7.48999,"grid2024A",,,
-"LUX","Telecommunication",0,0,8.335924,"grid2024A",,,
-"NZL","Telecommunication",0,-11.0586,20.21877,"grid2024A",,,
+"LTU","Telecommunication",0,0,18.24321,"grid2024A",,,
+"PRT","Telecommunication",0,-12.12962,11.49288,"grid2024A",,,
+"PER","Telecommunication",0,-11.11244,0,"grid2024A",,,
 "GRC","Telecommunication",-4.278894,-4.278894,5.809433,"grid2024A",,,
 "AUS","Air transport",1.584497,-3.025182,1.584497,"grid2024A",,,
-"FIN","Air transport",0,-1.002503,1.772149,"grid2024A",,,
-"THA","Air transport",0,-3.256301,2.465001,"grid2024A",,,
-"IDN","Air transport",0,-25.09753,35.71965,"grid2024A",,,
-"COL","Air transport",0,-.2016335,5.306255,"grid2024A",,,
+"IRL","Air transport",0,0,1.287251,"grid2024A",,,
+"PHL","Air transport",0,-45.97701,0,"grid2024A",,,
+"ISL","Air transport",0,-3.007035,.9909794,"grid2024A",,,
+"CRI","Air transport",0,-2.133934,0,"grid2024A",,,
 "GRC","Air transport",-2.107344,-2.107344,1.206347,"grid2024A",,,
 "SGP","Maritime transport",6.841342,-11.58301,6.841342,"grid2024A",,,
 "AUS","Maritime transport",2.083338,-8.020473,2.083338,"grid2024A",,,
-"USA","Maritime transport",0,0,0,"grid2024A",,,
+"PRT","Maritime transport",0,-18.75,6.131083,"grid2024A",,,
 "BRA","Maritime transport",-2.601809,-10.16088,4.144623,"grid2024A",,,
 "PER","Maritime transport",-5.125401,-5.125401,0,"grid2024A",,,
 "GRC","Maritime transport",-7.540056,-7.540056,3.875965,"grid2024A",,,
 "AUS","Rail freight transport",3.537729,-10.59064,3.537729,"grid2024A",,,
+"JPN","Rail freight transport",0,-11.56069,13.07189,"grid2024A",,,
+"CZE","Rail freight transport",0,-9.388649,12.53012,"grid2024A",,,
+"NLD","Rail freight transport",0,-8.812263,21.84875,"grid2024A",,,
 "HUN","Rail freight transport",0,0,9.252668,"grid2024A",,,
-"LUX","Rail freight transport",0,-19.69698,4.481135,"grid2024A",,,
-"CHE","Rail freight transport",0,-1.976287,2.553765,"grid2024A",,,
-"AUT","Rail freight transport",0,0,0,"grid2024A",,,
 "GRC","Rail freight transport",-7.664228,-7.664228,3.67133,"grid2024A",,,
 "AUS","Road freight transport",15.81769,-21.45455,15.81769,"grid2024A",,,
 "SGP","Road freight transport",9.464282,-29.64824,42.14285,"grid2024A",,,
-"AUT","Road freight transport",0,0,0,"grid2024A",,,
-"EST","Road freight transport",0,-7.039338,5.716405,"grid2024A",,,
-"CAN","Road freight transport",0,0,0,"grid2024A",,,
+"MYS","Road freight transport",0,-5.108222,0,"grid2024A",,,
+"DNK","Road freight transport",0,-1.63473,7.612898,"grid2024A",,,
+"THA","Road freight transport",0,-10.12925,0,"grid2024A",,,
 "GRC","Road freight transport",-5.647847,-5.647847,4.453439,"grid2024A",,,
-"USA","Broadcasting",,,,"grid2025A",33.35861,0,33.35861
 "IRL","Broadcasting",,,,"grid2025A",10.45131,0,10.45131
 "HUN","Broadcasting",,,,"grid2025A",2.465983,0,11.94354
-"TUR","Broadcasting",,,,"grid2025A",2.003488,-3.122365,6.107564
-"PER","Broadcasting",,,,"grid2025A",0,0,.853824
+"DEU","Broadcasting",,,,"grid2025A",0,0,6.541516
+"KOR","Broadcasting",,,,"grid2025A",0,-9.513957,3.995675
+"AUS","Broadcasting",,,,"grid2025A",0,-8.095738,6.548737
 "NZL","Broadcasting",,,,"grid2025A",-5.476192,-14.80687,23.93617
-"USA","Motion pictures",,,,"grid2025A",24.95606,-4.769871,24.95606
 "PER","Motion pictures",,,,"grid2025A",16.81145,0,16.81145
 "IRL","Motion pictures",,,,"grid2025A",10.15011,0,11.73913
 "HUN","Motion pictures",,,,"grid2025A",6.392054,0,16.09529
-"TUR","Motion pictures",,,,"grid2025A",4.159058,-7.679348,15.6508
+"IND","Motion pictures",,,,"grid2025A",0,-5.62154,19.09477
+"MYS","Motion pictures",,,,"grid2025A",0,-5.075687,0
 "NZL","Motion pictures",,,,"grid2025A",-7.093968,-18.6376,25.25597
-"USA","Sound recording",,,,"grid2025A",18.38529,0,18.38529
 "IRL","Sound recording",,,,"grid2025A",7.759791,0,12.90323
 "PER","Sound recording",,,,"grid2025A",6.796931,0,6.796931
-"TUR","Sound recording",,,,"grid2025A",3.858819,-10.4509,8.401345
-"KOR","Sound recording",,,,"grid2025A",0,-16.95966,6.322153
+"PHL","Sound recording",,,,"grid2025A",0,-9.930912,5.512941
+"KAZ","Sound recording",,,,"grid2025A",0,-12.67388,10.50385
+"GBR","Sound recording",,,,"grid2025A",0,-21.51652,8.053219
 "NZL","Sound recording",,,,"grid2025A",-4.907244,-13.406,17.93059
 "FIN","Construction",,,,"grid2025A",32.41629,-10.20165,32.41629
-"USA","Construction",,,,"grid2025A",11.30274,0,11.30274
 "IRL","Construction",,,,"grid2025A",6.865529,0,10.82252
-"TUR","Construction",,,,"grid2025A",6.494016,-14.84684,7.392738
+"MEX","Construction",,,,"grid2025A",0,-6.53492,6.327181
+"HUN","Construction",,,,"grid2025A",0,0,11.47338
 "IDN","Construction",,,,"grid2025A",-3.421627,-6.659394,7.134509
 "NZL","Construction",,,,"grid2025A",-8.643266,-22.10808,24.87451
 "IRL","Courier services",,,,"grid2025A",11.52848,0,11.52848
-"USA","Courier services",,,,"grid2025A",9.683037,0,9.683037
-"USA2","Courier services",,,,"grid2025A",1.095038,0,1.095038
+"USA","Courier services",,,,"grid2025A",1.066321,0,1.066321
+"EST","Courier services",,,,"grid2025A",0,-6.019068,3.102917
+"CZE","Courier services",,,,"grid2025A",0,0,10.06817
 "NZL","Courier services",,,,"grid2025A",-2.506326,-7.160075,13.67498
-"JPN","Courier services",,,,"grid2025A",-3.046159,-10.9589,12.18462
 "IDN","Courier services",,,,"grid2025A",-4.968323,-10.97015,1.244968
-"USA","Computer services",,,,"grid2025A",22.57578,-9.658499,22.57578
 "IRL","Computer services",,,,"grid2025A",8.297847,0,10.1066
 "GRC","Computer services",,,,"grid2025A",7.28419,-12.12511,7.28419
-"TUR","Computer services",,,,"grid2025A",5.962747,-15.11624,13.14111
-"KOR","Computer services",,,,"grid2025A",0,-25.90055,15.22952
+"ESP","Computer services",,,,"grid2025A",0,-25.13474,15.29889
+"AUT","Computer services",,,,"grid2025A",0,0,7.55611
+"JPN","Computer services",,,,"grid2025A",0,-45.17242,82.38997
 "NZL","Computer services",,,,"grid2025A",-8.189944,-21.11176,27.31506
-"USA","Distribution services",,,,"grid2025A",27.65695,0,27.65695
-"TUR","Distribution services",,,,"grid2025A",10.15511,-9.327955,11.191
 "IRL","Distribution services",,,,"grid2025A",9.217293,-7.621414,9.217293
-"USA2","Distribution services",,,,"grid2025A",6.547132,0,6.547132
+"USA","Distribution services",,,,"grid2025A",6.547132,0,6.547132
+"TUR","Distribution services",,,,"grid2025A",6.032918,-8.997946,10.76744
+"HUN","Distribution services",,,,"grid2025A",-3.700452,-3.700452,15.1713
 "PER","Distribution services",,,,"grid2025A",-4.020453,-4.020453,0
 "NZL","Distribution services",,,,"grid2025A",-5.441864,-14.72316,14.70476
-"USA","Commercial banking",,,,"grid2025A",15.0685,0,15.0685
 "SWE","Commercial banking",,,,"grid2025A",14.78873,0,14.78873
 "IRL","Commercial banking",,,,"grid2025A",10.23256,-7.329832,11.29032
+"ZAF","Commercial banking",,,,"grid2025A",0,-7.777778,2.272731
 "NZL","Commercial banking",,,,"grid2025A",-2.46914,-7.058828,24.08759
 "IDN","Commercial banking",,,,"grid2025A",-3.10296,-3.10296,2.118644
 "NOR","Commercial banking",,,,"grid2025A",-3.814708,-3.814708,2.191772
 "IRL","Insurance",,,,"grid2025A",9.004976,0,9.004976
-"USA","Insurance",,,,"grid2025A",6.622748,0,6.622748
+"NOR","Insurance",,,,"grid2025A",-1.893415,-1.893415,3.21435
 "NZL","Insurance",,,,"grid2025A",-3.82848,-10.66856,15.67257
 "IDN","Insurance",,,,"grid2025A",-5.117803,-5.117803,1.716454
 "BRA","Insurance",,,,"grid2025A",-5.754253,-12.60973,7.366075
 "IND","Insurance",,,,"grid2025A",-18.114,-18.114,1.427263
-"USA","Logistics cargo-handling",,,,"grid2025A",20.99236,0,20.99236
 "IRL","Logistics cargo-handling",,,,"grid2025A",10.26393,0,10.26393
-"USA2","Logistics cargo-handling",,,,"grid2025A",3.180658,0,3.180658
+"USA","Logistics cargo-handling",,,,"grid2025A",3.180658,0,3.180658
+"RUS","Logistics cargo-handling",,,,"grid2025A",0,0,0
 "NZL","Logistics cargo-handling",,,,"grid2025A",-2.450989,-7.009349,9.743587
 "DEU","Logistics cargo-handling",,,,"grid2025A",-2.564097,-2.564097,10.21739
 "IDN","Logistics cargo-handling",,,,"grid2025A",-18.82986,-18.82986,1.709984
-"USA","Logistics customs brokerage",,,,"grid2025A",26.15384,-2.864261,26.15384
 "IRL","Logistics customs brokerage",,,,"grid2025A",12.76596,0,12.76596
-"USA2","Logistics customs brokerage",,,,"grid2025A",6.153843,-2.864261,6.153843
-"TUR","Logistics customs brokerage",,,,"grid2025A",3.827749,-6.926413,8.164908
-"RUS","Logistics customs brokerage",,,,"grid2025A",0,-1.111107,26.07005
+"USA","Logistics customs brokerage",,,,"grid2025A",6.153843,-2.864261,6.153843
+"POL","Logistics customs brokerage",,,,"grid2025A",0,0,19.02439
+"NLD","Logistics customs brokerage",,,,"grid2025A",0,-.8264459,21.66666
+"BEL","Logistics customs brokerage",,,,"grid2025A",0,-7.951811,9.786695
 "NZL","Logistics customs brokerage",,,,"grid2025A",-5.882358,-15.78947,16.03053
-"USA","Logistics freight forwarding",,,,"grid2025A",20.95809,0,20.95809
 "IRL","Logistics freight forwarding",,,,"grid2025A",8.163266,0,8.163266
-"USA2","Logistics freight forwarding",,,,"grid2025A",6.586827,0,6.586827
-"TUR","Logistics freight forwarding",,,,"grid2025A",4.583329,-13.25756,6.274513
+"USA","Logistics freight forwarding",,,,"grid2025A",6.586827,0,6.586827
+"SGP","Logistics freight forwarding",,,,"grid2025A",0,-17.88618,21.78218
+"JPN","Logistics freight forwarding",,,,"grid2025A",0,-16.79389,20.18348
 "DEU","Logistics freight forwarding",,,,"grid2025A",-3.7037,-3.7037,11.70213
 "NZL","Logistics freight forwarding",,,,"grid2025A",-5.882354,-15.78948,12.36559
-"USA","Logistics storage and warehouse",,,,"grid2025A",19.89805,0,19.89805
 "IRL","Logistics storage and warehouse",,,,"grid2025A",7.657826,0,9.847485
-"USA2","Logistics storage and warehouse",,,,"grid2025A",5.728355,0,5.728355
+"USA","Logistics storage and warehouse",,,,"grid2025A",5.728355,0,5.728355
+"SVN","Logistics storage and warehouse",,,,"grid2025A",0,0,6.413773
 "NZL","Logistics storage and warehouse",,,,"grid2025A",-4.90457,-13.39935,11.09947
 "DEU","Logistics storage and warehouse",,,,"grid2025A",-6.632587,-6.632587,13.842
 "IDN","Logistics storage and warehouse",,,,"grid2025A",-16.8846,-16.8846,3.533554
-"USA","Accounting services",,,,"grid2025A",12.26667,0,12.26667
 "IRL","Accounting services",,,,"grid2025A",4.726024,0,5.681818
-"LTU","Accounting services",,,,"grid2025A",0,0,7.861634
-"KAZ","Accounting services",,,,"grid2025A",0,-12.22379,10.50081
 "IDN","Accounting services",,,,"grid2025A",0,-4.486349,1.518153
+"LUX","Accounting services",,,,"grid2025A",0,0,5.597014
+"SGP","Accounting services",,,,"grid2025A",0,-17.56757,21.31147
+"ESP","Accounting services",,,,"grid2025A",0,-7.484666,4.420241
 "NZL","Accounting services",,,,"grid2025A",-4.969417,-13.5605,16.06135
 "FIN","Architecture services",,,,"grid2025A",36.72957,-4.965513,36.72957
-"USA","Architecture services",,,,"grid2025A",11.68831,0,11.68831
-"TUR","Architecture services",,,,"grid2025A",9.936769,-14.11947,9.936769
 "IRL","Architecture services",,,,"grid2025A",4.923409,0,13.68159
-"CHL","Architecture services",,,,"grid2025A",0,0,20.45455
+"NLD","Architecture services",,,,"grid2025A",0,-7.223118,7.785471
+"SGP","Architecture services",,,,"grid2025A",0,-34.42879,52.50597
+"RUS","Architecture services",,,,"grid2025A",0,-9.573309,32.34077
 "NZL","Architecture services",,,,"grid2025A",-13.63073,-32.13243,34.77691
 "FIN","Engineering services",,,,"grid2025A",31.61906,-7.252163,31.61906
-"USA","Engineering services",,,,"grid2025A",14.66113,-7.009646,14.66113
 "IRL","Engineering services",,,,"grid2025A",7.742872,0,11.39138
-"TUR","Engineering services",,,,"grid2025A",7.688086,-16.42956,8.786827
-"CZE","Engineering services",,,,"grid2025A",0,0,11.1111
+"CHL","Engineering services",,,,"grid2025A",0,0,28.73462
+"ISR","Engineering services",,,,"grid2025A",0,-9.63322,0
+"USA","Engineering services",,,,"grid2025A",0,-7.009646,0
 "NZL","Engineering services",,,,"grid2025A",-8.172799,-21.07376,24.01991
-"USA","Legal services",,,,"grid2025A",15.53293,-3.861998,15.53293
 "IRL","Legal services",,,,"grid2025A",7.603569,-3.735488,7.603569
-"TUR","Legal services",,,,"grid2025A",1.200745,-3.60287,1.200745
-"GBR","Legal services",,,,"grid2025A",0,-19.51854,5.129959
+"KAZ","Legal services",,,,"grid2025A",0,-12.23084,12.36943
+"ISL","Legal services",,,,"grid2025A",0,-3.7594,1.912717
+"BRA","Legal services",,,,"grid2025A",0,-7.908376,4.025544
 "NOR","Legal services",,,,"grid2025A",-1.626614,-1.626614,5.664065
 "NZL","Legal services",,,,"grid2025A",-3.142986,-8.871304,13.57616
-"USA","Telecommunication",,,,"grid2025A",19.81029,0,19.81029
 "IRL","Telecommunication",,,,"grid2025A",16.20729,0,16.20729
 "GRC","Telecommunication",,,,"grid2025A",10.54156,-4.708724,10.54156
-"TUR","Telecommunication",,,,"grid2025A",3.056085,-6.303009,10.98751
+"IDN","Telecommunication",,,,"grid2025A",-1.610524,-4.524137,1.27299
 "NZL","Telecommunication",,,,"grid2025A",-3.979588,-11.0586,20.21877
+"PER","Telecommunication",,,,"grid2025A",-6.542068,-6.542068,3.500007
 "NOR","Telecommunication",,,,"grid2025A",-10.02314,-14.32388,11.20023
-"USA","Air transport",,,,"grid2025A",4.315442,0,4.315442
-"TUR","Air transport",,,,"grid2025A",.8379393,-2.282602,3.650157
-"LUX","Air transport",,,,"grid2025A",0,0,1.245101
-"DEU","Air transport",,,,"grid2025A",0,0,1.306669
-"MYS","Air transport",,,,"grid2025A",0,-.9602006,0
+"ISL","Air transport",,,,"grid2025A",0,-3.142008,1.036903
+"MEX","Air transport",,,,"grid2025A",0,-2.744154,6.965098
+"ISR","Air transport",,,,"grid2025A",0,0,0
+"IRL","Air transport",,,,"grid2025A",0,0,1.27107
+"HUN","Air transport",,,,"grid2025A",0,0,4.925554
 "NZL","Air transport",,,,"grid2025A",-1.301255,-3.804737,6.956655
-"USA","Maritime transport",,,,"grid2025A",8.615944,0,8.615944
 "IRL","Maritime transport",,,,"grid2025A",7.580648,0,7.580648
 "COL","Maritime transport",,,,"grid2025A",4.602997,0,11.69666
+"DNK","Maritime transport",,,,"grid2025A",0,-2.45231,6.841335
 "NZL","Maritime transport",,,,"grid2025A",-1.544947,-4.495916,10.37594
 "IDN","Maritime transport",,,,"grid2025A",-3.261625,-8.975184,.7692325
 "PER","Maritime transport",,,,"grid2025A",-3.772073,-3.772073,0
-"USA","Rail freight transport",,,,"grid2025A",23.42341,0,23.42341
 "GRC","Rail freight transport",,,,"grid2025A",11.45374,-8.467745,11.45374
 "IRL","Rail freight transport",,,,"grid2025A",9.867172,0,9.867172
+"DEU","Rail freight transport",,,,"grid2025A",0,0,3.822931
 "NZL","Rail freight transport",,,,"grid2025A",-2.21566,-6.364923,13.12
-"TUR","Rail freight transport",,,,"grid2025A",-3.43982,-6.544195,13.12156
+"TUR","Rail freight transport",,,,"grid2025A",-5.186979,-6.433412,12.85522
 "IDN","Rail freight transport",,,,"grid2025A",-6.046511,-15.58441,1.77515
-"USA","Road freight transport",,,,"grid2025A",13.15954,0,13.15954
 "IRL","Road freight transport",,,,"grid2025A",7.443826,0,9.035226
 "GRC","Road freight transport",,,,"grid2025A",6.633281,-5.999994,6.633281
-"TUR","Road freight transport",,,,"grid2025A",5.558169,-9.389664,12.80887
+"FIN","Road freight transport",,,,"grid2025A",0,-2.77325,5.928409
+"GBR","Road freight transport",,,,"grid2025A",0,-12.32628,3.179548
 "IDN","Road freight transport",,,,"grid2025A",-4.661383,-12.85369,5.473095
 "NZL","Road freight transport",,,,"grid2025A",-9.91596,-24.82468,31.54982
