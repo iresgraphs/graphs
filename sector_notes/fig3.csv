@@ -14,11 +14,11 @@ Sector,policyarea,Year_2024_NonOECD,Year_2024_OECD,Year_2025_NonOECD,Year_2025_O
 "Architecture services","Other_discriminatory_measures",13.33867,14.46223,15.60716,13.94286
 "Architecture services","Barriers_to_competition_",6.400001,5.221466,5.668176,5.485714
 "Architecture services","Regulatory_transparency_",18.77333,30.98851,17.31943,29.68997
-"Broadcasting","Restriction_on_foreign_entry_",79.05222,64.05216,79.30972,64.65874
-"Broadcasting","Restrictions_movement_people_",3.841354,5.583208,3.913747,5.592443
-"Broadcasting","Other_discriminatory_measures",5.406462,7.432073,5.420832,7.634864
-"Broadcasting","Barriers_to_competition_",4.43823,8.096305,4.44615,7.92794
-"Broadcasting","Regulatory_transparency_",7.261738,14.83625,6.909558,14.18601
+"Broadcasting","Restriction_on_foreign_entry_",79.05222,64.05216,79.30972,64.6898
+"Broadcasting","Restrictions_movement_people_",3.841354,5.583208,3.913747,5.595129
+"Broadcasting","Other_discriminatory_measures",5.406462,7.432073,5.420833,7.590491
+"Broadcasting","Barriers_to_competition_",4.43823,8.096305,4.446151,7.931748
+"Broadcasting","Regulatory_transparency_",7.261738,14.83625,6.909559,14.19283
 "Commercial banking","Restriction_on_foreign_entry_",65.44304,52.87445,64.64143,54.13287
 "Commercial banking","Restrictions_movement_people_",8.971519,15.31436,8.964143,15.00957
 "Commercial banking","Other_discriminatory_measures",7.199367,6.393001,7.204515,6.379294
@@ -39,11 +39,11 @@ Sector,policyarea,Year_2024_NonOECD,Year_2024_OECD,Year_2025_NonOECD,Year_2025_O
 "Courier services","Other_discriminatory_measures",9.972141,12.17399,10.31688,12.15131
 "Courier services","Barriers_to_competition_",21.82697,22.50585,20.15439,22.24861
 "Courier services","Regulatory_transparency_",6.166187,8.689732,6.197687,8.22067
-"Distribution services","Restriction_on_foreign_entry_",56.7163,40.6797,53.80176,43.83589
-"Distribution services","Restrictions_movement_people_",11.38893,17.35991,12.06391,16.54252
-"Distribution services","Other_discriminatory_measures",8.959443,11.26387,9.965509,10.78346
-"Distribution services","Barriers_to_competition_",15.66571,18.42633,16.60266,17.19366
-"Distribution services","Regulatory_transparency_",7.26961,12.27019,7.566163,11.64446
+"Distribution services","Restriction_on_foreign_entry_",56.7163,40.6797,53.80176,43.8974
+"Distribution services","Restrictions_movement_people_",11.38893,17.35991,12.06391,16.56573
+"Distribution services","Other_discriminatory_measures",8.959443,11.26387,9.965509,10.7986
+"Distribution services","Barriers_to_competition_",15.66571,18.42633,16.60266,17.07748
+"Distribution services","Regulatory_transparency_",7.26961,12.27019,7.566163,11.6608
 "Engineering services","Restriction_on_foreign_entry_",42.67142,21.04179,37.87498,23.91845
 "Engineering services","Restrictions_movement_people_",34.52781,46.0403,35.52301,45.38434
 "Engineering services","Other_discriminatory_measures",9.404078,9.514926,11.485,9.166858
@@ -79,16 +79,16 @@ Sector,policyarea,Year_2024_NonOECD,Year_2024_OECD,Year_2025_NonOECD,Year_2025_O
 "Logistics storage and warehouse","Other_discriminatory_measures",6.904163,8.924819,7.656456,8.877542
 "Logistics storage and warehouse","Barriers_to_competition_",15.00169,13.59977,15.21034,13.01604
 "Logistics storage and warehouse","Regulatory_transparency_",26.13274,29.92037,26.717,28.91076
-"Maritime transport","Restriction_on_foreign_entry_",56.99794,44.48015,57.48895,45.13245
-"Maritime transport","Restrictions_movement_people_",21.05103,27.29113,20.51768,26.65563
-"Maritime transport","Other_discriminatory_measures",10.61704,12.89286,10.98485,13.08361
-"Maritime transport","Barriers_to_competition_",7.894135,10.83282,7.623106,10.75745
-"Maritime transport","Regulatory_transparency_",3.43986,4.503037,3.385417,4.370861
-"Motion pictures","Restriction_on_foreign_entry_",51.40094,30.65975,51.66341,29.99384
-"Motion pictures","Restrictions_movement_people_",10.39514,15.51386,10.45202,15.55138
-"Motion pictures","Other_discriminatory_measures",25.36613,28.73782,24.36185,30.09945
-"Motion pictures","Barriers_to_competition_",2.442664,4.981221,2.572984,4.957902
-"Motion pictures","Regulatory_transparency_",10.39514,20.10735,10.94973,19.39742
+"Maritime transport","Restriction_on_foreign_entry_",56.99794,44.48015,57.64604,45.13245
+"Maritime transport","Restrictions_movement_people_",21.05103,27.29113,20.44186,26.65563
+"Maritime transport","Other_discriminatory_measures",10.61704,12.89286,10.94426,13.08361
+"Maritime transport","Barriers_to_competition_",7.894135,10.83282,7.594936,10.75745
+"Maritime transport","Regulatory_transparency_",3.43986,4.503037,3.372906,4.370861
+"Motion pictures","Restriction_on_foreign_entry_",51.40094,30.65975,50.01053,29.01633
+"Motion pictures","Restrictions_movement_people_",10.39514,15.51386,10.80943,15.81326
+"Motion pictures","Other_discriminatory_measures",25.36613,28.73782,25.19491,30.40495
+"Motion pictures","Barriers_to_competition_",2.442664,4.981221,2.660967,5.04139
+"Motion pictures","Regulatory_transparency_",10.39514,20.10735,11.32416,19.72407
 "Rail freight transport","Restriction_on_foreign_entry_",53.46249,39.56967,52.50217,41.53355
 "Rail freight transport","Restrictions_movement_people_",10.10635,16.37366,10.14573,15.72484
 "Rail freight transport","Other_discriminatory_measures",5.468368,6.552461,5.841674,6.512913
@@ -99,11 +99,11 @@ Sector,policyarea,Year_2024_NonOECD,Year_2024_OECD,Year_2025_NonOECD,Year_2025_O
 "Road freight transport","Other_discriminatory_measures",15.06912,11.6558,15.50956,12.11096
 "Road freight transport","Barriers_to_competition_",12.32512,18.4643,12.05108,19.0458
 "Road freight transport","Regulatory_transparency_",18.67089,25.71362,18.71089,24.7462
-"Sound recording","Restriction_on_foreign_entry_",42.52874,24.39846,42.07416,24.48506
-"Sound recording","Restrictions_movement_people_",18.25088,24.73691,18.68712,24.49957
-"Sound recording","Other_discriminatory_measures",29.31867,30.98217,28.70612,32.25962
-"Sound recording","Barriers_to_competition_",2.798601,4.142181,2.743967,3.677597
-"Sound recording","Regulatory_transparency_",7.103115,15.74029,7.788644,15.07815
+"Sound recording","Restriction_on_foreign_entry_",42.52874,24.39846,42.07416,24.54841
+"Sound recording","Restrictions_movement_people_",18.25088,24.73691,18.68712,24.56296
+"Sound recording","Other_discriminatory_measures",29.31867,30.98217,28.70612,32.08435
+"Sound recording","Barriers_to_competition_",2.798601,4.142181,2.743967,3.687113
+"Sound recording","Regulatory_transparency_",7.103115,15.74029,7.788644,15.11716
 "Telecommunication","Restriction_on_foreign_entry_",35.62162,33.43219,32.88389,35.07713
 "Telecommunication","Restrictions_movement_people_",6.014789,11.65483,5.850061,11.41671
 "Telecommunication","Other_discriminatory_measures",7.399547,17.26901,7.537872,16.97003

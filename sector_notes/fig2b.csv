@@ -154,25 +154,25 @@ Country_code,Sector,d2014_2024,grid,d2014_2025
 "CHN","Road freight transport",-24.72487,"grid2024B",
 "PHL","Road freight transport",-46.13343,"grid2024B",
 "RUS","Broadcasting",,"grid2025B",122.7983
-"HUN","Broadcasting",,"grid2025B",38.9049
-"CZE","Broadcasting",,"grid2025B",27.85671
-"IDN","Broadcasting",,"grid2025B",-9.785572
-"KOR","Broadcasting",,"grid2025B",-9.793821
-"PRT","Broadcasting",,"grid2025B",-13.58863
+"HUN","Broadcasting",,"grid2025B",38.90491
+"CZE","Broadcasting",,"grid2025B",27.8567
+"IDN","Broadcasting",,"grid2025B",-9.785577
+"KOR","Broadcasting",,"grid2025B",-9.79381
+"PRT","Broadcasting",,"grid2025B",-13.58864
 "THA","Broadcasting",,"grid2025B",-17.26124
 "RUS","Motion pictures",,"grid2025B",50.64885
-"HUN","Motion pictures",,"grid2025B",47.63469
-"IRL","Motion pictures",,"grid2025B",40.98809
-"PRT","Motion pictures",,"grid2025B",-15.77287
-"THA","Motion pictures",,"grid2025B",-17.57933
-"JPN","Motion pictures",,"grid2025B",-21.03704
-"IDN","Motion pictures",,"grid2025B",-46.94611
-"RUS","Sound recording",,"grid2025B",80.77835
-"POL","Sound recording",,"grid2025B",55.44974
+"HUN","Motion pictures",,"grid2025B",47.6347
+"IRL","Motion pictures",,"grid2025B",40.9881
+"PRT","Motion pictures",,"grid2025B",-15.77286
+"THA","Motion pictures",,"grid2025B",-18.30945
+"JPN","Motion pictures",,"grid2025B",-26.64165
+"IDN","Motion pictures",,"grid2025B",-48.31553
+"RUS","Sound recording",,"grid2025B",80.77836
+"POL","Sound recording",,"grid2025B",55.44971
 "HUN","Sound recording",,"grid2025B",42.20608
-"THA","Sound recording",,"grid2025B",-15.28089
+"THA","Sound recording",,"grid2025B",-15.2809
 "BRA","Sound recording",,"grid2025B",-17.80538
-"JPN","Sound recording",,"grid2025B",-20.68345
+"JPN","Sound recording",,"grid2025B",-20.68346
 "IDN","Sound recording",,"grid2025B",-52.26772
 "DNK","Construction",,"grid2025B",40.10086
 "IRL","Construction",,"grid2025B",39.42858
