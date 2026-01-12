@@ -1320,7 +1320,7 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","AUS",,,,"STRI2025",,,
 "Computer services","AUS",,,,"STRI2025",12.44596,0,0
 "Telecommunication","AUS",,,,"STRI2025",4.416353,0,0
-"Broadcasting","AUS",,,,"STRI2025",-1.73128,0,0
+"Broadcasting","AUS",,,,"STRI2025",-1.731271,0,0
 "Motion pictures","AUS",,,,"STRI2025",17.53334,0,0
 "Sound recording","AUS",,,,"STRI2025",25,0,0
 "Logistics and related services","AUS",,,,"STRI2025",,,
@@ -1347,7 +1347,7 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Computer services","AUT",,,,"STRI2025",0,7.55611,0
 "Telecommunication","AUT",,,,"STRI2025",7.161506,21.29389,0
 "Broadcasting","AUT",,,,"STRI2025",0,0,0
-"Motion pictures","AUT",,,,"STRI2025",0,8.522728,0
+"Motion pictures","AUT",,,,"STRI2025",0,8.522735,0
 "Sound recording","AUT",,,,"STRI2025",0,9.750154,0
 "Logistics and related services","AUT",,,,"STRI2025",,,
 "Air transport","AUT",,,,"STRI2025",0,1.412623,0
@@ -1371,8 +1371,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","BEL",,,,"STRI2025",,,
 "Computer services","BEL",,,,"STRI2025",-9.869844,12.50174,0
 "Telecommunication","BEL",,,,"STRI2025",-5.905045,25.49348,0
-"Broadcasting","BEL",,,,"STRI2025",-4.823285,9.611177,0
-"Motion pictures","BEL",,,,"STRI2025",-13.6226,16.1799,0
+"Broadcasting","BEL",,,,"STRI2025",-4.823284,9.611181,0
+"Motion pictures","BEL",,,,"STRI2025",-13.62261,16.1799,0
 "Sound recording","BEL",,,,"STRI2025",-15.36246,15.59841,0
 "Logistics and related services","BEL",,,,"STRI2025",,,
 "Air transport","BEL",,,,"STRI2025",-4.392673,1.148625,0
@@ -1397,9 +1397,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","BRA",,,,"STRI2025",,,
 "Computer services","BRA",,,,"STRI2025",-10.37074,-13.15134,0
 "Telecommunication","BRA",,,,"STRI2025",-8.784556,-9.801324,0
-"Broadcasting","BRA",,,,"STRI2025",2.076178,-7.605225,0
-"Motion pictures","BRA",,,,"STRI2025",-.7629617,-9.013791,0
-"Sound recording","BRA",,,,"STRI2025",-5.548659,-12.97676,0
+"Broadcasting","BRA",,,,"STRI2025",2.076186,-7.605234,0
+"Motion pictures","BRA",,,,"STRI2025",-.76296,-9.013785,0
+"Sound recording","BRA",,,,"STRI2025",-5.54865,-12.97677,0
 "Logistics and related services","BRA",,,,"STRI2025",,,
 "Air transport","BRA",,,,"STRI2025",-53.03319,-19.11048,0
 "Maritime transport","BRA",,,,"STRI2025",-6.437384,-17.81339,0
@@ -1449,7 +1449,7 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","CHE",,,,"STRI2025",,,
 "Computer services","CHE",,,,"STRI2025",0,5.213913,0
 "Telecommunication","CHE",,,,"STRI2025",0,2.743064,0
-"Broadcasting","CHE",,,,"STRI2025",0,8.225211,0
+"Broadcasting","CHE",,,,"STRI2025",0,8.225225,0
 "Motion pictures","CHE",,,,"STRI2025",0,13.36872,0
 "Sound recording","CHE",,,,"STRI2025",0,8.667391,0
 "Logistics and related services","CHE",,,,"STRI2025",,,
@@ -1474,9 +1474,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","CHL",,,,"STRI2025",,,
 "Computer services","CHL",,,,"STRI2025",0,36.89166,0
 "Telecommunication","CHL",,,,"STRI2025",0,1.798055,0
-"Broadcasting","CHL",,,,"STRI2025",0,3.094601,0
+"Broadcasting","CHL",,,,"STRI2025",0,3.094616,0
 "Motion pictures","CHL",,,,"STRI2025",0,10.91258,0
-"Sound recording","CHL",,,,"STRI2025",0,19.12443,0
+"Sound recording","CHL",,,,"STRI2025",0,19.12442,0
 "Logistics and related services","CHL",,,,"STRI2025",,,
 "Air transport","CHL",,,,"STRI2025",0,5.61986,0
 "Maritime transport","CHL",,,,"STRI2025",0,20.26022,0
@@ -1500,9 +1500,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","CHN",,,,"STRI2025",,,
 "Computer services","CHN",,,,"STRI2025",8.559252,-19.10139,0
 "Telecommunication","CHN",,,,"STRI2025",2.629591,-7.721819,0
-"Broadcasting","CHN",,,,"STRI2025",7.894742,-5.181286,0
-"Motion pictures","CHN",,,,"STRI2025",7.557918,-6.903239,0
-"Sound recording","CHN",,,,"STRI2025",7.131422,-7.616802,0
+"Broadcasting","CHN",,,,"STRI2025",7.894734,-5.181269,0
+"Motion pictures","CHN",,,,"STRI2025",7.767367,-7.080763,0
+"Sound recording","CHN",,,,"STRI2025",7.131428,-7.616811,0
 "Logistics and related services","CHN",,,,"STRI2025",,,
 "Air transport","CHN",,,,"STRI2025",2.56626,-9.593898,0
 "Maritime transport","CHN",,,,"STRI2025",-14.88646,-20.25691,0
@@ -1526,9 +1526,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","COL",,,,"STRI2025",,,
 "Computer services","COL",,,,"STRI2025",-6.96993,22.22654,0
 "Telecommunication","COL",,,,"STRI2025",-3.64405,2.502934,0
-"Broadcasting","COL",,,,"STRI2025",-3.115683,2.58669,0
-"Motion pictures","COL",,,,"STRI2025",-7.304569,15.76036,0
-"Sound recording","COL",,,,"STRI2025",-4.409369,18.79272,0
+"Broadcasting","COL",,,,"STRI2025",-3.115685,2.586685,0
+"Motion pictures","COL",,,,"STRI2025",-7.304563,15.76037,0
+"Sound recording","COL",,,,"STRI2025",-4.409368,18.79271,0
 "Logistics and related services","COL",,,,"STRI2025",,,
 "Air transport","COL",,,,"STRI2025",-.1903228,.9935794,0
 "Maritime transport","COL",,,,"STRI2025",3.871826,11.69666,4.602997
@@ -1552,8 +1552,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","CRI",,,,"STRI2025",,,
 "Computer services","CRI",,,,"STRI2025",0,-6.127198,0
 "Telecommunication","CRI",,,,"STRI2025",0,-15.03266,0
-"Broadcasting","CRI",,,,"STRI2025",0,-2.290676,0
-"Motion pictures","CRI",,,,"STRI2025",9.202455,-8.426967,0
+"Broadcasting","CRI",,,,"STRI2025",0,-2.290682,0
+"Motion pictures","CRI",,,,"STRI2025",9.202451,-8.426964,0
 "Sound recording","CRI",,,,"STRI2025",0,-10.87696,0
 "Logistics and related services","CRI",,,,"STRI2025",,,
 "Air transport","CRI",,,,"STRI2025",0,-2.133934,0
@@ -1579,8 +1579,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Computer services","CZE",,,,"STRI2025",14.4991,23.62874,0
 "Telecommunication","CZE",,,,"STRI2025",-22.91644,7.621612,0
 "Broadcasting","CZE",,,,"STRI2025",14.26807,11.89189,0
-"Motion pictures","CZE",,,,"STRI2025",14.10891,14.64208,0
-"Sound recording","CZE",,,,"STRI2025",10.49936,18.53997,0
+"Motion pictures","CZE",,,,"STRI2025",14.1089,14.64209,0
+"Sound recording","CZE",,,,"STRI2025",10.49936,18.53998,0
 "Logistics and related services","CZE",,,,"STRI2025",,,
 "Air transport","CZE",,,,"STRI2025",1.206033,1.204982,0
 "Road freight transport","CZE",,,,"STRI2025",13.00992,7.512192,0
@@ -1603,7 +1603,7 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","DEU",,,,"STRI2025",,,
 "Computer services","DEU",,,,"STRI2025",0,20.02346,0
 "Telecommunication","DEU",,,,"STRI2025",0,18.76772,0
-"Broadcasting","DEU",,,,"STRI2025",0,6.541516,0
+"Broadcasting","DEU",,,,"STRI2025",0,6.541521,0
 "Motion pictures","DEU",,,,"STRI2025",0,24.15131,0
 "Sound recording","DEU",,,,"STRI2025",0,30.78881,0
 "Logistics and related services","DEU",,,,"STRI2025",,,
@@ -1629,9 +1629,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","DNK",,,,"STRI2025",,,
 "Computer services","DNK",,,,"STRI2025",21.58718,26.34917,0
 "Telecommunication","DNK",,,,"STRI2025",4.547749,59.23064,0
-"Broadcasting","DNK",,,,"STRI2025",-5.585229,8.899165,0
-"Motion pictures","DNK",,,,"STRI2025",2.65568,22.21231,0
-"Sound recording","DNK",,,,"STRI2025",11.44322,18.54406,0
+"Broadcasting","DNK",,,,"STRI2025",-5.585233,8.899179,0
+"Motion pictures","DNK",,,,"STRI2025",2.655688,22.2123,0
+"Sound recording","DNK",,,,"STRI2025",11.44321,18.54406,0
 "Logistics and related services","DNK",,,,"STRI2025",,,
 "Air transport","DNK",,,,"STRI2025",-1.410332,4.577644,0
 "Maritime transport","DNK",,,,"STRI2025",12.10614,12.86983,0
@@ -1656,8 +1656,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Computer services","ESP",,,,"STRI2025",0,-13.68119,0
 "Telecommunication","ESP",,,,"STRI2025",-12.07673,30.82565,0
 "Broadcasting","ESP",,,,"STRI2025",0,7.256894,0
-"Motion pictures","ESP",,,,"STRI2025",0,2.860063,0
-"Sound recording","ESP",,,,"STRI2025",0,-6.82731,0
+"Motion pictures","ESP",,,,"STRI2025",0,2.860067,0
+"Sound recording","ESP",,,,"STRI2025",0,-6.827316,0
 "Logistics and related services","ESP",,,,"STRI2025",,,
 "Air transport","ESP",,,,"STRI2025",0,-2.366865,0
 "Maritime transport","ESP",,,,"STRI2025",0,-7.482989,0
@@ -1681,9 +1681,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","EST",,,,"STRI2025",,,
 "Computer services","EST",,,,"STRI2025",-28.55884,8.222404,0
 "Telecommunication","EST",,,,"STRI2025",-12.45639,13.32736,0
-"Broadcasting","EST",,,,"STRI2025",.9850171,-2.459715,0
-"Motion pictures","EST",,,,"STRI2025",-3.475603,-8.970314,0
-"Sound recording","EST",,,,"STRI2025",-5.958372,3.43512,0
+"Broadcasting","EST",,,,"STRI2025",.9850043,-2.459707,0
+"Motion pictures","EST",,,,"STRI2025",-3.475606,-8.970309,0
+"Sound recording","EST",,,,"STRI2025",-5.958361,3.435113,0
 "Logistics and related services","EST",,,,"STRI2025",,,
 "Air transport","EST",,,,"STRI2025",-3.809265,1.279969,0
 "Maritime transport","EST",,,,"STRI2025",-4.576654,3.47721,0
@@ -1707,9 +1707,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","FIN",,,,"STRI2025",,,
 "Computer services","FIN",,,,"STRI2025",-7.107952,14.37449,0
 "Telecommunication","FIN",,,,"STRI2025",-2.910534,23.99085,0
-"Broadcasting","FIN",,,,"STRI2025",3.304776,8.688786,0
-"Motion pictures","FIN",,,,"STRI2025",14.28572,16.25586,0
-"Sound recording","FIN",,,,"STRI2025",-5.82866,20.50708,0
+"Broadcasting","FIN",,,,"STRI2025",3.30477,8.688787,0
+"Motion pictures","FIN",,,,"STRI2025",14.28571,16.25587,0
+"Sound recording","FIN",,,,"STRI2025",-5.828641,20.50708,0
 "Logistics and related services","FIN",,,,"STRI2025",,,
 "Air transport","FIN",,,,"STRI2025",-1.002503,2.91772,0
 "Maritime transport","FIN",,,,"STRI2025",-5.1282,10.27028,0
@@ -1733,9 +1733,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","FRA",,,,"STRI2025",,,
 "Computer services","FRA",,,,"STRI2025",9.316839,-7.012111,0
 "Telecommunication","FRA",,,,"STRI2025",2.976516,3.609808,0
-"Broadcasting","FRA",,,,"STRI2025",1.662705,0,0
-"Motion pictures","FRA",,,,"STRI2025",2.390934,-5.530527,0
-"Sound recording","FRA",,,,"STRI2025",5.65395,-10.31593,0
+"Broadcasting","FRA",,,,"STRI2025",1.66271,0,0
+"Motion pictures","FRA",,,,"STRI2025",2.542377,-5.872123,0
+"Sound recording","FRA",,,,"STRI2025",5.653949,-10.31593,0
 "Logistics and related services","FRA",,,,"STRI2025",,,
 "Air transport","FRA",,,,"STRI2025",1.115679,-2.496384,0
 "Maritime transport","FRA",,,,"STRI2025",2.750803,-4.566933,0
@@ -1759,8 +1759,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","GBR",,,,"STRI2025",,,
 "Computer services","GBR",,,,"STRI2025",8.408948,-31.02678,0
 "Telecommunication","GBR",,,,"STRI2025",3.889224,-14.97449,0
-"Broadcasting","GBR",,,,"STRI2025",1.837267,4.123716,0
-"Motion pictures","GBR",,,,"STRI2025",3.582664,-5.21845,0
+"Broadcasting","GBR",,,,"STRI2025",1.837264,4.123715,0
+"Motion pictures","GBR",,,,"STRI2025",3.582649,-5.218441,0
 "Sound recording","GBR",,,,"STRI2025",6.171002,-15.19608,0
 "Logistics and related services","GBR",,,,"STRI2025",,,
 "Air transport","GBR",,,,"STRI2025",1.081086,-48.12834,0
@@ -1785,9 +1785,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","GRC",,,,"STRI2025",,,
 "Computer services","GRC",,,,"STRI2025",0,-7.511839,7.28419
 "Telecommunication","GRC",,,,"STRI2025",0,4.509924,10.54156
-"Broadcasting","GRC",,,,"STRI2025",2.248059,-2.653528,0
-"Motion pictures","GRC",,,,"STRI2025",0,1.344436,0
-"Sound recording","GRC",,,,"STRI2025",10.34929,-.3517041,0
+"Broadcasting","GRC",,,,"STRI2025",2.248065,-2.653523,0
+"Motion pictures","GRC",,,,"STRI2025",0,1.344427,0
+"Sound recording","GRC",,,,"STRI2025",10.34929,-.3517035,0
 "Logistics and related services","GRC",,,,"STRI2025",,,
 "Air transport","GRC",,,,"STRI2025",0,-.9264187,0
 "Maritime transport","GRC",,,,"STRI2025",0,-4.941858,0
@@ -1811,8 +1811,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","HUN",,,,"STRI2025",,,
 "Computer services","HUN",,,,"STRI2025",7.970171,36.4248,0
 "Telecommunication","HUN",,,,"STRI2025",3.035538,34.71144,0
-"Broadcasting","HUN",,,,"STRI2025",6.167144,27.68731,2.465983
-"Motion pictures","HUN",,,,"STRI2025",3.745075,33.75553,6.392054
+"Broadcasting","HUN",,,,"STRI2025",6.16715,27.6873,2.46599
+"Motion pictures","HUN",,,,"STRI2025",3.745078,33.75554,6.392044
 "Sound recording","HUN",,,,"STRI2025",5.482174,34.81527,0
 "Logistics and related services","HUN",,,,"STRI2025",,,
 "Air transport","HUN",,,,"STRI2025",1.074977,9.711514,0
@@ -1836,9 +1836,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","IDN",,,,"STRI2025",,,
 "Computer services","IDN",,,,"STRI2025",-5.037047,-6.052083,0
 "Telecommunication","IDN",,,,"STRI2025",0,-6.363227,-1.610524
-"Broadcasting","IDN",,,,"STRI2025",-1.403505,-8.501385,0
-"Motion pictures","IDN",,,,"STRI2025",-42.99401,-6.932777,0
-"Sound recording","IDN",,,,"STRI2025",-47.83035,-8.505637,0
+"Broadcasting","IDN",,,,"STRI2025",-1.403505,-8.501389,0
+"Motion pictures","IDN",,,,"STRI2025",-44.24815,-7.295503,0
+"Sound recording","IDN",,,,"STRI2025",-47.83035,-8.505647,0
 "Logistics and related services","IDN",,,,"STRI2025",,,
 "Air transport","IDN",,,,"STRI2025",-25.09753,27.44614,0
 "Maritime transport","IDN",,,,"STRI2025",-1.442905,-8.274992,-3.261625
@@ -1862,9 +1862,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","IND",,,,"STRI2025",,,
 "Computer services","IND",,,,"STRI2025",3.61082,-9.125424,0
 "Telecommunication","IND",,,,"STRI2025",2.448186,-10.08457,0
-"Broadcasting","IND",,,,"STRI2025",2.516661,-5.294827,0
-"Motion pictures","IND",,,,"STRI2025",9.710076,4.781882,0
-"Sound recording","IND",,,,"STRI2025",19.0031,-6.02094,0
+"Broadcasting","IND",,,,"STRI2025",2.516647,-5.294824,0
+"Motion pictures","IND",,,,"STRI2025",9.71008,-1.174489,0
+"Sound recording","IND",,,,"STRI2025",19.00313,-6.020944,0
 "Logistics and related services","IND",,,,"STRI2025",,,
 "Air transport","IND",,,,"STRI2025",-13.16713,-8.187889,0
 "Maritime transport","IND",,,,"STRI2025",-6.422011,-9.117647,0
@@ -1888,9 +1888,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","IRL",,,,"STRI2025",,,
 "Computer services","IRL",,,,"STRI2025",0,28.59666,8.297847
 "Telecommunication","IRL",,,,"STRI2025",0,32.19694,16.20729
-"Broadcasting","IRL",,,,"STRI2025",0,7.672634,10.45131
-"Motion pictures","IRL",,,,"STRI2025",0,27.99632,10.15011
-"Sound recording","IRL",,,,"STRI2025",0,28.0899,7.759791
+"Broadcasting","IRL",,,,"STRI2025",0,7.672634,10.4513
+"Motion pictures","IRL",,,,"STRI2025",0,27.99633,10.15011
+"Sound recording","IRL",,,,"STRI2025",0,28.08988,7.759787
 "Logistics and related services","IRL",,,,"STRI2025",,,
 "Air transport","IRL",,,,"STRI2025",0,3.693177,0
 "Maritime transport","IRL",,,,"STRI2025",0,14.81482,7.580648
@@ -1914,9 +1914,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","ISL",,,,"STRI2025",,,
 "Computer services","ISL",,,,"STRI2025",-3.893012,3.862472,0
 "Telecommunication","ISL",,,,"STRI2025",9.890413,1.212814,0
-"Broadcasting","ISL",,,,"STRI2025",-5.94144,2.613039,0
-"Motion pictures","ISL",,,,"STRI2025",-9.275434,3.542566,0
-"Sound recording","ISL",,,,"STRI2025",-8.53694,2.639203,0
+"Broadcasting","ISL",,,,"STRI2025",-6.016014,2.647938,0
+"Motion pictures","ISL",,,,"STRI2025",-9.642443,3.697693,0
+"Sound recording","ISL",,,,"STRI2025",-8.958908,2.782487,0
 "Logistics and related services","ISL",,,,"STRI2025",,,
 "Air transport","ISL",,,,"STRI2025",-3.142008,1.036903,0
 "Maritime transport","ISL",,,,"STRI2025",-4.639686,1.138719,0
@@ -1939,7 +1939,7 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","ISR",,,,"STRI2025",,,
 "Computer services","ISR",,,,"STRI2025",0,7.204029,0
 "Telecommunication","ISR",,,,"STRI2025",-22.40239,6.446898,0
-"Broadcasting","ISR",,,,"STRI2025",0,5.765182,0
+"Broadcasting","ISR",,,,"STRI2025",0,5.765206,0
 "Motion pictures","ISR",,,,"STRI2025",0,0,0
 "Sound recording","ISR",,,,"STRI2025",0,0,0
 "Logistics and related services","ISR",,,,"STRI2025",,,
@@ -1965,7 +1965,7 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","ITA",,,,"STRI2025",,,
 "Computer services","ITA",,,,"STRI2025",0,0,0
 "Telecommunication","ITA",,,,"STRI2025",6.48568,7.16592,0
-"Broadcasting","ITA",,,,"STRI2025",0,8.607194,0
+"Broadcasting","ITA",,,,"STRI2025",0,8.607203,0
 "Motion pictures","ITA",,,,"STRI2025",0,14.06805,0
 "Sound recording","ITA",,,,"STRI2025",0,12.98395,0
 "Logistics and related services","ITA",,,,"STRI2025",,,
@@ -1992,8 +1992,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Computer services","JPN",,,,"STRI2025",-17.76402,0,0
 "Telecommunication","JPN",,,,"STRI2025",-5.026555,0,0
 "Broadcasting","JPN",,,,"STRI2025",0,0,0
-"Motion pictures","JPN",,,,"STRI2025",-21.03704,0,0
-"Sound recording","JPN",,,,"STRI2025",-20.68345,0,0
+"Motion pictures","JPN",,,,"STRI2025",-26.64165,0,0
+"Sound recording","JPN",,,,"STRI2025",-20.68346,0,0
 "Logistics and related services","JPN",,,,"STRI2025",,,
 "Air transport","JPN",,,,"STRI2025",0,0,0
 "Maritime transport","JPN",,,,"STRI2025",-11.08491,0,0
@@ -2017,9 +2017,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","KAZ",,,,"STRI2025",,,
 "Computer services","KAZ",,,,"STRI2025",-4.826652,-.9744176,0
 "Telecommunication","KAZ",,,,"STRI2025",-5.777634,.6103644,0
-"Broadcasting","KAZ",,,,"STRI2025",9.271238,-.8484685,0
-"Motion pictures","KAZ",,,,"STRI2025",-2.972695,-4.061267,0
-"Sound recording","KAZ",,,,"STRI2025",-2.049357,-3.501277,0
+"Broadcasting","KAZ",,,,"STRI2025",9.271235,-.8484635,0
+"Motion pictures","KAZ",,,,"STRI2025",-3.126137,-4.277669,0
+"Sound recording","KAZ",,,,"STRI2025",-2.049353,-3.501277,0
 "Logistics and related services","KAZ",,,,"STRI2025",,,
 "Air transport","KAZ",,,,"STRI2025",-.4663923,2.300855,0
 "Maritime transport","KAZ",,,,"STRI2025",2.244163,-.9657616,0
@@ -2043,9 +2043,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","KOR",,,,"STRI2025",,,
 "Computer services","KOR",,,,"STRI2025",-7.365479,-8.394947,0
 "Telecommunication","KOR",,,,"STRI2025",-6.13484,-6.440084,0
-"Broadcasting","KOR",,,,"STRI2025",-.7216555,-9.138112,0
-"Motion pictures","KOR",,,,"STRI2025",-7.373867,-6.610805,0
-"Sound recording","KOR",,,,"STRI2025",-8.748669,-6.682159,0
+"Broadcasting","KOR",,,,"STRI2025",-.7216471,-9.138108,0
+"Motion pictures","KOR",,,,"STRI2025",-7.854851,-7.078764,0
+"Sound recording","KOR",,,,"STRI2025",-8.748669,-6.682156,0
 "Logistics and related services","KOR",,,,"STRI2025",,,
 "Air transport","KOR",,,,"STRI2025",2.608545,-2.841624,0
 "Maritime transport","KOR",,,,"STRI2025",-4.602886,-8.893098,0
@@ -2069,9 +2069,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","LTU",,,,"STRI2025",,,
 "Computer services","LTU",,,,"STRI2025",22.95181,7.470745,0
 "Telecommunication","LTU",,,,"STRI2025",23.52488,13.54805,0
-"Broadcasting","LTU",,,,"STRI2025",14.82557,0,0
-"Motion pictures","LTU",,,,"STRI2025",15.6991,15.40636,0
-"Sound recording","LTU",,,,"STRI2025",8.783067,15.5642,0
+"Broadcasting","LTU",,,,"STRI2025",14.82559,0,0
+"Motion pictures","LTU",,,,"STRI2025",15.69909,15.40637,0
+"Sound recording","LTU",,,,"STRI2025",8.783066,15.5642,0
 "Logistics and related services","LTU",,,,"STRI2025",,,
 "Air transport","LTU",,,,"STRI2025",1.104969,1.236341,0
 "Maritime transport","LTU",,,,"STRI2025",11.61525,4.715451,0
@@ -2095,9 +2095,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","LUX",,,,"STRI2025",,,
 "Computer services","LUX",,,,"STRI2025",0,17.20055,0
 "Telecommunication","LUX",,,,"STRI2025",0,26.74335,0
-"Broadcasting","LUX",,,,"STRI2025",3.734713,13.65611,0
-"Motion pictures","LUX",,,,"STRI2025",0,5.303516,0
-"Sound recording","LUX",,,,"STRI2025",0,8.361215,0
+"Broadcasting","LUX",,,,"STRI2025",3.734712,13.65611,0
+"Motion pictures","LUX",,,,"STRI2025",0,5.832744,0
+"Sound recording","LUX",,,,"STRI2025",0,8.361211,0
 "Logistics and related services","LUX",,,,"STRI2025",,,
 "Air transport","LUX",,,,"STRI2025",0,1.245101,0
 "Road freight transport","LUX",,,,"STRI2025",0,13.15601,0
@@ -2120,8 +2120,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","LVA",,,,"STRI2025",,,
 "Computer services","LVA",,,,"STRI2025",0,10.33978,0
 "Telecommunication","LVA",,,,"STRI2025",21.64474,15.62466,0
-"Broadcasting","LVA",,,,"STRI2025",11.12233,0,0
-"Motion pictures","LVA",,,,"STRI2025",0,12.772,0
+"Broadcasting","LVA",,,,"STRI2025",11.12234,0,0
+"Motion pictures","LVA",,,,"STRI2025",0,12.77199,0
 "Sound recording","LVA",,,,"STRI2025",0,20.51282,0
 "Logistics and related services","LVA",,,,"STRI2025",,,
 "Air transport","LVA",,,,"STRI2025",-1.315791,1.206669,0
@@ -2146,8 +2146,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","MEX",,,,"STRI2025",,,
 "Computer services","MEX",,,,"STRI2025",6.483599,0,0
 "Telecommunication","MEX",,,,"STRI2025",-30.70095,4.817501,0
-"Broadcasting","MEX",,,,"STRI2025",5.047594,0,0
-"Motion pictures","MEX",,,,"STRI2025",4.377883,0,0
+"Broadcasting","MEX",,,,"STRI2025",5.047595,0,0
+"Motion pictures","MEX",,,,"STRI2025",4.377875,0,0
 "Sound recording","MEX",,,,"STRI2025",4.503022,0,0
 "Logistics and related services","MEX",,,,"STRI2025",,,
 "Air transport","MEX",,,,"STRI2025",-2.744154,9.183136,0
@@ -2172,9 +2172,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","MYS",,,,"STRI2025",,,
 "Computer services","MYS",,,,"STRI2025",0,-6.323238,0
 "Telecommunication","MYS",,,,"STRI2025",0,-20.94858,0
-"Broadcasting","MYS",,,,"STRI2025",0,-2.716746,0
-"Motion pictures","MYS",,,,"STRI2025",0,-5.075687,0
-"Sound recording","MYS",,,,"STRI2025",0,-4.573343,0
+"Broadcasting","MYS",,,,"STRI2025",0,-2.716748,0
+"Motion pictures","MYS",,,,"STRI2025",0,-5.418245,0
+"Sound recording","MYS",,,,"STRI2025",0,-4.573335,0
 "Logistics and related services","MYS",,,,"STRI2025",,,
 "Air transport","MYS",,,,"STRI2025",0,-.9602006,0
 "Maritime transport","MYS",,,,"STRI2025",0,-1.15063,0
@@ -2198,9 +2198,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","NLD",,,,"STRI2025",,,
 "Computer services","NLD",,,,"STRI2025",0,-1.374238,0
 "Telecommunication","NLD",,,,"STRI2025",-10.57932,9.795763,0
-"Broadcasting","NLD",,,,"STRI2025",6.343612,-.9941981,0
-"Motion pictures","NLD",,,,"STRI2025",0,2.411023,0
-"Sound recording","NLD",,,,"STRI2025",0,-.6637173,0
+"Broadcasting","NLD",,,,"STRI2025",6.343612,-.9941956,0
+"Motion pictures","NLD",,,,"STRI2025",0,2.411016,0
+"Sound recording","NLD",,,,"STRI2025",0,-.6637088,0
 "Logistics and related services","NLD",,,,"STRI2025",,,
 "Air transport","NLD",,,,"STRI2025",0,-.9733884,0
 "Maritime transport","NLD",,,,"STRI2025",0,-.9685131,0
@@ -2224,9 +2224,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","NOR",,,,"STRI2025",,,
 "Computer services","NOR",,,,"STRI2025",-.0153847,-6.346927,0
 "Telecommunication","NOR",,,,"STRI2025",-5.474092,11.20023,-10.02314
-"Broadcasting","NOR",,,,"STRI2025",4.563487,8.349141,0
-"Motion pictures","NOR",,,,"STRI2025",4.967097,8.095768,0
-"Sound recording","NOR",,,,"STRI2025",-3.244993,6.428178,0
+"Broadcasting","NOR",,,,"STRI2025",4.56349,8.349144,0
+"Motion pictures","NOR",,,,"STRI2025",4.967092,8.09578,0
+"Sound recording","NOR",,,,"STRI2025",-3.245001,6.428174,0
 "Logistics and related services","NOR",,,,"STRI2025",,,
 "Air transport","NOR",,,,"STRI2025",1.034506,0,0
 "Maritime transport","NOR",,,,"STRI2025",1.779939,7.472181,0
@@ -2250,9 +2250,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","NZL",,,,"STRI2025",,,
 "Computer services","NZL",,,,"STRI2025",10.37052,9.396093,-8.189944
 "Telecommunication","NZL",,,,"STRI2025",6.019667,11.35576,-3.979588
-"Broadcasting","NZL",,,,"STRI2025",13.25301,11.70212,-5.476192
-"Motion pictures","NZL",,,,"STRI2025",0,9.692839,-7.093968
-"Sound recording","NZL",,,,"STRI2025",7.980567,7.390744,-4.907244
+"Broadcasting","NZL",,,,"STRI2025",13.25302,11.70211,-5.476189
+"Motion pictures","NZL",,,,"STRI2025",0,9.692822,-7.093957
+"Sound recording","NZL",,,,"STRI2025",7.980571,7.390739,-4.907243
 "Logistics and related services","NZL",,,,"STRI2025",,,
 "Air transport","NZL",,,,"STRI2025",2.957017,4.243711,-1.301255
 "Maritime transport","NZL",,,,"STRI2025",5.723377,7.067665,-1.544947
@@ -2276,12 +2276,12 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","PER",,,,"STRI2025",,,
 "Computer services","PER",,,,"STRI2025",0,0,0
 "Telecommunication","PER",,,,"STRI2025",3.500007,3.381649,-6.542068
-"Broadcasting","PER",,,,"STRI2025",0,.853824,0
-"Motion pictures","PER",,,,"STRI2025",2.949517,7.823688,16.81145
-"Sound recording","PER",,,,"STRI2025",2.615515,0,6.796931
+"Broadcasting","PER",,,,"STRI2025",0,.853811,0
+"Motion pictures","PER",,,,"STRI2025",2.949519,7.823691,16.81145
+"Sound recording","PER",,,,"STRI2025",2.615522,0,6.796942
 "Logistics and related services","PER",,,,"STRI2025",,,
 "Air transport","PER",,,,"STRI2025",0,6.070263,0
-"Maritime transport","PER",,,,"STRI2025",0,0,-3.772073
+"Maritime transport","PER",,,,"STRI2025",0,0,0
 "Road freight transport","PER",,,,"STRI2025",0,0,0
 "Rail freight transport","PER",,,,"STRI2025",0,0,0
 "Courier services","PER",,,,"STRI2025",0,-3.727298,0
@@ -2303,15 +2303,15 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Computer services","PHL",,,,"STRI2025",-6.83288,-7.743387,0
 "Telecommunication","PHL",,,,"STRI2025",-1.346318,-11.64531,0
 "Broadcasting","PHL",,,,"STRI2025",0,0,0
-"Motion pictures","PHL",,,,"STRI2025",-2.257433,-5.753638,0
-"Sound recording","PHL",,,,"STRI2025",-3.45978,-4.965456,0
+"Motion pictures","PHL",,,,"STRI2025",-2.39194,-6.104901,0
+"Sound recording","PHL",,,,"STRI2025",-3.459774,-4.965459,0
 "Logistics and related services","PHL",,,,"STRI2025",,,
 "Air transport","PHL",,,,"STRI2025",-.980029,-50.22887,0
 "Maritime transport","PHL",,,,"STRI2025",-2.836876,-30.87592,0
 "Road freight transport","PHL",,,,"STRI2025",-2.023803,-47.2256,0
 "Rail freight transport","PHL",,,,"STRI2025",0,0,0
 "Courier services","PHL",,,,"STRI2025",-2.385403,0,0
-"Distribution services","PHL",,,,"STRI2025",-1.38814,0,0
+"Distribution services","PHL",,,,"STRI2025",-1.38814,-1.735259,0
 "Cargo-handling","PHL",,,,"STRI2025",-5.617979,0,0
 "Storage and warehouse","PHL",,,,"STRI2025",-7.862088,0,0
 "Freight-forwarding","PHL",,,,"STRI2025",-10.12658,-42.25352,0
@@ -2328,9 +2328,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","POL",,,,"STRI2025",,,
 "Computer services","POL",,,,"STRI2025",13.36264,42.67833,0
 "Telecommunication","POL",,,,"STRI2025",9.529053,20.7235,0
-"Broadcasting","POL",,,,"STRI2025",0,3.938152,0
-"Motion pictures","POL",,,,"STRI2025",3.960394,22.41757,0
-"Sound recording","POL",,,,"STRI2025",12.16931,38.58491,0
+"Broadcasting","POL",,,,"STRI2025",0,3.93815,0
+"Motion pictures","POL",,,,"STRI2025",3.960398,22.41758,0
+"Sound recording","POL",,,,"STRI2025",12.16932,38.58488,0
 "Logistics and related services","POL",,,,"STRI2025",,,
 "Air transport","POL",,,,"STRI2025",2.688176,4.325917,0
 "Maritime transport","POL",,,,"STRI2025",0,30.72165,0
@@ -2354,9 +2354,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","PRT",,,,"STRI2025",,,
 "Computer services","PRT",,,,"STRI2025",-23.15331,-1.848042,0
 "Telecommunication","PRT",,,,"STRI2025",-19.07575,9.578001,0
-"Broadcasting","PRT",,,,"STRI2025",-6.485486,-7.59577,0
-"Motion pictures","PRT",,,,"STRI2025",-17.98107,2.692309,0
-"Sound recording","PRT",,,,"STRI2025",-19.57546,7.624626,0
+"Broadcasting","PRT",,,,"STRI2025",-6.485484,-7.595776,0
+"Motion pictures","PRT",,,,"STRI2025",-17.98107,2.69231,0
+"Sound recording","PRT",,,,"STRI2025",-19.57547,7.624632,0
 "Logistics and related services","PRT",,,,"STRI2025",,,
 "Air transport","PRT",,,,"STRI2025",-3.149605,.0135485,0
 "Maritime transport","PRT",,,,"STRI2025",-17.3291,-5.576919,0
@@ -2380,9 +2380,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","RUS",,,,"STRI2025",,,
 "Computer services","RUS",,,,"STRI2025",9.498824,37.48636,0
 "Telecommunication","RUS",,,,"STRI2025",.0135359,26.03222,0
-"Broadcasting","RUS",,,,"STRI2025",58.7114,40.37954,0
-"Motion pictures","RUS",,,,"STRI2025",5.583966,42.68156,0
-"Sound recording","RUS",,,,"STRI2025",5.457995,71.42214,0
+"Broadcasting","RUS",,,,"STRI2025",58.7114,40.37953,0
+"Motion pictures","RUS",,,,"STRI2025",5.583956,42.68157,0
+"Sound recording","RUS",,,,"STRI2025",5.457999,71.42214,0
 "Logistics and related services","RUS",,,,"STRI2025",,,
 "Air transport","RUS",,,,"STRI2025",1.399857,11.04429,0
 "Maritime transport","RUS",,,,"STRI2025",8.034184,23.57595,0
@@ -2407,8 +2407,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Computer services","SGP",,,,"STRI2025",0,17.86172,0
 "Telecommunication","SGP",,,,"STRI2025",0,7.971006,0
 "Broadcasting","SGP",,,,"STRI2025",0,0,0
-"Motion pictures","SGP",,,,"STRI2025",-6.920068,0,0
-"Sound recording","SGP",,,,"STRI2025",-7.210029,7.770267,0
+"Motion pictures","SGP",,,,"STRI2025",-7.434555,0,0
+"Sound recording","SGP",,,,"STRI2025",-7.210033,7.770272,0
 "Logistics and related services","SGP",,,,"STRI2025",,,
 "Air transport","SGP",,,,"STRI2025",1.785263,0,0
 "Maritime transport","SGP",,,,"STRI2025",0,.1398587,0
@@ -2431,9 +2431,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","SVK",,,,"STRI2025",,,
 "Computer services","SVK",,,,"STRI2025",0,23.60866,0
 "Telecommunication","SVK",,,,"STRI2025",0,31.24825,0
-"Broadcasting","SVK",,,,"STRI2025",5.51593,9.914378,0
+"Broadcasting","SVK",,,,"STRI2025",5.515928,9.914372,0
 "Motion pictures","SVK",,,,"STRI2025",0,12.11849,0
-"Sound recording","SVK",,,,"STRI2025",0,14.65201,0
+"Sound recording","SVK",,,,"STRI2025",0,14.65202,0
 "Logistics and related services","SVK",,,,"STRI2025",,,
 "Air transport","SVK",,,,"STRI2025",0,0,0
 "Road freight transport","SVK",,,,"STRI2025",0,15.27546,0
@@ -2456,9 +2456,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","SVN",,,,"STRI2025",,,
 "Computer services","SVN",,,,"STRI2025",7.744646,5.874175,0
 "Telecommunication","SVN",,,,"STRI2025",-1.175366,9.731,0
-"Broadcasting","SVN",,,,"STRI2025",4.893619,0,0
-"Motion pictures","SVN",,,,"STRI2025",3.406599,7.173212,0
-"Sound recording","SVN",,,,"STRI2025",1.307197,9.384166,0
+"Broadcasting","SVN",,,,"STRI2025",4.893615,0,0
+"Motion pictures","SVN",,,,"STRI2025",3.694866,7.758619,0
+"Sound recording","SVN",,,,"STRI2025",1.307187,9.384166,0
 "Logistics and related services","SVN",,,,"STRI2025",,,
 "Air transport","SVN",,,,"STRI2025",-1.481042,1.231211,0
 "Maritime transport","SVN",,,,"STRI2025",1.10442,2.879843,0
@@ -2483,8 +2483,8 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Computer services","SWE",,,,"STRI2025",0,15.56555,0
 "Telecommunication","SWE",,,,"STRI2025",-7.023887,51.17863,0
 "Broadcasting","SWE",,,,"STRI2025",0,0,0
-"Motion pictures","SWE",,,,"STRI2025",0,8.928561,0
-"Sound recording","SWE",,,,"STRI2025",0,12.7186,0
+"Motion pictures","SWE",,,,"STRI2025",0,8.92857,0
+"Sound recording","SWE",,,,"STRI2025",0,12.71859,0
 "Logistics and related services","SWE",,,,"STRI2025",,,
 "Air transport","SWE",,,,"STRI2025",-2.604163,1.209895,0
 "Maritime transport","SWE",,,,"STRI2025",0,8.888894,0
@@ -2508,9 +2508,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","THA",,,,"STRI2025",,,
 "Computer services","THA",,,,"STRI2025",-7.761834,-8.825071,0
 "Telecommunication","THA",,,,"STRI2025",-6.00187,-4.995954,0
-"Broadcasting","THA",,,,"STRI2025",-9.085835,-8.992439,0
-"Motion pictures","THA",,,,"STRI2025",-9.604042,-8.822612,0
-"Sound recording","THA",,,,"STRI2025",-7.897267,-8.016728,0
+"Broadcasting","THA",,,,"STRI2025",-9.085839,-8.992435,0
+"Motion pictures","THA",,,,"STRI2025",-10.00292,-9.22977,0
+"Sound recording","THA",,,,"STRI2025",-7.89727,-8.016732,0
 "Logistics and related services","THA",,,,"STRI2025",,,
 "Air transport","THA",,,,"STRI2025",-.8646786,-2.466847,0
 "Maritime transport","THA",,,,"STRI2025",-3.088541,-6.65722,0
@@ -2534,9 +2534,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","TUR",,,,"STRI2025",,,
 "Computer services","TUR",,,,"STRI2025",12.34989,-4.7648,0
 "Telecommunication","TUR",,,,"STRI2025",8.296823,1.064213,0
-"Broadcasting","TUR",,,,"STRI2025",4.08922,4.553571,0
-"Motion pictures","TUR",,,,"STRI2025",5.646121,7.452018,0
-"Sound recording","TUR",,,,"STRI2025",8.083148,-5.683763,0
+"Broadcasting","TUR",,,,"STRI2025",4.089225,4.553562,0
+"Motion pictures","TUR",,,,"STRI2025",5.983986,7.872761,0
+"Sound recording","TUR",,,,"STRI2025",8.083133,-5.683759,0
 "Logistics and related services","TUR",,,,"STRI2025",,,
 "Air transport","TUR",,,,"STRI2025",2.743277,-1.006424,0
 "Maritime transport","TUR",,,,"STRI2025",9.884465,9.228968,0
@@ -2561,7 +2561,7 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Computer services","USA",,,,"STRI2025",10.6911,-9.658499,0
 "Telecommunication","USA",,,,"STRI2025",0,0,0
 "Broadcasting","USA",,,,"STRI2025",0,0,0
-"Motion pictures","USA",,,,"STRI2025",-4.769871,0,0
+"Motion pictures","USA",,,,"STRI2025",-4.769876,0,0
 "Sound recording","USA",,,,"STRI2025",0,0,0
 "Logistics and related services","USA",,,,"STRI2025",,,
 "Air transport","USA",,,,"STRI2025",0,0,0
@@ -2587,7 +2587,7 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Computer services","VNM",,,,"STRI2025",5.560861,-5.267919,0
 "Telecommunication","VNM",,,,"STRI2025",0,2.7754,0
 "Broadcasting","VNM",,,,"STRI2025",0,0,0
-"Motion pictures","VNM",,,,"STRI2025",0,-1.519579,0
+"Motion pictures","VNM",,,,"STRI2025",0,-1.585366,0
 "Sound recording","VNM",,,,"STRI2025",0,0,0
 "Logistics and related services","VNM",,,,"STRI2025",,,
 "Air transport","VNM",,,,"STRI2025",-.8522108,-10.75631,0
@@ -2612,9 +2612,9 @@ Sector_name,Country_here,d2014_2019,d2019_2023,d2023_2024,Grid,d2014_2018,d2018_
 "Digital network","ZAF",,,,"STRI2025",,,
 "Computer services","ZAF",,,,"STRI2025",13.18488,0,0
 "Telecommunication","ZAF",,,,"STRI2025",-5.126999,0,0
-"Broadcasting","ZAF",,,,"STRI2025",2.688169,0,0
-"Motion pictures","ZAF",,,,"STRI2025",9.306129,0,0
-"Sound recording","ZAF",,,,"STRI2025",6.165417,0,0
+"Broadcasting","ZAF",,,,"STRI2025",2.688171,0,0
+"Motion pictures","ZAF",,,,"STRI2025",9.306125,0,0
+"Sound recording","ZAF",,,,"STRI2025",6.165406,0,0
 "Logistics and related services","ZAF",,,,"STRI2025",,,
 "Air transport","ZAF",,,,"STRI2025",1.160608,0,0
 "Maritime transport","ZAF",,,,"STRI2025",1.950351,0,0
